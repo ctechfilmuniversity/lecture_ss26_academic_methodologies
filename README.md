@@ -1,1 +1,1 @@
-# lecture_ss26_academic_methodologies
+[https://ctechfilmuniversity.github.io/lecture_ss26_academic_methodologies/](https://ctechfilmuniversity.github.io/lecture_ss26_academic_methodologies/)
