@@ -62,15 +62,15 @@ The paper, the reviews and exercises are homework.
 | Session | Title                             | Paper             |
 | ------- | --------------------------------- | ----------------- |
 | 09.04.  | Conference Simulation             |                   |
-|         | Anatomy of a Paper                | Storyline         |
+|         | Anatomy of a Paper                |                   |
 | 16.04.  | Research Questions, Literature    |                   |
-| 30.04.  | Research                          |                   |
-| 07.05.  | Reasoning & Methods               | Research Question |
-| 21.05.  | Qualitative Research              | Methodology       |
-| 28.05.  | Experiments & Statistics          | Abstract          |
+| 30.04.  | Research                          | Storyline         |
+| 07.05.  | Reasoning & Methods               |                   |
+| 21.05.  | Qualitative Research              |                   |
+| 28.05.  | Experiments & Statistics          | Research Question |
 | 04.06.  | Argumentation & Artistic Research |                   |
-| 11.06.  | Writing I                         |                   |
-| 18.06.  | Writing II,                       |                   |
+| 11.06.  | Writing I                         | Methodology       |
+| 18.06.  | Writing II                        | Abstract          |
 | 25.06.  | Publishing                        |                   |
 | 02.07.  | Wrap-up                           |                   |
 
