@@ -12,6 +12,10 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 ## Sessions
 
 * [Session 01](./01_introduction/README.md)
+
+
+<!-- 
+
 * [Session 02](./02_questions/README.md)
 * [Session 03](./03_research/README.md)
 * [Session 04](./04_reasoning/README.md)
@@ -21,3 +25,4 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 * [Session 08](./08_writing/README.md)
 * [Session 09](./09_wrapup/README.md)
 
+ -->

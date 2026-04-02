@@ -13,6 +13,9 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 ## Slides
 
 * [Lecture 01](am_01_slides.html)
+
+
+<!-- 
 * [Lecture 02](am_02_slides.html)
 * [Lecture 03](am_03_slides.html)
 * [Lecture 04](am_04_slides.html)
@@ -21,4 +24,4 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 * [Lecture 07](./am_07_slides.pdf)
 * [Lecture 08](./am_08_slides.html)
 * [Lecture 09](./am_09_slides.html)
-  
+   -->
