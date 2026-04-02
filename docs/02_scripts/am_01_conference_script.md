@@ -48,7 +48,7 @@ You can write about any topic of your choice within the field of Creative Techno
 
 You are allowed to use any tool you want. However, reflect on when it makes sense to utilize a tool and when not. Within the class you should learn academic thinking, work and writing and not only how to use ChatGPT.
 
-> I personally recommend that in this class you stay away from any AI writing help for now.
+> I personally recommend that in this class you stay away from any AI writing help.
 
 ### Format
 
@@ -63,13 +63,20 @@ The paper must follow the format guidelines otherwise it is not accepted.
 ### Submission
 
 * You only submit a pdf version of your paper.
-* Submissions will be made electronically through the [EasyChair submission system](https://easychair.org/conferences?conf=acsfub2025). The submission is open now.
+* Submissions will be made electronically through the EasyChair submission system (*link to be added*). The submission is open now.
 * Submissions are anonymous. DO NOT INCLUDE YOUR NAME IN THE SUBMITTED PAPER PDF.
-* Submissions are only accepted as pdf from the given [LaTeX template](../01_sessions/01_introduction/acsfubPublStyle_2025.zip).
-    * The template is a stripped down version of the original conference template of the [Eurographics](https://eg25.cs.ucl.ac.uk/main/home.html) conference, with this [original submission template](../01_sessions/01_introduction/egPublStyle-EG-full-star-short-edu-tut-posters-2019.zip). This specific template is fairly complex but it will be a good (and realistic) exercise for you to work with this template.
-    * **If you have no experience with working with LaTeX make sure to plan in enough time to get accustomed to the system.** One very convenient tool for working with LaTeX is the online environment [OverLeaf](https://www.overleaf.com/).
-    * If you know LaTeX feel free to add packages and commands to the template. However make sure that you always adhere to the predefined layout. 
-    * Here can find an Eurographics [exemplary short paper](https://www.dfki.de/fileadmin/user_upload/import/10356_009-012.pdf) (randomly chosen for demonstrating the layout).
+* Submissions are only accepted as pdf from the given template (*link to be added*).
+
+
+<!-- 
+  
+* The template is a stripped down version of the original conference template of the [Eurographics](https://eg25.cs.ucl.ac.uk/main/home.html) conference, with this [original submission template](../01_sessions/01_introduction/egPublStyle-EG-full-star-short-edu-tut-posters-2019.zip). This specific template is fairly complex but it will be a good (and realistic) exercise for you to work with this template.
+* **If you have no experience with working with LaTeX make sure to plan in enough time to get accustomed to the system.** One very convenient tool for working with LaTeX is the online environment [OverLeaf](https://www.overleaf.com/).
+* If you know LaTeX feel free to add packages and commands to the template. However make sure that you always adhere to the predefined layout. 
+* Here can find an Eurographics [exemplary short paper](https://www.dfki.de/fileadmin/user_upload/import/10356_009-012.pdf) (randomly chosen for demonstrating the layout). 
+  
+
+-->
 
 
 ## Reviews
@@ -79,7 +86,9 @@ The paper must follow the format guidelines otherwise it is not accepted.
 * You will receive at least two reviews for your paper
 * You will write two reviews for other papers
 * Reviews will be made electronically through the EasyChair system. You will be notified by email once the review forms are available to you and you can start the review.
-* You are required to use the review template given in the EasyChair system.
+* You are required to use the review template given in the EasyChair system (*link to be added*).
+
+<!-- 
     * You will give grades from 0 to 9 and written comments.
     * Categories
         * Originality
@@ -87,7 +96,9 @@ The paper must follow the format guidelines otherwise it is not accepted.
         * Technical and/or methodological soundness
         * Importance, utility
         * Completeness of references
-        * Best paper award
+        * Best paper award 
+
+-->
 
 The reviews might give revisions and these must be considered in the final camera-ready version. Only the camera-ready version of your paper includes your name.
 
@@ -99,18 +110,9 @@ The reviews might give revisions and these must be considered in the final camer
 ### Presentation Schedule
 
 
-| Time            | Presenter                      | Topic                                                                                                                 |
-| --------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| 16.10.25. 10:00 | Gorm Labenz                    | Adaptive façade-tilted bird’s-eye view                                                                                |
-| 16.10.25. 10:40 | Aydin Thill                    | Fallacy Classification on the MAFALDA Benchmark with GPT-4o: An Evaluation of Chain-of-Thought and Few-Shot Prompting |
-| 16.10.25. 11:20 | Sophie Bunge                   | Subtextual Intelligence: Enhancing Emotional Intelligence for Text-based Chatbots using Stanislavski’s acting theory  |
-| 16.10.25. 13:00 | David Leonardo Pirazan Palomar | The Ceiba tree: An expansive blossoming of dramaturgical structures for audiovisual expression.                       |
-| 16.10.25. 13:40 | Marta Tung Tung Pang           | Formal versus Informal Mindfulness Practice: Exploring the Technological Gap and Future Research Directions           |
-| 16.10.25. 14:40 | Philip Gerdes                  | Towards On-Device Continual Learning: A Pipeline for Generating Spatial Coordinate Datasets from Text Embeddings      |
-| 16.10.25. 15:30 | Galina Angelova                | Computational Birdsong Analysis: From Biological Foundations to Current Methods                                       |
-| 17.10.25. 10:00 | Aljoša Dakić                   | Repurposing Lighting Console Effect Engines as Parameter Sources for TouchDesigner Visuals                            |
-| 17.10.25. 10:40 | Joel Schäfer                   | TD-ML: A Machine Learning Toolkit for Real-Time Audiovisual Performance and Installation                              |
-| 17.10.25. 11:20 | Imogen Drews                   | Slow by Design: Exploring How Museum Apps Can Cultivate Sustained Attention                                           |
+| Time | Presenter | Topic |
+| ---- | --------- | ----- |
+|      |           |       |
 
 
 
@@ -118,11 +120,11 @@ The reviews might give revisions and these must be considered in the final camer
 
 All deadlines (all dates 20:00 GMT) are hard. Late submissions are not accepted.
 
-* 08.09.25: Abstract Due
-* 12.09.25: Paper Due
-* 15.09.25: Review Start
-* 30.09.25: Review Due
-* 04.10.25: Author Notification
-* 16. & 17.10.25: Conference
+* 01.07.26: Submission opens
+* 25.09.26: Abstract Due
+* 30.09.26: Paper Due
+* 02.10.26: Review Start
+* 16.10.26: Review Due
+* tba: Author Notification
+* tba: Conference
   
-

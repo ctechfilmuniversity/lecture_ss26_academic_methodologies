@@ -64,9 +64,11 @@ The paper, the reviews and exercises are homework.
 | 09.04.  | Conference Simulation             |                   |
 |         | Anatomy of a Paper                |                   |
 | 16.04.  | Research Questions, Literature    |                   |
+| 23.04.  | NO CLASS                          |                   |
 | 30.04.  | Research                          | Storyline         |
 | 07.05.  | Reasoning & Methods               |                   |
-| 21.05.  | Qualitative Research              |                   |
+| 14.05.  | Qualitative Research              |                   |
+| 21.05.  | Hands-on: Research Questions      |                   |
 | 28.05.  | Experiments & Statistics          | Research Question |
 | 04.06.  | Argumentation & Artistic Research |                   |
 | 11.06.  | Writing I                         | Methodology       |

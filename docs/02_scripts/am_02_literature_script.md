@@ -32,7 +32,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 The review of literature plays a major role for any research project. Remember, research is about *novelty* and *relevance* and both factors you can proof for your work by referring to the suitable related work. This is a difficult balancing act, as on the one hand you want to cite as many and as important literature of the same topic as yours as possible to show that your work is relevant. On the other hand you want to show that all these references are not doing what you are doing and that you are adding novelty to the state of the art with your project.
 
-![literature_03](img/08/literature_03.png)  
+![literature_03](img/literature/literature_03.png)  
 [[phdcomics]](http://phdcomics.com/comics.php?f=1821)
 
 The use of literature of course also depends on the discipline. In text-based humanities research such as philosophy, researchers usually write books as they need a lot of text to elaborate a line of argumentation. Here, other books are the related work. In the natural sciences and computer science, for example, research is communicated through much shorter articles, called *papers*. Hence, also papers are here the relevant literature. In these disciplines you usually only refer to books for fundamental theories and approaches, not for novel insights in research. The system of papers has also something to do with the duration it takes to publish a book vs. a paper. In computer science, once a book is finally published, the technology might have already changed.
@@ -43,7 +43,7 @@ The aspect that there are just so many relevant papers out there also leads to t
 
 For now, there is really no easy solution to handling the at times overwhelming related work. But you will get used to it. Just accept the fact that you can not read all the relevant papers and trust yourself that you are reading and knowing relevant ones. And if not, then what happens? Luckily, if we make mistakes no plane crashes, no patient dies, no economy goes down... good for us. Also, if you make research and writing papers your profession you will eventually come to a state that within a very tiny topic area you do know all the relevant related work as most of it is your own work 😁. 
 
-![literature_07](img/08/literature_07.png)  
+![literature_07](img/literature/literature_07.png)  
 [[phdcomics]](https://researchguides.smu.edu.sg/c.php?g=421745&p=6436277)
 
 *On a side note*: In regard to the term *related work*, when is it *work*, when *works*? This depends on the context of the writing in question. If you want to pluralize work to works it should be in the case of referring to the body of work as multiple discrete items (e.g. works of art). Examples:
@@ -87,7 +87,7 @@ You can base your search for related work on
 
 The list above goes approximately from the most narrow search strategy to a broad overview.
 
-![literature_06](img/08/literature_06.png)  
+![literature_06](img/literature/literature_06.png)  
 [[phdcomics]](http://phdcomics.com/comics/archive.php?comicid=286)
 
 ## Where to Search?
@@ -128,7 +128,7 @@ A personal paper collection site (mainly for computer graphics topics), which is
 
 You will need some collection strategies for avoiding to fall into the rabbit whole that is searching for papers. This is potentially a task that can steal you a lot of time without any meaningful outcome (*but it is all soo interesting...* 🙄).
 
-![literature_01](img/08/literature_01.jpg)  
+![literature_01](img/literature/literature_01.jpg)  
 [[theshirtlist]](https://www.theshirtlist.com/down-the-rabbit-hole-t-shirt-2/)
 
 Once again, you will need to come up with your own style here on how to collect papers. Some of my recommendations are:
@@ -154,7 +154,7 @@ What I usually do, when encountering a potentially relevant paper, is to
 
 The more decisions you make about the paper right away (whether to save, read, read first, tags,... ?), the more time you save later on, when you have to once again remember what the paper was about and whether you should read it.
 
-![literature_02](img/08/literature_02.gif)  
+![literature_02](img/literature/literature_02.gif)  
 [[phdcomics]](http://phdcomics.com/comics.php?f=1901)
 
 ## Reading Strategies
@@ -200,7 +200,7 @@ There are several tools designed for the work with related work, specifically wi
 
 What I noticed is that I can remember a paper much better with an image than by its title. Hence I usually save one representative preview image, e.g. from their teaser, for each paper.
 
-It is really up to you which tool or setup to use. I could also imagine that there are more novel web-based tools out there. I recommend against downloading every single paper pdf. But of course, you will need some form of copy of a paper, if you want to annotate a paper. However, I had at times an unmanageable amount of pdf files on my machine and had outsource their storage. But that was also back in the day, when we had less storage... 👵🏼. Also, I would like to encourage you not to print out the papers but to get used to reading and annotating them on a screen. I printed out so many papers that I never actually read - what a waste! Please don't repeat this bad behavior. The only thing good about this, was the feeling of throwing all my papers physically into the trash, once I had completed my phd.
+It is really up to you which tool or setup to use. I could also imagine that there are more novel web-based tools out there. I recommend against downloading every single paper pdf. But of course, you will need some form of copy of a paper, if you want to annotate a paper. However, I had at times an unmanageable amount of pdf files on my machine and had to outsource their storage. But that was also back in the day, when we had less storage... 👵🏼. Also, I would like to encourage you not to print out the papers but to get used to reading and annotating them on a screen. I printed out so many papers that I never actually read - what a waste! Please don't repeat this bad behavior. The only thing good about this, was the feeling of throwing all my papers physically into the trash, once I had completed my phd.
 
 Whatever tool you chose, make a choice early on!
 
@@ -220,24 +220,24 @@ To write a STAR you should start with the topic and some ideas what your contrib
 
 A classification example from *A Survey on Procedural Modeling for Virtual Worlds* [[Smelik et al. 2014](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12276)]:
 
-![star_01](img/08/star_01.png)  
+![star_01](img/literature/star_01.png)  
 
 A classification example from *State of the Art in Artistic Editing of Appearance, Lighting, and Material* ([Schmidt et al. 2016](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12721)):
 
-![star_02](img/08/star_02.png)  
+![star_02](img/literature/star_02.png)  
 
 <!-- These are based on their specifically defined interaction paradigms:
 
-![star_03a](img/08/star_03a.png) ![star_03b](img/08/star_03b.png) -->
+![star_03a](img/literature/star_03a.png) ![star_03b](img/literature/star_03b.png) -->
 
 
 A taxonomy example from *State of the “Art”: A Taxonomy of Artistic Stylization Techniques for Images and Video* [[Kyprianidis et al. 2013](https://ieeexplore.ieee.org/document/6243138)]:
 
-![star_05](img/08/star_05.png)  
+![star_05](img/literature/star_05.png)  
 
 In this paper also a timeline is given:
 
-![star_04](img/08/star_04.png)  
+![star_04](img/literature/star_04.png)  
 
 Or, more recently, from yours, truly 😎: *A Survey of Control Mechanisms for Creative Pattern Generation* [[Gieseke at al. 2021]](https://diglib.eg.org/handle/10.1111/cgf142658)
 

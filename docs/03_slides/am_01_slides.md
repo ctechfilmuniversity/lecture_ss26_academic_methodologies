@@ -27,7 +27,7 @@ layout: false
 
 
 ???
-.task[COMMENT:]  
+  
 
 * Adam Savage is an American special effects designer, actor, educator, and television personality. He is best known as the co-host of the popular television series "MythBusters," which aired on the Discovery Channel from 2003 to 2016. Alongside Jamie Hyneman, Savage tested the validity of various myths, urban legends, and popular misconceptions through scientific methods and experimentation.
 
@@ -66,10 +66,10 @@ Fokus: Your Paper!
 * Experiments           
 * Statistics            
 * Qualitative Research  
+* Artistic Research
 * Academic Publishing   
 * Academic Careers      
 
-New: Artistic Research, Media Studies
 ]
 
 ---
@@ -107,12 +107,12 @@ template:inverse
 
 
 ???
-.task[COMMENT:]  
+  
 
 * The overall goal of this lecture is to help you to conduct your own research projects. Please keep in mind that we will start small with your projects and papers. 
 
 ---
-## ACS FUB 2025
+## ACS FUB 2026
 
 --
 * Practical exercise for academic writing (your master thesis)
@@ -141,18 +141,18 @@ The simulation includes
 * A best paper award
 
 ---
-.header[ACS FUB 2025]
+.header[ACS FUB 2026]
 
 ## The Paper
 
 --
-* Must adhere to an academic format
-    * E.g. introduction, contributions, related work, problem statement, solution, future work)
+* Adhere to an academic format
+    * E.g. introduction, contributions, related work, problem statement, solution, future work
 --
-* Must tell an "academic story"
+* Tell an *academic story*
 
 ---
-.header[ACS FUB 2025 | The Paper]
+.header[ACS FUB 2026 | The Paper]
 
 ## Topic
 
@@ -167,18 +167,18 @@ The simulation includes
 
 
 ???
-.task[COMMENT:]  
+  
 
 * I highly recommend to try to come up with a topic in the context of your 1st term project as you have already put in a lot of thought and effort into it and it might have a greater chance of publication with an accompanying practical implementation. There are plenty of more practical and / or artistic oriented venues.
 
 --
-    * The paper must include a substantial amount of original writing
+    * **The paper must include a substantial amount of original writing**
     * You can not re-use a short-paper
     * You can not re-use something that is already published
 
 
 ---
-.header[ACS FUB 2025 | The Paper]
+.header[ACS FUB 2026 | The Paper]
 
 ## ChatGPT & Co.
 
@@ -195,7 +195,7 @@ The simulation includes
 
 
 ---
-.header[ACS FUB 2025 | The Paper]
+.header[ACS FUB 2026 | The Paper]
 
 ## Format
 
@@ -205,7 +205,7 @@ The paper must follow the format guidelines otherwise it is not accepted.
 * 4-6 pages (without references)
 * In English
 * Abstract of <= 1000 characters
-* Written with the given LaTeX Template
+* Written with the given template
 
 --
 
@@ -216,12 +216,12 @@ Submission
 
 
 ???
-.task[COMMENT:]  
+  
 
-* https://easychair.org/conferences/submissions?a=26977916
+* https://easychair.org
 
 ---
-.header[ACS FUB 2025]
+.header[ACS FUB 2026]
 
 ## Reviews
 
@@ -238,7 +238,7 @@ Submission
 * If there are revision requests, these must be worked in for the final version of the paper
 
 ---
-.header[ACS FUB 2025]
+.header[ACS FUB 2026]
 
 ## Reviews
 
@@ -251,7 +251,7 @@ Submission
 
 
 ---
-.header[ACS FUB 2025]
+.header[ACS FUB 2026]
 
 ## Deadlines
 
@@ -259,14 +259,19 @@ Submission
 All deadlines (all dates 20:00 GMT) are hard. Late submissions are not accepted.
 
 --
-* 08.09.25: Abstract Due
-* 12.09.25: Paper Due
-* 15.09.25: Review Start
-* 30.09.25: Review Due
+* 01.07.26: Submission opens
+* 25.09.26: Abstract Due
+* 30.09.26: Paper Due
+* 02.10.26: Review Start
+* 16.10.26: Review Due
 * tba: Author Notification
 * tba: Conference
 
---
+
+---
+.header[ACS FUB 2026]
+
+## Deadlines
 
 Unfortunately deadline extensions due to illness will be difficult. If you get sick close to the deadline, please get in touch with me asap.
 
@@ -278,9 +283,9 @@ template: inverse
 
 
 ???
-.task[COMMENT:]  
+  
 
-* [text](https://github.com/ctechfilmuniversity/lecture_ss25_academic_methodologies)
+* [Course Website](https://github.com/ctechfilmuniversity/lecture_ss26_academic_methodologies)
 
 ---
 template: inverse
@@ -345,7 +350,7 @@ You will need to answer questions, such as:
 
 
 ???
-.task[COMMENT:]  
+  
 
 * Consideration of these aspects constitute a research methodology. Ideally, you are able to answer these questions before you start your actual research work.
 
@@ -394,7 +399,7 @@ You can understand the leitmotif as guide for building a *narrative flow*.
 You are telling the story about your idea, everything in the paper must serve the storyline.
 
 ???
-.task[COMMENT:]  
+  
 
 * You want to infect the mind of your reader with your idea and for that you need to come up with *this one shiny idea*, which can be different from the contributions. Make sure the reader knows what the idea is and make the reader care about your idea, e.g. by clearly pointing out that the paper will generate a *reusable insight*, which will be useful to the reader. Try to give the readers something they didn’t have before. 
 
@@ -417,7 +422,7 @@ You can understand the leitmotif as guide for building a *narrative flow*.
 Everything in the paper must serve the storyline.
 
 ???
-.task[COMMENT:]  
+  
 
 * You want to infect the mind of your reader with your idea and for that you need to come up with *this one shiny idea*, which can be different from the contributions. Make sure the reader knows what the idea is and make the reader care about your idea, e.g. by clearly pointing out that the paper will generate a *reusable insight*, which will be useful to the reader. Try to give the readers something they didn’t have before. 
 
@@ -438,7 +443,7 @@ template:inverse
 
 
 ???
-.task[COMMENT:]  
+  
 
 * Any academic writing follows overall this structure:
 
@@ -467,7 +472,7 @@ The structure of a paper is as follows:
 * Main Content
 
 ???
-.task[COMMENT:]  
+  
 
 * Algorithm, Setup, Study, etc.
 * Results
@@ -485,7 +490,7 @@ The structure of a paper is as follows:
 
 
 ???
-.task[COMMENT:]  
+  
 
 * In the context of computer science almost all paper follow the same structure, with minor differences in the structure of subsections and in the specific section titles.
 
@@ -619,7 +624,7 @@ Never make other people’s work look bad!
 
 
 ???
-.task[COMMENT:]  
+  
 
 * With this section you need to clearly distinguish your work and answer the question of how you are different from everybody else. At the same time the related work is not about describing your own work. It is once again a balancing act to compare your work and make it stand out without really getting into the details of your approach.
 * The standard within most research communities is to never make other people’s work look bad. You never openly criticize a paper in your related work section even if you might think the other paper is rubbish. Critical discussions usually happen during conferences in person. Equally, it is common practice to be quite generous in your statements. Giving credit to others will not diminish your contributions and it might help to show the relevance of your work. It is common to say something like “In the inspiring paper…”, for example.
@@ -662,7 +667,7 @@ The goal is to provide evidence for your claims!
   
 
 ???
-.task[COMMENT:]  
+  
 
 * The main content must provide all evidence for your claims. Make sure the overall idea of your project is completely clear before going into details. For the structure of the sections do not recapitulate your personal journey of discovery. The report order is usually different from the order of the investigation. Choose the most direct route to the idea. 
 
@@ -682,7 +687,7 @@ In one form or the other the main content must include:
 * Theory
 
 ???
-.task[COMMENT:]  
+  
 
 * Describe the underlying theory of techniques or the system.
 * Where appropriate, use a mathematical style of definitions, theorems, …
@@ -691,7 +696,7 @@ In one form or the other the main content must include:
 * Specifications
 
 ???
-.task[COMMENT:]  
+  
 
 * Formally specify techniques that underlie the implementation.
 * State the *requirements* of the implementation. Are there any constraints for it to work?
@@ -701,7 +706,7 @@ In one form or the other the main content must include:
 * Implementation / Method / Case Study / ...
 
 ???
-.task[COMMENT:]  
+  
 
 * Consider a figure for the pipeline/method.
 * Describe only the final state of the implementation.
@@ -724,7 +729,7 @@ Overall treat the main content as if explaining your work with a whiteboard.
 
 
 ???
-.task[COMMENT:]  
+  
 
 * Conveying an intuition is primary and once the readers have the intuition, they can follow the details. Of course, you can use formalisms and formulas but don’t hide behind it. Carefully balance between showing that you know stuff and being pompous. Don't forget to introduce notations and terminologies first wherever required.
 
@@ -788,7 +793,7 @@ As detailed and openly as possible, you should have nothing to hide.
 
 
 ???
-.task[COMMENT:]  
+  
 
 * The discussion is usually the hardest to write as you need to generated insights that go beyond the execution of your research project. This might not come naturally and needs a lot of brain power. A good start to discussing your work is to try to anticipate what reviewers/advisors might say and answer to that. Explain or mention everything that is noticeable in your results and evaluations. Are there any outliers, strange behaviors, etc.? Is the evaluation correct?
 
@@ -803,7 +808,7 @@ Might already start to zoom out by discussing how the presented work is generali
 
 
 ???
-.task[COMMENT:]  
+  
 
 * and what its different applications are. Here, you can also describe what overall impact the project might have.
 
@@ -832,7 +837,7 @@ Do not state anything you want to write the next paper about.
 
 
 ???
-.task[COMMENT:]  
+  
 
 * The future work section is somewhat flexible. You should include it but it can also be integrated into the discussion or even conclusion. Sometimes this section is also called outlook. Again, try to anticipate what reviewers might say, e.g. "why didn't you try/do...?" and here you can brush that of as describing it as next step.
 * Overall think about which improvements are possible and how to generalize the work. Do not however state to clearly anything you want to write the next paper about as then other researchers might do it for you...
@@ -920,7 +925,7 @@ template:inverse
 
 
 ???
-.task[COMMENT:]  
+  
 
 * Description
     * What is the case? 
@@ -955,7 +960,7 @@ template:inverse
 
 
 ???
-.task[COMMENT:]  
+  
 
 <img src="../02_scripts/img/hci/research_question_03.png" alt="research_question_03" style="width:100%;">
 
@@ -1022,7 +1027,7 @@ In my experience, the most common problems with student papers are:
 
 
 ???
-.task[COMMENT:]  
+  
 
 *  Unfocused and too broad: What are the effects of childhood obesity in the United States?
 This question is so broad that research methodology would be very difficult. 
@@ -1051,7 +1056,7 @@ template:inverse
 # Literature
 
 ???
-.task[COMMENT:]  
+  
 
 
 * Searching
@@ -1080,7 +1085,7 @@ template:inverse
 
 
 ???
-.task[COMMENT:]  
+  
 
 * Search for "alternatives for google scholar", e.g. with Research Gate coming up.
 
@@ -1201,7 +1206,7 @@ HCI / Computer Science (all content is of fairly high quality):
 
 
 ???
-.task[COMMENT:]  
+  
 
 * Set yourself a time frame, otherwise hours over hours might just pass by.
 * Decide on the type of serach you want to do: narrow vs. broad. What is it you want to archive with this search? Get an overview? Get specific related work for an algorithm?
@@ -1239,7 +1244,7 @@ HCI / Computer Science (all content is of fairly high quality):
 > The more decisions you make about the reference right away, the more time you save later on.
 
 ???
-.task[COMMENT:]  
+  
 
 * The more decisions you make about the paper right away (whether to save, read, read first, tags,... ?), the more time you save later on, when you have to once again remember what the paper was about and whether you should read it.
 
@@ -1257,10 +1262,10 @@ A lot is happening - this script is probably out of date!
 ---
 .header[Literature | Management Tools]
 
-## [unriddle](https://www.unriddle.ai/)
+## [Anara](https://anara.com/)
 
 .center[<img src="../02_scripts/img/literature/management_01.png" alt="management_01" style="width:70%;">  
-.imgref[[[unriddle]](https://www.unriddle.ai/)]]
+.imgref[[[Anara]](https://anara.com/)]]
 
 
 
@@ -1275,7 +1280,7 @@ For this also reading lists in a literature management tools can be helpful.
 
 
 ???
-.task[COMMENT:]  
+  
 
 * Reading many papers makes you a better researcher
 * Also across topics
@@ -1301,7 +1306,7 @@ Read with intention
 
 
 ???
-.task[COMMENT:]  
+  
 
 * Homework readings
 
