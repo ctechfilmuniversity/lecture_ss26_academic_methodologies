@@ -10,16 +10,8 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 ## Session 01 - Introduction
 
-<!-- Reading the scripts and preparing questions should take < 2h. If you need longer, please let me know next class. -->
+This exercise should take < 2h. If you need significantly longer, please let me know next class.
 
-* [Session 01 - Introduction](#session-01---introduction)
-* [Topics and Syllabus](#topics-and-syllabus)
-* [ACS FUB 2026](#acs-fub-2026)
-* [Literature](#literature)
-    * [Task 01.01 - Working With Literature](#task-0101---working-with-literature)
-* [Your Paper](#your-paper)
-    * [Task 01.02 - Topic Brainstorming](#task-0102---topic-brainstorming)
-    * [Task 01.03 - Topic Selection](#task-0103---topic-selection)
 
 
 ## Topics and Syllabus
