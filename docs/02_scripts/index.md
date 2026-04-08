@@ -13,7 +13,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 ## Scripts
 
 * [Chapter 01 - ACS FUB](am_01_conference_script.md)
-    * [List of Abstracts WS19-24](am_abstracts.md)
+    * [List of Abstracts WS19-25](am_abstracts.md)
 * [Chapter 02 - Working With Literature](am_02_literature_script.md)
 
 <!-- 
