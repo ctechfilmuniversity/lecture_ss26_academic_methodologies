@@ -18,7 +18,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
     * [Introduction](#introduction)
     * [The Paper](#the-paper)
         * [Topic](#topic)
-        * [ChatGPT \& Co.](#chatgpt--co)
+        * [AI Tools](#ai-tools)
         * [Format](#format)
         * [Submission](#submission)
     * [Reviews](#reviews)
@@ -44,11 +44,17 @@ The paper must adhere to an academic format (e.g. introduction, contributions, r
 You can write about any topic of your choice within the field of Creative Technologies. Research questions can for example relate to your 1st term project or Bachelor thesis. The research itself does not need to be a new task. I highly recommend to try to come up with a topic in the context of your 1st term project as you have already put in a lot of thought and effort into it and it might have a greater chance of publication with an accompanying practical implementation. There are plenty of more practical and / or artistic oriented venues.
 
 
-### ChatGPT & Co.
+### AI Tools
 
-You are allowed to use any tool you want. However, reflect on when it makes sense to utilize a tool and when not. Within the class you should learn academic thinking, work and writing and not only how to use ChatGPT.
+You are allowed to use any tool you want but must document your usage (which tool, including its version was used for what?) in the Acknowledgement Section of the paper. 
+  
+However, reflect on when it makes sense to utilize a tool and when not. Within the class you should learn academic thinking and writing (and not "*how to use an AI tool*"). 
 
-> I personally recommend that in this class you stay away from any AI writing help.
+Also, in academic contexts, the use of AI Tools gets more more strictly regulated. For example, the [EuroVis conference](https://eurovis.org.uk/author-guidelines/) has the following rule for paper authors:
+
+> **Generative AI tools may not be used to generate scientific content or text.** Limited use for grammar correction, language polishing, or rephrasing is permitted, but must be acknowledged in the Acknowledgement Section of the paper with a clear description of purpose and manner of use (e.g., “We used [tool name] solely for grammar correction and language polishing.”).
+
+For this class, I personally recommend that you stay away from any AI help. This will be hard but a valuable and maybe even necessary learning experience. 
 
 ### Format
 

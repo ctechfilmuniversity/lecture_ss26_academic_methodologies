@@ -26,9 +26,9 @@ Recap [Chapter 01 - ACS FUB 2026](../../02_scripts/am_01_conference_script.md) a
 
 ## Literature
 
-* Read [Chapter 02 - Working With Literature](../../02_scripts/am_02_literature_script.md)
 * Read [How to Read a CS Research Paper?](./fong_2004_htr.pdf)
 * Read [How to Read a Paper](./keshav_2016_htr.pdf)
+* Recap the script [Chapter 02 - Working With Literature](../../02_scripts/am_02_literature_script.md)
 
 
 ### Task 01.01 - Working With Literature
@@ -50,19 +50,18 @@ I recommend brainstorming for 20 minutes and writing down whatever comes to your
 
 ### Task 01.03 - Topic Selection
 
-From your brainstorming output select three topics that you want to consider for your paper. Further, think about them, e.g. 
+From your brainstorming output, select three topics that you want to consider for your paper. Dive a bit deeper into each topic, e.g. 
 
 * What specifically interests you within that topic? 
 * What further characteristics does the topic have? 
 * What questions could you ask about that topic? 
-* How could you solve those questions? 
 
 
-For this task, you must submit three topics, even if you have already chosen a topic for your paper. Briefly explain your choices.
+For this task, you must submit three topics (even if you have already chosen a topic for your paper). Briefly explain your choices.
   
   
 
-*Submission:* Your selection of topics and the motivation for them.
+*Submission:* Your selection of topics and a brief motivation for each selection.
 
 ---
   

@@ -75,6 +75,8 @@ Fokus: Your Paper!
 ---
 ## Topics
 
+The requirement for a Creative Technologies academic Master thesis:
+
 > The ability to conceptualize and contextualize discourse, critical reflection and academic work.
 
 
@@ -154,13 +156,13 @@ The simulation includes
 ---
 .header[ACS FUB 2026 | The Paper]
 
-## Topic
+## Possible Topics
 
 --
 * Any topic of your choice within the field of Creative Technologies
 
 --
-* The research itself does not need to be a new task
+* The research itself does not need to be new
 
 --
 * The paper can relate to your 1st term project, Bachelor thesis, or any other already existing project
@@ -180,18 +182,36 @@ The simulation includes
 ---
 .header[ACS FUB 2026 | The Paper]
 
-## ChatGPT & Co.
+## AI Tools
+
+--
 
 * You are allowed to use any tool you want
+
+--
+
+* You must document your usage in the Acknowledgement Section of the paper 
+
+???
+
+You are allowed to use any tool you want but must document your usage (which tool, including its version was used for what?) in the Acknowledgement Section of the paper. 
+  
+However, reflect on when it makes sense to utilize a tool and when not. Within the class you should learn academic thinking and writing (and not "*how to use an AI tool*"). 
+
+Also, in academic contexts, the use of AI Tools gets more more strictly regulated. For example, the [EuroVis conference](https://eurovis.org.uk/author-guidelines/) has the following rule for paper authors:
+
+> **Generative AI tools may not be used to generate scientific content or text.** Limited use for grammar correction, language polishing, or rephrasing is permitted, but must be acknowledged in the Acknowledgement Section of the paper with a clear description of purpose and manner of use (e.g., “We used [tool name] solely for grammar correction and language polishing.”).
+
+
 
 --
 
 > What do you want to learn with this class? 
   
 
-
 ???
-* I personally recommend that in this class you stay away from any AI writing help for now.
+For this class, I personally recommend that you stay away from any AI help. This will be hard but a valuable and maybe even necessary learning experience. 
+
 
 
 ---
@@ -232,7 +252,7 @@ Submission
 * Reviews evaluate the content but also form and language of your paper
 
 --
-* There will be a review template
+    * There will be a review template
 
 --
 * If there are revision requests, these must be worked in for the final version of the paper
@@ -241,6 +261,14 @@ Submission
 .header[ACS FUB 2026]
 
 ## Reviews
+
+* Overall strength and weaknesses
+* Novelty and usefulness
+* Presentation
+
+???
+
+Please give your overall review of the paper. In particular emphasize its strengths, weaknesses and novelties as well as its fit to Creative Technologies.
 
 * Originality
 * Clarity of presentation
@@ -330,7 +358,7 @@ You will need to answer questions, such as:
 * Why is a particular research study undertaken?
 
 --
-* How did you formulate the research problem?
+* Why is the research problem relevant?
 
 --
 * How are you solving the problem and why is that a suitable approach?
@@ -495,7 +523,20 @@ The structure of a paper is as follows:
 * In the context of computer science almost all paper follow the same structure, with minor differences in the structure of subsections and in the specific section titles.
 
 
+---
+.header[Paper Sections]
 
+## Abstract
+
+> The "trailer" of a paper...
+
+--
+
+* Makes someone decide whether to read the paper or not
+
+???
+
+* A writing problem - we will come back to it!
 
 
 
@@ -613,7 +654,7 @@ In the sciences the related work comes after the introduction.
 * Distinguish your work: **How are you different?**
 
 --
-* Motivate your work: Why is your extension important?
+* Motivate your work: Why is your approach needed?
 
 --
 * Comparison of results
@@ -789,15 +830,20 @@ As detailed and openly as possible, you should have nothing to hide.
 * Is the evaluation correct?
 
 --
-* Anticipate possible questions from the reviewers!
+
+> Anticipate possible questions could come from a critical reader.
 
 
 ???
   
-
+Common problem: Repeating what was already said, e.g. describing your results again
+  
 * The discussion is usually the hardest to write as you need to generated insights that go beyond the execution of your research project. This might not come naturally and needs a lot of brain power. A good start to discussing your work is to try to anticipate what reviewers/advisors might say and answer to that. Explain or mention everything that is noticeable in your results and evaluations. Are there any outliers, strange behaviors, etc.? Is the evaluation correct?
 
 Reflect on the project as detailed and openly as possible - in regard to both, the good and the bad. Ideally you have nothing to hide. Again, no one expects a perfect project and also some drawbacks can give valuable novel insights.
+
+
+
 
 ---
 .header[Paper Sections]
@@ -825,15 +871,20 @@ Might not come naturally, needs a lot of brain power!
 
 ## Future Work / Outlook
 
-Again, try to anticipate what what reviewers might say.
 
 --
 * Which improvements are possible?
 * How to generalize the work?
+* Zoom-Out
+
+???
+  
+Again, try to anticipate what what reviewers might say.
+
   
 --
   
-Do not state anything you want to write the next paper about.
+Do not state anything that you actually want to do next.
 
 
 ???
@@ -877,55 +928,44 @@ template:inverse
 
 
 ---
-## Research Question
+## Where to Start?
 
---
 
-.left-even[
-.center[<img src="../02_scripts/img/hci/research_question_01.png" alt="research_question_01" style="width:100%;">]
+.center[<img src="../02_scripts/img/hci/research_question_01.png" alt="research_question_01" style="width:50%;">]
 
-.footnote[Images left-right: [Chad Flinn](https://malat-webspace.royalroads.ca/rru0054/what-makes-a-good-research-question/), [Indiana Wesleyan Uni](https://indwes.libguides.com/c.php?g=71141&p=458447)]]
+.footnote[Images left-right: [Chad Flinn](https://malat-webspace.royalroads.ca/rru0054/what-makes-a-good-research-question/), [Indiana Wesleyan Uni](https://indwes.libguides.com/c.php?g=71141&p=458447)]
 
---
+---
+## Topic Selection
+
+
+.center[<img src="../02_scripts/img/hci/research_question_01a.png" alt="research_question_01" style="width:50%;">]
+
+.footnote[Images left-right: [Chad Flinn](https://malat-webspace.royalroads.ca/rru0054/what-makes-a-good-research-question/), [Indiana Wesleyan Uni](https://indwes.libguides.com/c.php?g=71141&p=458447)]
+
+???
 
 .right-even[
 .center[<img src="../02_scripts/img/hci/research_question_02.png" alt="research_question_02" style="width:100%;">]]
 
----
-## Research Question
 
 > A question that a research project sets out to answer.  
   
----
-## Research Question
 
 > An academic story that a you set out to tell in a structured manner.  
   
 
-
---
 * Focus on a single problem
-
---
 * As specific and narrow as possible
-
---
 * Complex enough to develop the story over the space of a paper
-
---
 * Feasible to answer within the time-frame and practical constraints
-
-
----
-## Research Question 
 
 > The research question is also the question why you should delight the world with another pile of printed paper.  
   
 .caps[Winter, Wolfgang]. 2005. **Wissenschaftliche Arbeiten schreiben**. 2nd Ed. Frankfurt: Redline Wirtschaft.
 
 
-???
-  
+
 
 * Description
     * What is the case? 
@@ -959,9 +999,6 @@ template:inverse
 
 
 
-???
-  
-
 <img src="../02_scripts/img/hci/research_question_03.png" alt="research_question_03" style="width:100%;">
 
 
@@ -969,14 +1006,10 @@ template:inverse
 * You can never write about everything (that is, the whole problem), but only about one aspect of the problem – i.e., the research question. 
 * It is the aim of your paper to introduce and apply theories, test new methods, interpret sources, etc. 
 
----
-## Research Question
 
  Next, you need to narrow your research aims and make them specific.
   
 
----
-## Research Question
 
 *Describing and exploring*  
 * What are the characteristics of X?
@@ -985,8 +1018,6 @@ template:inverse
 * How does X experience Y?          
 * How has X dealt with Y?           
 
----
-## Research Question
 
 *Explaining and testing*
 
@@ -999,8 +1030,6 @@ template:inverse
 * A concept of X               
 
 
----
-## Research Question
 
 *Evaluating and acting*
 
@@ -1013,16 +1042,12 @@ template:inverse
 
 
 
-
----
-## Research Question
-
 In my experience, the most common problems with student papers are:
 
---
+
 * The question / storyline is **too general**
 
---
+
 * The question includes **poorly defined** aspects
 
 
@@ -1037,17 +1062,15 @@ This question has a very clear focus for which data can be collected, analyzed, 
 
 
 ---
+
 ## Your Paper
 
-1. Find three topics you are interested in
+* Find three topics you are interested in
 
---
+???
 
-.left-even[
-.center[<img src="../02_scripts/img/hci/research_question_01.png" alt="research_question_01" style="width:90%;">]
-
-.footnote[Images left-right: [Chad Flinn](https://malat-webspace.royalroads.ca/rru0054/what-makes-a-good-research-question/), [Indiana Wesleyan Uni](https://indwes.libguides.com/c.php?g=71141&p=458447)]]
-
+If time: brainstorming for 10 minutes?  
+Otherwise as homework
 
 
 ---
@@ -1140,6 +1163,10 @@ HCI / Computer Science (all content is of fairly high quality):
 * Keywords
 
 --
+* Years
+  
+--
+
 * Authors
 
 --
@@ -1149,17 +1176,34 @@ HCI / Computer Science (all content is of fairly high quality):
 * Venues
     * Journals, conferences that fit topic-wise
 
---
-> It is not an accomplishment to find literature. Reading the right one really is!
 
 ---
 .header[Literature]
 
 ## Search Strategies
 
-.center[<img src="../02_scripts/img/literature/literature_01.jpg" alt="literature_01" style="width:40%;">]
-  
-.imgref[[[theshirtlist]](https://www.theshirtlist.com/down-the-rabbit-hole-t-shirt-2/)]
+* Broad vs. deep
+
+--
+
+* Fundamentals vs. recent advancements / novelty
+
+--
+
+* Applied vs. basic
+
+
+
+---
+.header[Literature]
+
+## Search Strategies
+
+> It is not an accomplishment to find literature. Reading the right one really is!
+
+--
+
+.center[<img src="../02_scripts/img/literature/literature_01.jpg" alt="literature_01" style="width:30%;">].imgref[[[theshirtlist]](https://www.theshirtlist.com/down-the-rabbit-hole-t-shirt-2/)]
 
 ---
 .header[Literature]
@@ -1178,9 +1222,7 @@ HCI / Computer Science (all content is of fairly high quality):
 
 .left-even[
 * Set yourself a time frame
-* Decide on the type of search, e.g.
-    * broad vs. deep?
-    * with certain keyword(s)
+* Decide on the search strategy
 ]
 
 ---
@@ -1191,17 +1233,15 @@ HCI / Computer Science (all content is of fairly high quality):
 
 .left-even[
 * Set yourself a time frame
-* Decide on the type of search, e.g.
-    * broad vs. deep?
-    * with certain keyword(s)
+* Decide on the search strategy
 * Be disciplined with the search
+* Have a setup 
 ]
 --
 .right-even[
-* Have a setup 
-    * Which references to save?
-    * How, where and under which name to save?
-    * How to come back to the reference (assign a prioritization)?
+* Which references to save?
+* How, where and under which name to save?
+* How to come back to the reference (assign a prioritization)?
 ]
 
 
@@ -1231,7 +1271,7 @@ HCI / Computer Science (all content is of fairly high quality):
 * Read the abstract
 
 --
-* Look for a list of contributions and if found read them
+* Read the list of contributions (if there)
 
 --
 * Look at the figures one by one and read their captions
@@ -1253,9 +1293,10 @@ HCI / Computer Science (all content is of fairly high quality):
 
 ## Management Tools
 
-A lot is happening - this script is probably out of date!
+.center[<img src="../02_scripts/img/literature/zotero_01.png" alt="zotero_01" style="width:70%;"> .imgref[[[Zotero]](https://www.zotero.org)]]
 
---
+
+???
 
 > Any suggestions?
 
