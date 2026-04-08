@@ -40,7 +40,7 @@ As exercise a full conference will be simulated in all its parts, from submittin
 
 * An academic and systematic approach to solve complex problems.
 * The presentation of concepts, procedures and results in writing.
-* Practical experience in conducting research and publishing a paper.
+* Practical experience in publishing a paper.
 
 ## Time and Place
 
@@ -100,7 +100,7 @@ Materials are structured as follows:
 Unless stated otherwise:
 
 * For each session, there is usually some homework.
-* Some homework assignments have a hard deadline - this is clearly stated in the description of the session. For each day that you submit late, we reduce **10% of the total points**. 
+* Some homework assignments have a hard deadline - this is clearly stated in the description of the session. For each day that you submit late, I reduce **10% of the total points**. 
 * Most homework assignments you can hand in up until **July 31st**. For submissions after the deadline given in the session (but before July 31st), we reduce **15% of the total points**. 
 
 
@@ -108,7 +108,7 @@ Unless stated otherwise:
 
 The requirements to pass the course are
 
-* class participation and / or script summaries,
+* class participation and homework,
 * a written paper,
 * reviews of the assigned papers,
 * a conference presentation, and
@@ -149,7 +149,7 @@ The grading criteria for the presentation are based on
 ## Policies
 
 * **Plagiarism**: You have to follow academic standards for all usage of given text, insights, etc. It is categorically forbidden to outsource work to people outside the course or copy & paste, meaning plagiarize, text without citations. 
-* **Tools and utilities**: You are allowed to use any tools you want, also ChatGPT. Please make sure to utilize such tools for supporting your learning, not for just producing a result. 
+* **Tools and utilities**: You are allowed to use any tools you want, if not otherwise stated. Please make sure to utilize such tools for supporting your learning, not for just producing a result. 
 * **Absences**: you are responsible for what happens in class whether you are here or not. I will not repeat content for you that you have missed because you were not in class.
 * **Participation**: you are invited, encouraged, and expected to engage actively in discussion, reflection and activities. Also, you can exist for a few hours without chatting, texting or emailing on your notebook. I will notice if you don't pay attention and prefer that you only come to class if you are actually participating. 
 * **Recording**: There are no recordings of the classes. No student may record any classroom activity without express written consent from me. If you have a disability such that you think you need to record or tape classroom activities, get in touch with me.

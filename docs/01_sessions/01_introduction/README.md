@@ -28,7 +28,7 @@ Recap [Chapter 01 - ACS FUB 2026](../../02_scripts/am_01_conference_script.md) a
 
 * Read [How to Read a CS Research Paper?](./fong_2004_htr.pdf)
 * Read [How to Read a Paper](./keshav_2016_htr.pdf)
-* Recap the script [Chapter 02 - Working With Literature](../../02_scripts/am_02_literature_script.md)
+* Optional: Read [Chapter 02 - Working With Literature](../../02_scripts/am_02_literature_script.md)
 
 
 ### Task 01.01 - Working With Literature
@@ -44,9 +44,9 @@ Have a look at possible tools and setups to organize your collected papers. Chos
 
 Collect a wide range of potential topics and keywords for your paper. 
 
-I recommend brainstorming for 20 minutes and writing down whatever comes to your mind.
+I recommend brainstorming for 15 minutes and writing down whatever comes to your mind.
 
-*Submission:* Bullet points of your topic ideas.
+*Submission:* Bullet points of all your topic ideas.
 
 ### Task 01.03 - Topic Selection
 
@@ -61,13 +61,26 @@ For this task, you must submit three topics (even if you have already chosen a t
   
   
 
-*Submission:* Your selection of topics and a brief motivation for each selection.
+*Submission:* Your selection of three topics and a brief motivation for each selection.
 
 ---
   
 Answer all questions directly in a copy of this file. Submit your copy as `am_XX_lastname.md` in your submissions folder (replace the XX with the number of the session). 
   
+  
 
+Please add the following header at the beginning of your Markdown file:
+
+```md
+---
+layout: default
+title: Homework
+nav_exclude: true
+---
+```
+  
+
+  
 ---
 
 **Happy Starting!**
