@@ -23,19 +23,15 @@ Recap the [Syllabus](../../index.md) of this class.
 
 Recap [Chapter 01 - ACS FUB 2026](../../02_scripts/am_01_conference_script.md) about the final project for this class, which is a conference simulation. If you have further questions, let me know next time in class.
 
-
 ## Literature
+
+### Task 01.01 - Reading Papers
 
 * Read [How to Read a CS Research Paper?](./fong_2004_htr.pdf)
 * Read [How to Read a Paper](./keshav_2016_htr.pdf)
-* Optional: Read [Chapter 02 - Working With Literature](../../02_scripts/am_02_literature_script.md)
 
 
-### Task 01.01 - Working With Literature
-
-Have a look at possible tools and setups to organize your collected papers. Chose a setup and reflect on your choice.
-
-*Submission*: Brief description of your setup.
+*Submission*: -
 
 
 ## Your Paper
