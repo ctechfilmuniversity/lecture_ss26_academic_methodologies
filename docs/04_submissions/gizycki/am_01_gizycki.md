@@ -69,11 +69,11 @@ I prefer working fully digital and do not see a need to print PDFs.
 
 *Submission:* Your selection of three topics and a brief motivation for each selection.
 
-# Paper Topic Selection
+## Paper Topic Selection
 
-## Topic 1 → Code as a Medium for Emotional and Sensory Experience
+### Topic 1 → Code as a Medium for Emotional and Sensory Experience
 
-### What interests me about this topic:
+#### What interests me about this topic:
 Code-based tools like Pure Data, Three.js, or TouchDesigner offer a creative freedom that conventional software doesn't. What fascinates me most is how generative systems, through their interactive components, have the capacity to influence feelings, both visually and sonically. As a designer who is just beginning to produce music, I'm drawn to the connection between technical systems and the emotional experiences they create.
 
 #### Characteristics of this topic:
@@ -83,7 +83,7 @@ Code-based tools like Pure Data, Three.js, or TouchDesigner offer a creative fre
 - Raises questions about authorship, accessibility, and the role of AI in code-based creativity
 - Relevant to tools like Pure Data, TouchDesigner, Three.js, and live-coding environments
 
-### Possible research questions:
+#### Possible research questions:
 
 - How can interactive, code-based systems deliberately evoke or amplify emotional states?
 - What distinguishes the emotional experience of generative/interactive art from static media?
@@ -91,7 +91,7 @@ Code-based tools like Pure Data, Three.js, or TouchDesigner offer a creative fre
 
 ---
 
-## Topic 2 → Internet Aesthetics as Digital Escapism
+### Topic 2 → Internet Aesthetics as Digital Escapism
 
 #### What interests me about this topic:
 Y2K, Dreamcore, Liminal Space, and Weirdcore function not just as nostalgia, maybe they are spaces of escapism. For a generation that grew up with these images, they trigger feelings of comfort, fantasy, and being understood. I'm interested in how these aesthetics work as spaces for escape and emotional processing, and why they reproduce so strongly in contemporary design practice, including my own.
@@ -111,7 +111,7 @@ Y2K, Dreamcore, Liminal Space, and Weirdcore function not just as nostalgia, may
 
 ---
 
-## Topic 3 → Hyperfemininity, Cyberdecks & Access to Tech Culture
+### Topic 3 → Hyperfemininity, Cyberdecks & Access to Tech Culture
 
 #### What interests me about this topic:
 A TikTok by creator Ube Boobey, who built a cyberdeck into a stylish vintage bag, went viral, not because she invented something new, but because her hyperfeminine aesthetic offered a completely different entry point into tech culture. It immediately motivated me to build one myself, even though I hadn't felt any connection to the topic before. I'm interested in how representation and aesthetics determine who feels like they belong in tech spaces.
