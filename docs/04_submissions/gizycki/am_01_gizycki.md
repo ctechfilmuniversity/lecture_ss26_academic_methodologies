@@ -74,7 +74,7 @@ I prefer working fully digital and do not see a need to print PDFs.
 ### Topic 1 → Code as a Medium for Emotional and Sensory Experience
 
 #### What interests me about this topic:
-Code-based tools like Pure Data, Three.js, or TouchDesigner offer a creative freedom that conventional software doesn't. What fascinates me most is how generative systems, through their interactive components, have the capacity to influence feelings, both visually and sonically. As a designer who is just beginning to produce music, I'm drawn to the connection between technical systems and the emotional experiences they create.
+Code-based tools as for example Pure Data, Three.js, or TouchDesigner offer a different creative freedom that software wich has a more usefriendly interface. What fascinates me most is how generative systems, through their interactive components, have the capacity to influence feelings, both visually and sonically. As a designer who is just beginning to produce music, I'm drawn to the connection between technical systems and the emotional experiences they create.
 
 #### Characteristics of this topic:
 
