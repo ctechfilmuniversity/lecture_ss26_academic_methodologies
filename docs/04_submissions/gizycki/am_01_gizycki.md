@@ -9,8 +9,6 @@ Bonita Fiona von Gizycki | bonita.gizycki@filmuniversitaet.de | Film University 
 
 # **Task 01.01 - Working With Literature**
 
->Have a look at possible tools and setups to organize your collected papers. Chose a setup and reflect on your choice.
-
 *Submission*: 
 
 I will organize my papers and summary notes in Notion, because it helps me keep everything clear and structured. For deeper notes and connections between ideas, I use Obsidian.
@@ -23,9 +21,6 @@ I prefer working fully digital and do not see a need to print PDFs.
 
 # Task 01.02 - Topic Brainstorming
 
->Collect a wide range of potential topics and keywords for your paper.
-
->I recommend brainstorming for 15 minutes and writing down whatever comes to your mind.
 
 *Submission:* Bullet points of all your topic ideas.
 
@@ -71,16 +66,6 @@ I prefer working fully digital and do not see a need to print PDFs.
 
 
 # Task 01.03 - Topic Selection
-
->Propose 3 Topics
-
->From your brainstorming output, select three topics that you want to consider for your paper. Dive a bit deeper into each topic, e.g.
-
->- What specifically interests you within that topic?
->- What further characteristics does the topic have?
->- What questions could you ask about that topic?
-
->or this task, you must submit three topics (even if you have already chosen a topic for your paper). Briefly explain your choices.
 
 *Submission:* Your selection of three topics and a brief motivation for each selection.
 
