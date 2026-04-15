@@ -12,7 +12,8 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 ## Slides
 
-* [Lecture 01](am_01_slides.html)
+* [Session 01 - Introduction](./am_01_intro_slides.html)
+* [Session 01 - Anatomy of a Paper](./am_02_paperanatomy_slides.html)
 
 
 <!-- 
