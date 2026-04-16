@@ -51,7 +51,6 @@ General Topics:
 * AI
 * Games (things like gamification or approaches from gaming)
 * Gaussian Splatting
-* Sterilisation
 * Image generation 
 
 
