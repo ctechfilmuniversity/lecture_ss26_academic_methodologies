@@ -15,26 +15,23 @@ class: center, middle, inverse
 #### Film University Babelsberg KONRAD WOLF
 
 
-???
-  
+---
+layout:false
 
+## Topics
 
-* Searching
-    * Engines
-    * Digital Libraries
-* Strategies
-    * Searching
-    * Collecting
-    * Reading
+* Search & Collect
+* Read
 * Management Tools
 * Literature Surveys
 
 ---
-layout:false
 
 .header[Literature]
 
 ## Search Engines
+
+--
 
 * Google Scholar
     * Best in terms of volume and being up-to-date
@@ -65,7 +62,9 @@ Multiple disciplines:
 
 
 ???
-https://direct.mit.edu/leon/issue
+
+* https://direct.mit.edu/leon
+* https://direct.mit.edu/leon/issue
 
 
 ---
@@ -126,6 +125,7 @@ HCI / Computer Science (all content is of fairly high quality):
 --
 
 * Fundamentals vs. recent advancements / novelty
+    * E.g. citation counts or best paper vs. year
 
 --
 
@@ -232,6 +232,13 @@ HCI / Computer Science (all content is of fairly high quality):
 
 ## Management Tools
 
+---
+.header[Literature | Management Tools]
+
+## [Zotero](https://www.zotero.org/)
+
+
+
 .center[<img src="../02_scripts/img/literature/zotero_01.png" alt="zotero_01" style="width:70%;"> .imgref[[[Zotero]](https://www.zotero.org)]]
 
 
@@ -244,19 +251,27 @@ HCI / Computer Science (all content is of fairly high quality):
 
 ## [Anara](https://anara.com/)
 
-.center[<img src="../02_scripts/img/literature/management_01.png" alt="management_01" style="width:70%;">  
-.imgref[[[Anara]](https://anara.com/)]]
+.center[<img src="../02_scripts/img/literature/management_01.png" alt="management_01" style="width:75%;">.imgref[[[Anara]](https://anara.com/)]]
 
 
 
 ---
 .header[Literature]
 
-## Reading Strategies
+## Management Tools
 
 Ideally, you should have a system, which tells you what to read next.  
   
-For this also reading lists in a literature management tools can be helpful.
+--
+
+<br />
+
+Tags / Folder
+
+* Priority
+* Topics
+* Your assessment
+
 
 
 ???
@@ -308,18 +323,6 @@ There are several "reading methods" out there, for example the PQ4R method:
 * **R**eview: Critical questioning of content.
 
 
-
-
----
-template:inverse
-
-
-#### Your Paper
-# Topic Brainstorming
-
-
-???
-* 10 minutes afterwards share at least one
 
 
 

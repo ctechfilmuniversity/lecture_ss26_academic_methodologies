@@ -25,7 +25,6 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
     * [Management Tools](#management-tools)
     * [Writing About Related Work](#writing-about-related-work)
     * [Literature Survey](#literature-survey)
-    * [Next](#next)
     * [References](#references)
 
 ---
@@ -244,9 +243,6 @@ Or, more recently, from yours, truly 😎: *A Survey of Control Mechanisms for C
 
 For more examples, the Eurographics has each year a section solely dedicated to STARs. Unfortunately I could not find an overview page for all STARs over the years, only [per year](https://diglib.eg.org/handle/10.2312/2632888).
 
-## Next
-
-Now that we have all building blocks for writing a paper in place - meaning the research question, methods and literature - we can actually start the writing, which is the topic of the next chapter.
 
 
 ## References
