@@ -18,7 +18,7 @@ The homework should take < 2h. If you need longer, please let me know next class
 
 ## Literature
 
-* Recap [Chapter 02 - Working With Literature](../../02_scripts/am_02_literature_script.md)
+* Read [Chapter 02 - Working With Literature](../../02_scripts/am_02_literature_script.md)
 
 *Submission*: -
 
@@ -27,7 +27,7 @@ The homework should take < 2h. If you need longer, please let me know next class
 
 Have a look at possible tools and setups to organize your collected papers. Chose a setup and reflect on your choice.
 
-*Hint*: Don't forget to use your management system over the course of this term. At the end of the term you have to submit a preview of how your library is filled.
+*Hint*: Don't forget to use your management system over the course of this term. At the end of the term you have to submit a preview of how your library is filled 😎.
 
 *Submission*: Brief description of your setup.
 
