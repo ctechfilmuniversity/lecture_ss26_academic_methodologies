@@ -15,7 +15,7 @@ I will organize my papers and summary notes in Notion, because it helps me keep 
 
 For reading and highlighting, I use Kindle, where I can mark important parts and add short notes. I may also use NotebookLM to understand difficult sentences.
 
-My workflow is simple: I read and highlight first, then I write deeper notes in Obsidian, and organize everything in Notion.
+My workflow is simple: I read and highlight first, then I write deeper notes in Obsidian, and organize everything in Notion. I'll use Zotero as well. 
 
 I prefer working fully digital and do not see a need to print PDFs.
 
