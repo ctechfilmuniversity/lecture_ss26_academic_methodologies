@@ -76,7 +76,7 @@ I prefer working fully digital and do not see a need to print PDFs.
 #### What interests me about this topic:
 Code-based tools as for example Pure Data, Three.js, or TouchDesigner offer a different creative freedom than software wich has a more usefriendly interface. What fascinates me most is how generative systems, through their interactive components, have the capacity to influence feelings, both visually and sonically. As a designer who is just beginning to produce music, I'm drawn to the connection between technical systems and the emotional experiences they create.
 
-In short: I want to investigate code as an expressive, emotionally resonant medium — not just a functional one.
+In short: I want to investigate code as an expressive, emotionally resonant medium.
 
 #### Characteristics of this topic:
 
