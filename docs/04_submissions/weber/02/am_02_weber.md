@@ -14,7 +14,7 @@ Session 02, Nike Weber
 ## Task 02.01 - Working With Literature
 Submission: Brief description of your setup.
 
-I will work with Zitavi and the Zotero Browser Connector, to save papers quick from my Browser. Having used it  for my bachelor thesis, I know that it works good for me. When saving found papers, I will adapt the naming convention you provided and see if it suits me (firstauthorlastname_year_firstlettersofthefirstthreewordsofthetitle.pdf).
+I will work with Zotero and the Zotero Browser Connector, to save papers quick from my Browser. Having used it  for my bachelor thesis, I know that it works good for me. When saving found papers, I will adapt the naming convention you provided and see if it suits me (firstauthorlastname_year_firstlettersofthefirstthreewordsofthetitle.pdf).
 
 
 ## Task 02.01 - Question Development
