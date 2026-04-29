@@ -70,7 +70,7 @@ Questions:
 
 1 - The Collien Fernandes / Christian Ulmen case — digital violence as victim control
 
-* Ulmen does not deny having created fake profiles of his ex-wife on social networks, contacting hundreds of men in her name, that fake phone sex occurred, or that he sent image material designed to appear as nude photos or pornography of Fernandes. Digital violence is borderless: spatially, because it can happen anytime and anywhere; temporally, because content remains permanently available; and socially, because it can rapidly multiply and escalate. Digital violence is not primarily a technical problem, but a social one. It aims at control, intimidation, and exclusion. Legal Tribune OnlineGunda-Werner-Institut
+* Ulmen does not deny having created fake profiles of his ex-wife on social networks, contacting hundreds of men in her name, that fake phone sex occurred, or that he sent image material designed to appear as nude photos or pornography of Fernandes. Digital violence is borderless: spatially, because it can happen anytime and anywhere; temporally, because content remains permanently available; and socially, because it can rapidly multiply and escalate. Digital violence is not primarily a technical problem, but a social one. It aims at control, intimidation, and exclusion. - Legal Tribune OnlineGunda-Werner-Institut
 
 * The Ulmen case was initially framed by many media outlets as a deepfake story — even though the deepfake element is legally disputed. What does this misframing reveal about how we understand digital violence? And how does the manosphere's logic of control and humiliation connect to the fake-profile tactics used in this case?
 
@@ -101,12 +101,12 @@ Questions:
 Medienkompetenz tradition vs. the Australian ban
  * Germany has one of the oldest and most theoretically grounded traditions of media literacy education — Medienkompetenz — rooted in the work of educationalist Dieter Baacke since the 1970s. His model holds that every person is in principle a capable, active media user, and that schools must develop Medienkritik (critical media analysis) alongside practical media use. Baacke argued that "every person is to be regarded as a principled, autonomous recipient who is simultaneously an active media user as a communicatively competent being." This stands in direct contrast to Australia's legislative response of restriction. 
  
- * The question my paper could ask: why has Germany — with decades of Medienkompetenz theory — still not made it a standalone school subject? German educators and researchers openly lament that despite years of advocacy, there is still no dedicated subject for Medienbildung or media literacy in German schools, and many teachers feel ill-equipped to address social media in all its dimensions. DigicompCornelsen Verlag
+ * The question my paper could ask: why has Germany — with decades of Medienkompetenz theory — still not made it a standalone school subject? German educators and researchers openly lament that despite years of advocacy, there is still no dedicated subject for Medienbildung or media literacy in German schools, and many teachers feel ill-equipped to address social media in all its dimensions. - DigicompCornelsen Verlag
 
  * If even Germany — with its strong theoretical tradition — hasn't institutionalised media literacy as a core subject, what does that tell us about the gap between pedagogical theory and political will? Is the problem one of knowledge, or of institutional inertia?
 
 2- The Finnish model — Somekone and co-design with students
-* Finland represents the most concrete positive case study. Rather than banning or ignoring social media, Finnish schools co-developed tools with students. The Somekone team's pedagogical model begins with contextualisation — students first discuss their own experiences with platforms like TikTok, YouTube, and Instagram, activating prior knowledge before the simulator introduces them to the mechanics underneath. This is the producer-not-consumer shift your paper argues for, made concrete. Noise
+* Finland represents the most concrete positive case study. Rather than banning or ignoring social media, Finnish schools co-developed tools with students. The Somekone team's pedagogical model begins with contextualisation — students first discuss their own experiences with platforms like TikTok, YouTube, and Instagram, activating prior knowledge before the simulator introduces them to the mechanics underneath. This is the producer-not-consumer shift the paper  paper argues for, made concrete. - Noise
 
 
 * Somekone was built with 8th-graders who chose and labelled the image dataset. What does it mean for a pedagogical tool to be co-designed with students? Does that change its effectiveness — and could that model work in an Australian classroom where under-16s are now legally distanced from the very platforms being discussed?
@@ -114,17 +114,12 @@ Medienkompetenz tradition vs. the Australian ban
 
 3- The German NetzDG — platform regulation as an educational question
 Germany's Network Enforcement Act (NetzDG) has become the model for "new-school speech regulation" — 
-* co-opting platforms into governmental content moderation — raising serious concerns about free expression and democratic discourse. This is directly relevant to your paper: when governments regulate platforms rather than educating users, what kind of civic subject does that produce? A student who has never learned to navigate algorithmic bias becomes entirely dependent on platform decisions and state intervention. DOI
+* co-opting platforms into governmental content moderation — raising serious concerns about free expression and democratic discourse. This is directly relevant to the paper: when governments regulate platforms rather than educating users, what kind of civic subject does that produce? A student who has never learned to navigate algorithmic bias becomes entirely dependent on platform decisions and state intervention. DOI
 Deepening question: Is platform regulation (NetzDG in Germany, the ban in Australia) a substitute for media education, or a sign that states have given up on it? What civic values are implicitly taught when protection comes from outside the individual rather than from critical capacity built within them?
+
 Angle 4: The dpa "Think Twice" project — social media format as pedagogical form
-Germany's national press agency dpa launched the "Think Twice" project specifically to strengthen media literacy in Generation Z, developing toolkits for teachers that include videos in social media format alongside accompanying teaching materials. This is a concrete case of your core thesis in action — using the format of social media (short video, fast cut, visual storytelling) as a vehicle for critical awareness rather than passive consumption. Erasmusplus
-Deepening question: When a fact-checking toolkit arrives in TikTok format, is that a clever pedagogical move — or does the medium undermine the message? Can you teach critical slowness using a form built for speed?
-
-5- The "Lebenswelt" problem in German pedagogy
-* German educational thinker Giesecke argued that schools cannot treat mass media and leisure culture as the enemy, but simultaneously warned that "the task of schooling cannot be to reproduce the maxims of the entertainment society within its walls." This tension — written in 1995 — is exactly the one your paper inhabits. The school must neither ignore students' digital lives nor simply mirror them back.
-
-* Where exactly is the line between bringing students' media world into the classroom (empowering) and simply validating it (capitulating)? What would a curriculum look like that takes TikTok seriously as a cultural object to be analysed rather than as a tool to be used?
-
+Germany's national press agency dpa launched the "Think Twice" project specifically to strengthen media literacy in Generation Z, developing toolkits for teachers that include videos in social media format alongside accompanying teaching materials. Using the format of social media (short video, fast cut, visual storytelling) as a vehicle for critical awareness rather than passive consumption. - Erasmusplus
+When a fact-checking toolkit arrives in TikTok format, is that a clever pedagogical move — or does the medium undermine the message? Can you teach critical slowness using a form built for speed?
 
   ## 3. 
 
