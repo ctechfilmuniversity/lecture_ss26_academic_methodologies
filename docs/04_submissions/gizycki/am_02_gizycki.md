@@ -13,7 +13,7 @@ nav_exclude: true
 I will use **Zotero** to collect and organize papers.  
 For structuring and overview notes I will use **Notion**, while more detailed analysis and personal notes will be written in **Obsidian**.
 
-For reading and annotation, I plan to use the  **Kindle** App, as it allows me to highlight and make quick notes directly in PDFs. Additionally, I may use **NotebookLM** to clarify unclear passages or concepts.
+For reading and annotation, I plan to use the  **Kindle** App, as it allows me to highlight and make quick notes directly in PDFs. Additionally, I may use **NotebookLM** to clarify unclear passages or concepts. I would like to work with Anara (but I never used it...)
 
 I prefer a fully **digital workflow** and do not see the need to print papers, as annotation and organization can be handled efficiently in digital tools.
 
@@ -56,8 +56,8 @@ I prefer a fully **digital workflow** and do not see the need to print papers, a
 
 - **How to answer:**  
   - Analyse some examples (social media, cyberdeck communities)  
-  - Connect to research on *women in tech* and *representation*  
-  - Compare traditional vs. aesthetic-driven tech presentation ?? 
+  - Connect this to research on *women in tech* and *representation*  
+  - Compare traditional vs. aesthetic-driven tech presentation (maybe too much?)) 
 
 ---
 
@@ -69,9 +69,9 @@ I prefer a fully **digital workflow** and do not see the need to print papers, a
   Cyberdecks are DIY and highly personalized, contrasting with closed, commercial devices.
 
 - **How to answer:**  
-  - literature on "maker culture" and "DIY technology" ? 
-  - Analyse cyberdecks as artifacts (customization, openness)  
-  - Apply concepts like user agency and ownership  
+  - literature on "maker culture" and "DIY technology" (have not looked into matching papers here) 
+  - Analyse cyberdecks as artifacts (customization, openness, also maybe shortly the conection to the science fiction aspect of it?)  
+  - Applying concepts like user agency and ownership  
 
 ---
 
@@ -83,13 +83,13 @@ I prefer a fully **digital workflow** and do not see the need to print papers, a
   These approaches challenge dominant, often masculine-coded tech aesthetics.
 
 - **How to answer:**  
-  - Research design theory and speculative design  
-  - Compare different aesthetic approaches?  
-  - Analyse how design signals inclusion or exclusion  
+  - Research design theory / speculative design  
+  - Compare different aesthetic approaches (?)  
+  - Analysing how design signals inclusion or exclusion  
 
 ---
 
-### ❓ (Optional)
+### ❓ (Optional Question)
 
 **Why are topics like cyberdecks underrepresented in academic research?**
 
@@ -97,9 +97,9 @@ I prefer a fully **digital workflow** and do not see the need to print papers, a
   There is a noticeable gap between online practices and academic discourse.
 
 - **How to answer:**  
-  - Reflect on academic publishing structures  
+  - Reflecting on academic publishing structures?  
   - Compare with emerging digital communities
-  - but this is maybe more guessing / my own opinion then...  
+  - but this is maybe more guessing / my own opinion...  so not sure
 
 ---
 
