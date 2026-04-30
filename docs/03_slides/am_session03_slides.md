@@ -40,7 +40,7 @@ layout:false
 
 --
 
-* TODO: Next step
+* Next step: narrowing rough question versions to three choices
 
 
 ---
@@ -86,9 +86,18 @@ template:inverse
 
 ## Search Strategies
 
+--
+
 * Broad vs. deep
+
+
+--
+
 * Fundamentals vs. recent advancements / novelty
     * E.g. citation counts or best paper vs. year
+
+--
+
 * Applied vs. basic
 
 
@@ -123,6 +132,8 @@ template:inverse
 * Decide on the search strategy
 ]
 
+
+
 ---
 .header[Literature]
 
@@ -132,7 +143,6 @@ template:inverse
 .left-even[
 * Set yourself a time frame
 * Decide on the search strategy
-* Be disciplined with the search
 * Have a setup 
 ]
 --
@@ -140,8 +150,9 @@ template:inverse
 * Which references to save?
 * How, where and under which name to save?
 * How to come back to the reference (assign a prioritization)?
+  
 ]
-
+  
 
 ???
   
@@ -156,6 +167,31 @@ template:inverse
         * E.g. I save paper as `firstauthorlastname_year_firstlettersofthefirstthreewordsofthetitle.pdf`, such as `wong_1998_cgf.pdf`
     * wether to give them directly a prioritization on what to read next, and
     * how to make sure that you come back to these papers and actually read them.
+
+
+---
+.header[Literature]
+
+## Collection Strategies
+
+
+.left-even[
+* Set yourself a time frame
+* Decide on the search strategy
+* Have a setup  
+  
+<br /><br />
+> Be disciplined with the search!
+]
+
+.right-even[
+* Which references to save?
+* How, where and under which name to save?
+* How to come back to the reference (assign a prioritization)?
+  
+
+]
+  
 
 ---
 .header[Literature]

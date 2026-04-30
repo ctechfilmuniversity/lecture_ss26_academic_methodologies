@@ -51,13 +51,8 @@ layout: false
 
 
 
----
-## Research?
-
 > What is research?  
 
-
-???
   
 
 * To answer this comprehensively and in general terms is difficult. The specifics highly depend on the research disciplines and differ greatly.
@@ -95,6 +90,9 @@ layout: false
 *  But to give you a counter-example: you can come up with the most beautiful explanation for flying pigs - but no one will care as this theory is of no relevance to the world. Previous research has shown (e.g. based on the anatomy of pigs and continuos observations) that pigs can not fly. 
 
 --
+
+<br />
+
 > Researchers aim to make novel contributions that are of relevance to the knowledge of the world.
 
 
@@ -476,16 +474,30 @@ Mathematics is considered a pure (also *fundamental*) science. It leaves no room
     * Logical reasoning from (true) assumptions
 
 ---
-.header[Research]
+.header[Research | Pure vs. Applied]
 
-## Pure vs. Applied
+## A *Pure* Proof
 
-Example Proof
+> The sum of any two even integers is even again.
+
+--
 
 * Consider two even integers `x` and `y`
+
+--
+
 * Since they are even, they can be written as `x = 2a` and `y = 2b`, respectively, for integers `a` and `b`
+
+--
+
 * Then the sum is `x + y = 2a + 2b = 2(a+b)`
+
+--
+
 * Therefore `x+y` has `2` as a factor and, by definition, is even.
+
+--
+
 * Hence the sum of any two even integers is even.
 
 
@@ -682,13 +694,11 @@ There are various standardized methods in each disciplines.
 --
 
 .left-even[
-* Theoretical procedures
-* Formulas
-* Algorithms
-* Studies
-* Numerical schemes
-* Statistical approaches  
+* Theoretical procedures, Formulas, Algorithms
+* Numerical schemes, Statistical approaches  
 * Literature survey and analysis
+* Studies, Case Studies
+* Interviews
 * Discourse and argumentation
 ]
 
