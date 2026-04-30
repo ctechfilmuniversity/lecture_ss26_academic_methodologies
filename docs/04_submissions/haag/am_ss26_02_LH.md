@@ -84,11 +84,11 @@ Questions:
 
 * The manosphere doesn't spread through manifestos — it spreads through memes, reaction videos, and ironic humour that makes misogynist content seem playful and shareable. This is a media literacy problem as much as an ideological one.
 
-* If young men encounter manosphere ideology first through humour and irony, does that make it harder or easier to critically deconstruct in a classroom? Can you teach students to read a reaction video against the grain — and what would that lesson look like?
+* If young men encounter manosphere ideology first through humour and irony, does that make it harder or easier to critically deconstruct in a classroom? Can you teach students to read a reaction video against the grain — and what would that lesson look like? How is social media a playground for 
 
 4 -
 
-* The manosphere is deliberately designed to appear as personal development content at the point of entry. Dating advice, productivity tips, fitness motivation — they promise quick solutions to deep problems like missing self-confidence or loneliness, and create a sense of community. This is the boundary your paper must draw: where does legitimate male self-help end, and where does ideological conditioning begin? 
+* The manosphere is deliberately designed to appear as personal development content at the point of entry. Dating advice, productivity tips, fitness motivation — they promise quick solutions to deep problems like missing self-confidence or loneliness, and create a sense of community. This is the boundary my paper must draw: where does legitimate male self-help end, and where does ideological conditioning begin? 
 
 * Is the "self-help to hate" pipeline a feature or a bug? That is — are manosphere creators deliberately using self-help aesthetics to funnel users toward misogyny, or does the ideology emerge organically from a community that genuinely feels abandoned?
 
@@ -106,7 +106,7 @@ Medienkompetenz tradition vs. the Australian ban
  * If even Germany — with its strong theoretical tradition — hasn't institutionalised media literacy as a core subject, what does that tell us about the gap between pedagogical theory and political will? Is the problem one of knowledge, or of institutional inertia?
 
 2- The Finnish model — Somekone and co-design with students
-* Finland represents the most concrete positive case study. Rather than banning or ignoring social media, Finnish schools co-developed tools with students. The Somekone team's pedagogical model begins with contextualisation — students first discuss their own experiences with platforms like TikTok, YouTube, and Instagram, activating prior knowledge before the simulator introduces them to the mechanics underneath. This is the producer-not-consumer shift the paper  paper argues for, made concrete. - Noise
+* Finland represents the most concrete positive case study. Rather than banning or ignoring social media, Finnish schools co-developed tools with students. The Somekone team's pedagogical model begins with contextualisation — students first discuss their own experiences with platforms like TikTok, YouTube, and Instagram, activating prior knowledge before the simulator introduces them to the mechanics underneath. This is the producer-not-consumer shift, made concrete. - Noise
 
 
 * Somekone was built with 8th-graders who chose and labelled the image dataset. What does it mean for a pedagogical tool to be co-designed with students? Does that change its effectiveness — and could that model work in an Australian classroom where under-16s are now legally distanced from the very platforms being discussed?
