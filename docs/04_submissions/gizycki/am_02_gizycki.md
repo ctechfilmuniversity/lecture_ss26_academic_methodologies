@@ -59,6 +59,16 @@ I prefer a fully **digital workflow** and do not see the need to print papers, a
   - Connect this to research on *women in tech* and *representation*  
   - Compare traditional vs. aesthetic-driven tech presentation (maybe too much?)) 
 
+**COMMENT LENA**: I like this direction a lot, but I think the question of "how do aesthetics influence... " is very hard to answer and the connection to "representation" is large in scope. Also "feeling welcome in tech culture" is ill-defined, how would you "measure / analyse" this?  
+  
+I recommend going a more descriptive route for this paper, in the direction of "Which aesthetic conventions do cyberdeck communities break, and how is their subcultural identity characterized?" -  I am still not 100 % happy with this suggestion but hopefully it shows the direction I mean: this question would allow you to describe and analyse "what is there" without the need of larger conclusions, e.g. "who feels welcome" (that should still become indirectly clear from the analysis though).
+
+Or maybe simply: "What makes a cyberdeck a cyberdeck? A descriptive analysis of an emerging artform and community." 
+
+
+Overall (in reference to all topic ideas), if your focus for this paper is to be more descriptive (in contrast to being explanatory), you could still mention larger contexts, conclusions, causation, etc. in the discussion section (a bit more careful there but then also without needing to prove them). I recommend not making these larger perspectives a focus of this paper as they are much harder and potentially not manageable scope-wise.
+
+
 ---
 
 ### ❓ Question 2
@@ -72,6 +82,9 @@ I prefer a fully **digital workflow** and do not see the need to print papers, a
   - literature on "maker culture" and "DIY technology" (have not looked into matching papers here) 
   - Analyse cyberdecks as artifacts (customization, openness, also maybe shortly the conection to the science fiction aspect of it?)  
   - Applying concepts like user agency and ownership  
+
+**COMMENT LENA**: Again, very interesting, but again "control over technology" is ill-defined, what would this mean exactly? Also, I recommend staying away from questions that can be answered by "yes or no", which then in turn would need some form of proof. Again, try to think more in the direction of a description, e.g. "Which properties define cyberdecks and how do builders articulate control over their devices?" - I am still not 100 % happy with this suggestion but hopefully it shows the direction I mean :)
+
 
 ---
 
@@ -87,6 +100,8 @@ I prefer a fully **digital workflow** and do not see the need to print papers, a
   - Compare different aesthetic approaches (?)  
   - Analysing how design signals inclusion or exclusion  
 
+**COMMENT LENA**: Do you plan to come up with your own design approaches here or research what others have done? That is not clear to me yet. Also, again what do you specifically mean by "access to technology"?
+
 ---
 
 ### ❓ (Optional Question)
@@ -100,6 +115,9 @@ I prefer a fully **digital workflow** and do not see the need to print papers, a
   - Reflecting on academic publishing structures?  
   - Compare with emerging digital communities
   - but this is maybe more guessing / my own opinion...  so not sure
+
+
+**COMMENT LENA**: What do you specifically mean by "like cyberdecks" - which type of developments do you include / exclude? Also careful here, this might be a question of time (it is still too new) and can you for sure claim that know of ALL the related work? 
 
 ---
 

@@ -58,6 +58,14 @@ As we are still in the brainstorming phase you can also collect and submit more 
 
 One of the most terrifying ways we see AI being used on a daily basis is in propaganda. Trump presenting alternative realities, Iran using Lego style animations and even individuals using it for fringe conspiracy theories is terrifying and all around us. 
 
+
+**COMMENT LENA**: I recommend staying away from terms such as "better" as, firstly, better is not defined and, secondly - strictly speaking - you would need some form of proof of the superiority. How about something along the lines of:
+- Which characteristics does AI propaganda have that previous types of propaganda didn't?
+- Which effects does AI propaganda have?  
+  
+I think one of them would already be enough, but you could also merge them:
+- Which novel characteristics does AI propaganda have, and which effects do they have?
+
 ## AI and Ethics
 ### The ethical use of AI guide
 ### Is there an ethical way to use AI?
@@ -65,12 +73,16 @@ One of the most terrifying ways we see AI being used on a daily basis is in prop
 
 AI is a great tool, but I always feel unsure about using it. Water usage, training data, companies supporting weapon systems all make me really worried about using AI in my day to day. So a guide to ethical uses of AI or a list of qualifiers to consider is something I would actually want to engage with. 
 
+**COMMENT LENA**: This is already a strong question. I am just worried that it might be too large in scope. If the topic turns out to be unmanageable in the time given, you could further break the question down, e.g. into "qualifiers for ethical AI use regarding authorship OR demographic bias OR..." you get the idea :) You could decide on the scope later, once you have started working on the topic and a better understanding of it - but of course, the earlier you narrow the topic, the more targeted your work becomes.
+
   
 ## AI and Bias
 ### Can AI actually be unbiased?
 ### How does AI try to have a neutral position and still be right?
 
 Bias is a very interesting topic regarding AI. We have seen chat bots that were supposed to imitate a teenager become nazis. Grok (the X/Twitter AI bot) was opposing the opinions of his “Owner” Elon Musk, until he was changed to further agree with him which then let Grok spiral into being extremely right wing(calling himself Mecha-Hitler). 
+
+**COMMENT LENA**: Quite honestly, I don't really understand this direction yet. What is it exactly you want to investigate, and how? 
 
 ___
 
