@@ -108,22 +108,21 @@ Medienkompetenz tradition vs. the Australian ban
 2- The Finnish model — Somekone and co-design with students
 * Finland represents the most concrete positive case study. Rather than banning or ignoring social media, Finnish schools co-developed tools with students. The Somekone team's pedagogical model begins with contextualisation — students first discuss their own experiences with platforms like TikTok, YouTube, and Instagram, activating prior knowledge before the simulator introduces them to the mechanics underneath. This is the producer-not-consumer shift, made concrete. - Noise
 
+Somekone is a Finnish, browser based social media simulator designed as research based teaching material to help users understand how social media platforms collect data build user profiles, and use recommendation algorithms. 
 
 * Somekone was built with 8th-graders who chose and labelled the image dataset. What does it mean for a pedagogical tool to be co-designed with students? Does that change its effectiveness — and could that model work in an Australian classroom where under-16s are now legally distanced from the very platforms being discussed?
 
 
 3- The German NetzDG — platform regulation as an educational question
 Germany's Network Enforcement Act (NetzDG) has become the model for "new-school speech regulation" — 
+
 * co-opting platforms into governmental content moderation — raising serious concerns about free expression and democratic discourse. This is directly relevant to the paper: when governments regulate platforms rather than educating users, what kind of civic subject does that produce? A student who has never learned to navigate algorithmic bias becomes entirely dependent on platform decisions and state intervention. DOI
 Deepening question: Is platform regulation (NetzDG in Germany, the ban in Australia) a substitute for media education, or a sign that states have given up on it? What civic values are implicitly taught when protection comes from outside the individual rather than from critical capacity built within them?
 
-Angle 4: The dpa "Think Twice" project — social media format as pedagogical form
+The dpa "Think Twice" project — social media format as pedagogical form
 Germany's national press agency dpa launched the "Think Twice" project specifically to strengthen media literacy in Generation Z, developing toolkits for teachers that include videos in social media format alongside accompanying teaching materials. Using the format of social media (short video, fast cut, visual storytelling) as a vehicle for critical awareness rather than passive consumption. - Erasmusplus
 When a fact-checking toolkit arrives in TikTok format, is that a clever pedagogical move — or does the medium undermine the message? Can you teach critical slowness using a form built for speed?
 
-  ## 3. 
-
-  Questions: 
 
 ---
   
