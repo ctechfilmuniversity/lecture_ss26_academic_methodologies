@@ -12,21 +12,21 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 # Chapter - Finding a Research Question
 
 
-* [Academic Methodologies](#academic-methodologies)
-* [Chapter - Finding a Research Question](#chapter---finding-a-research-question)
-    * [Topics](#topics)
-    * [Learning Objectives](#learning-objectives)
-    * [The Research Question](#the-research-question)
-        * [What Makes A Strong Research Question?](#what-makes-a-strong-research-question)
-            * [Focused And Research-Related](#focused-and-research-related)
-            * [Feasible and Specific](#feasible-and-specific)
-            * [Complex and Arguable](#complex-and-arguable)
-            * [Relevant and Original](#relevant-and-original)
-        * [Examples](#examples)
-            * [Answers](#answers)
-        * [Developing a Research Question](#developing-a-research-question)
-            * [The Tripod](#the-tripod)
-    * [References](#references)
+- [Academic Methodologies](#academic-methodologies)
+- [Chapter - Finding a Research Question](#chapter---finding-a-research-question)
+  - [Topics](#topics)
+  - [Learning Objectives](#learning-objectives)
+  - [The Research Question](#the-research-question)
+    - [What Makes A Strong Research Question?](#what-makes-a-strong-research-question)
+      - [Focused And Research-Related](#focused-and-research-related)
+      - [Feasible and Specific](#feasible-and-specific)
+      - [Complex and Arguable](#complex-and-arguable)
+      - [Relevant and Original](#relevant-and-original)
+    - [Examples](#examples)
+      - [Answers](#answers)
+    - [Developing a Research Question](#developing-a-research-question)
+      - [The Tripod](#the-tripod)
+  - [References](#references)
 
 
 <!-- 
