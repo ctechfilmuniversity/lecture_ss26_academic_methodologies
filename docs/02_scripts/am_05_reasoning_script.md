@@ -473,7 +473,7 @@ Fallacies of ethos relate to credibility. These fallacies may unfairly build up 
 
 ## The Scientific Method
 
-Ok, not back to the topic of using correct reasoning. One of the most famous example that researchers agreed upon to ensure good reasoning is the so-called scientific method.
+Ok, now back to the topic of using correct reasoning. One of the most famous example that researchers agreed upon to ensure good reasoning is the so-called scientific method.
 
 [The scientific method]((https://en.wikipedia.org/wiki/Scientific_method)) started as an empirical method of acquiring knowledge that has characterized the development of science since at least the 17th century. It involves formulating hypotheses, an experimental and measurement-based testing of the hypotheses and the refinement (or elimination) of the hypotheses based on the experimental findings.  
 
@@ -629,17 +629,17 @@ Schlütz, D. (2018). *Vorlesung Grundlagen der Medienforschung WS 18/19 - S1: Gr
 [27] Berg, Bruce Lawrence; Lune, Howard (2012). Qualitative Research Methods for the Social Sciences (8th ed.). p. 3.  
 [28] Babbie, Earl (2014). The Basics of Social Research (6th ed.). pp. 303–04  
 [[29] Critical Rationalism](http://wwwmayr.informatik.tu-muenchen.de/personen/baumgart/download/public/presentation_CR.pdf)  
-[[30] Wiki - Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper)
-[[31] Wiki - Scientific Method](https://en.wikipedia.org/wiki/Scientific_method)
-[[32] Crawford, Matthew B. (March 31, 2015). "Introduction, Attention as a Cultural Problem". The World Beyond Your Head: On Becoming an Individual in an Age of Distraction. Farrar, Straus and Giroux. p. 11.](https://archive.org/details/worldbeyondyourh00craw/page/11)
-[[33] Belluz, J. (15.01.2019). DNA scientist James Watson has a remarkably long history of sexist, racist public comments. Vox.](https://www.vox.com/platform/amp/2019/1/15/18182530/james-watson-racist)
-[[34] The Associated Press. (01.06.2015). Tim Hunt, Nobel Prize winner, apologizes for comments about women in labs. CBS.](https://www.cbc.ca/news/world/tim-hunt-nobel-prize-winner-apologizes-for-comments-about-women-in-labs-1.3107375)
-[[35] Wie eine Meinung in einem Kopf entsteht. Über das Herstellen von Untertanen. Weismann Verlag, München 1971. ISBN 3-921-04004-3, S. 17](https://gutezitate.com/zitat/106229)
-[[36] MaiThink X. (03.04.2022). Die Verstopfung der Wissenschaft - Wer ist Hanna?](https://www.zdf.de/show/mai-think-x-die-show/maithink-x-folge-11-100.html)
-[[37] Devries, Kirsten. Chapter 25 - What is Logic?](https://viva.pressbooks.pub/letsgetwriting/chapter/what-is-logic/)
-[[38] Knachel, Matthew. Chapter 1 - What is Logic? Rebus Community](https://press.rebus.community/intro-to-phil-logic/chapter/chapter-1/)
-[[39] Wiki - Fallacy of four terms](https://www.wikiwand.com/en/Fallacy_of_four_terms)
-[[40] Wiki - Formal fallacy](https://www.wikiwand.com/en/Formal_fallacy)
+[[30] Wiki - Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper)  
+[[31] Wiki - Scientific Method](https://en.wikipedia.org/wiki/Scientific_method)  
+[[32] Crawford, Matthew B. (March 31, 2015). "Introduction, Attention as a Cultural Problem". The World Beyond Your Head: On Becoming an Individual in an Age of Distraction. Farrar, Straus and Giroux. p. 11.](https://archive.org/details/worldbeyondyourh00craw/page/11)  
+[[33] Belluz, J. (15.01.2019). DNA scientist James Watson has a remarkably long history of sexist, racist public comments. Vox.](https://www.vox.com/platform/amp/2019/1/15/18182530/james-watson-racist)  
+[[34] The Associated Press. (01.06.2015). Tim Hunt, Nobel Prize winner, apologizes for comments about women in labs. CBS.](https://www.cbc.ca/news/world/tim-hunt-nobel-prize-winner-apologizes-for-comments-about-women-in-labs-1.3107375)  
+[[35] Wie eine Meinung in einem Kopf entsteht. Über das Herstellen von Untertanen. Weismann Verlag, München 1971. ISBN 3-921-04004-3, S. 17](https://gutezitate.com/zitat/106229)  
+[[36] MaiThink X. (03.04.2022). Die Verstopfung der Wissenschaft - Wer ist Hanna?](https://www.zdf.de/show/mai-think-x-die-show/maithink-x-folge-11-100.html)  
+[[37] Devries, Kirsten. Chapter 25 - What is Logic?](https://viva.pressbooks.pub/letsgetwriting/chapter/what-is-logic/)  
+[[38] Knachel, Matthew. Chapter 1 - What is Logic? Rebus Community](https://press.rebus.community/intro-to-phil-logic/chapter/chapter-1/)  
+[[39] Wiki - Fallacy of four terms](https://www.wikiwand.com/en/Fallacy_of_four_terms)  
+[[40] Wiki - Formal fallacy](https://www.wikiwand.com/en/Formal_fallacy)  
 
 ---
 

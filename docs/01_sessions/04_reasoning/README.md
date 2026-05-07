@@ -16,7 +16,7 @@ The homework should take < 2h. If you need longer, please let me know next class
 
 ## Reasoning (optional)
 
-* Recap [Chapter Reasoning](../../02_scripts/am_06_reasoning_script.md), if you are interested.
+* Recap [Chapter Reasoning](../../02_scripts/am_05_reasoning_script.md), if you are interested.
 
 *Submission:* -
 
