@@ -101,7 +101,12 @@ Unless stated otherwise:
 
 * For each session, there is usually some homework.
 * Some homework assignments have a hard deadline - this is clearly stated in the description of the session. For each day that you submit late, I reduce **10% of the total points**. 
-* Most homework assignments you can hand in up until **July 31st**. For submissions after the deadline given in the session (but before July 31st), we reduce **15% of the total points**. 
+
+
+<!--
+
+ * Most homework assignments you can hand in up until **July 31st**. For submissions after the deadline given in the session (but before July 31st), we reduce **15% of the total points**.  
+-->
 
 
 ## Evaluation

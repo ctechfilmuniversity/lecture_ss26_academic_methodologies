@@ -6,21 +6,18 @@ class: center, middle, inverse
 
 # Academic Methodologies
 
+#### - Research -
+
+<br /><br />
+
 ### Prof. Dr. Lena Gieseke | l.gieseke@filmuniversitaet.de  
 
 #### Film University Babelsberg KONRAD WOLF
 
+
+
 ???
 * What is Research?
-
----
-template: inverse
-
-# Research
-
-
-???
-  
 
 * But before we get into specific methods and tasks, such as statistics or writing, let's start at the very beginning and build a general understanding of what research is and how to think about it.
 * After all, research is, among other things, about taking a closer look into something and having a deeper understanding of things. So let's do some research about research 😎
@@ -556,14 +553,17 @@ template:inverse
 ## Research
 
 --
-* You have to be willing to work with the unknown 
+Work with 
+
+* The unknown 
 
 --
-* You have to like hard problems
+* Hard problems
 
   
 --
   
+<br />
 Research is a skill and it can be learned!
 
 

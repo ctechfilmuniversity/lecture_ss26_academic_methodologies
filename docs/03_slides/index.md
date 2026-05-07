@@ -18,4 +18,6 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 * [Session 02 - Literature](./am_03_literature_slides.html)
 * [Session 03](./am_session03_slides.html)
 * [Session 03 - Research](./am_04_research_slides.html)
+* [Session 04](./am_session04_slides.html)
+* [Session 04 - Reasoning](./am_05_reasoning_slides.html)
 
