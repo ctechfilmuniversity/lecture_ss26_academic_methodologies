@@ -36,7 +36,7 @@ Describe your strategy to find and collect relevant literature for your topic(s)
 
 ### *What to search*
 
-My topic has different thematic layers which split up in the following categories:
+My topic has different thematic layers that split up into the following categories:
 
 - Technical/ML layer → StreamDiffusion, diffusion models, LoRA, inference optimization
 - Creative tool layer → TouchDesigner, real-time graphics, AV performance pipelines
@@ -45,10 +45,10 @@ My topic has different thematic layers which split up in the following categorie
 
 ### *Search Strategy*
 
-1. Pick a keyword cluster (e.g. "StreamDiffusion latency")
-2. Find 2–3 good papers on Google Scholar / arXiv
+1. Pick a keyword cluster (e.g., "StreamDiffusion latency")
+2. Find 2–3 good papers on Google Scholar/arXiv
 3. Read abstracts + skim references → collect new terms
-4. Add new terms to your search and look at relatet work and references
+4. Add new terms to your search and look at related work and references
 5. Repeat with new terms until results start repeating
 
 ### *Where to search*
@@ -61,7 +61,7 @@ My topic has different thematic layers which split up in the following categorie
 `high prio`*Semantic Scholar* is useful for the ML side of my research, since it shows how often a paper has been cited, making it easier to identify key papers.
 
 
-`high prio` *arXiv* is the most important platform for my technical references, as StreamDiffusion itself was published there and it seems that most cutting-edge diffusion model work appears here. Possible searches are in the field of cs.CV (Computer Vision) and cs.GR (Graphics) categories. 
+`high prio` *arXiv* is the most important platform for my technical references, as StreamDiffusion itself was published there, and it appears that most cutting-edge diffusion model work appears here. Possible searches are in the fields of cs.CV (Computer Vision) and cs.GR (Graphics) categories.  
 
 `mid prio` *ACM Digital Library* covers HCI, creative tools, and live performance technology, including proceedings from conferences like CHI, NIME, and ISEA, which are directly relevant to the performance context of my paper.
 IEEE Xplore is relevant for finding literature on real-time systems, signal processing, and latency measurement.
@@ -75,7 +75,7 @@ IEEE Xplore is relevant for finding literature on real-time systems, signal proc
 
 `mid prio` *GitHub* is a primary source for the technical tools themselves, as the StreamDiffusion repository and relevant LoRA training repositories contain documentation and implementation details.
 
-`high prio` Derivative Forums is TouchDesigner's official community platform and contains tutorials and pipeline documentation that serves as a practical reference for my implementation.
+`high prio` Derivative Forums is TouchDesigner's official community platform and contains tutorials and pipeline documentation that serve as a practical reference for my implementation.
 
 ---
 ### Task 04.02 - Literature Collection
@@ -86,18 +86,18 @@ Name related work for your paper. List *at least* three, ideally academic, publi
 
 *Submission*: 
 
-1. Kodaira et al. (2023). StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation. arXiv:2312.12491.
+1. Kodaira et al. (2023). StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation. arXiv:2312.12491. https://arxiv.org/abs/2312.12491
 
 `high prio` This is the foundational technical reference for my paper, as StreamDiffusion is the core tool I am integrating into TouchDesigner. It describes the pipeline architecture, inference optimizations, and performance benchmarks that my own measurements will build on and compare against.
 
 
-2. Hu et al. (2021). LoRA: Low-Rank Adaptation of Large Language Models.
+2. Hu et al. (2021). LoRA: Low-Rank Adaptation of Large Language Models. https://arxiv.org/abs/2106.09685
 
 `high prio` This is the foundational paper for the LoRA method I plan to use for custom style training. It establishes the theoretical basis for how a low-rank weight adaptation can steer model output toward a defined visual style without retraining the full model.
 
-3. Luo, S., et al. (2023). Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference. arXiv:2310.04378.
+3. Luo, S., et al. (2023). Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference. arXiv:2310.04378. https://arxiv.org/abs/2310.04378
 
-`high prio` StreamDiffusion relies on Latent Consistency Models to reduce the number of inference steps needed per frame, which is what makes real-time generation possible. This paper is therefore a necessary technical reference for explaining the performance characteristics of my pipeline.
+`mid prio` StreamDiffusion relies on Latent Consistency Models to reduce the number of inference steps needed per frame, which is what makes real-time generation possible. This paper is therefore a necessary technical reference for explaining the performance characteristics of my pipeline.
   
 
 ---
