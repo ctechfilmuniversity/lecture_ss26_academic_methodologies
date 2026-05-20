@@ -9,7 +9,7 @@ nav_exclude: true
 
 #### I. Complete the following three sentences:
 
-# 3 Possible Directions:
+# 4 Possible Directions:
 
 ## Direction 1 – The Historical Comparison
 *Focus: then vs. now – two moments of Maker Culture*
@@ -59,3 +59,20 @@ I answer the research question through a descriptive analysis of publicly availa
 
 ### III.
 I answer the research question through a descriptive analysis of aesthetic patterns in hyperfeminine cyberdeck community content, examined through a feminist HCI framework and supported by maker culture literature.
+
+## Direction 4 – Frutiger Aero: A Digital Aesthetic Analysis
+*Focus: visual and sonic characteristics of Frutiger Aero as a cultural phenomenon*
+-> Emotionally Charged Digital Aesthetics: Frutiger Aero and Related Internet Phenomena
+
+### I.
+1. I am writing about Frutiger Aero as a digital aesthetic, examining its defining visual and sonic characteristics...
+2. ..because I want to understand what makes this aesthetic emotionally resonant – how it occupies a space between nostalgia and strangeness, familiarity and uncanniness...
+3. ...in order to describe Frutiger Aero as a phenomenon that makes technology feel emotional and organically accessible, both visually and sonically.
+
+### II.
+1. The goal of this paper is to descriptively analyse the visual and sonic characteristics of Frutiger Aero, and examine why it creates an emotionally ambiguous experience situated between digital nostalgia and the uncanny.
+2. **Research Question:** What are the defining visual and sonic characteristics of Frutiger Aero, and how do they contribute to its emotionally resonant aesthetic experience?
+
+### III.
+I answer the research question through a descriptive analysis of Frutiger Aero visual and sonic examples, supported by literature on digital nostalgia, internet aesthetics, and sound design.
+
