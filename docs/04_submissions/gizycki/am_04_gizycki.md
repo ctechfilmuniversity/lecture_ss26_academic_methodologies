@@ -15,7 +15,7 @@ nav_exclude: true
 >Submission: Add references and a description of their relevance. You must use whole sentences.
 
 ### Direction 4 – Frutiger Aero
-My primary search strategy focuses on three areas. First, I search for academic literature on digital nostalgia and internet aesthetics to establish a theoretical framework, using databases like ACM Digital Library, Google Scholar, and Anara. Second, I use the Consumer Aesthetics Research Institute (CARI) as a non-academic primary source for the definition and visual documentation of Frutiger Aero itself. Third, I search for literature on the psychological function of nostalgia, particularly in relation to Gen Z and digital culture. Key search terms include: digital nostalgia, internet aesthetics, Y2K aesthetic, retro digital design, nostalgia Gen Z, sound design nostalgia, digital uncanny.
+My primary search strategy focuses on three areas. First, I search for academic literature on digital nostalgia and internet aesthetics to establish a theoretical framework, using databases like ACM Digital Library, Google Scholar, and Anara. Second, I use the Consumer Aesthetics Research Institute (CARI) as a non-academic primary source for the definition and visual documentation of Frutiger Aero itself. Third, I search for literature on the psychological function of nostalgia, particularly in relation to Gen Z and digital culture. Key search terms include: Hauntology, digital nostalgia, internet aesthetics, Y2K aesthetic, retro digital design, nostalgia Gen Z, sound design nostalgia, digital uncanny.
 ___
 ### Direction 3 – Style as Method
 My search strategy focuses on feminist HCI and maker culture literature, primarily through ACM Digital Library, Anara and Google Scholar. I use Bardzell's foundational Feminist HCI paper (2010) as a theoretical anchor, and combine it with newer literature on feminist makerspaces and women's participation in maker culture. Key search terms include: feminist HCI, maker culture gender, feminist makerspaces, women in tech DIY, aesthetic identity maker culture.
@@ -40,20 +40,33 @@ ___
 
     This paper looks at why Gen Z is drawn to internet aesthetics like Y2K and Dreamcore. It is relevant because Frutiger Aero is part of the same group of digital nostalgia aesthetics, and the paper's findings can be applied to understand why Frutiger Aero resonates with people today.
 
-3. **Spiliotopoulos, K. et al. (2018). A Comparative Study of Skeuomorphic and Flat Design from a UX Perspective**
+3. **Yöndem, S. G. (2024). Hauntology and the Absence Aesthetics: An Examination of Liminal Internet Aesthetics. Master's Thesis, Bilkent University.** 
+   
+   🔗 [Link to the source](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=877YZmAAAAAJ&citation_for_view=877YZmAAAAAJ:u-x6o8ySG0sC)
+
+   This Master's thesis applies the concept of hauntology directly to internet aesthetics like Dreamcore and Weirdcore. It uses Mark Fisher as a theoretical foundation but translates it into a digital context, making it directly relevant to the analysis of Frutiger Aero as a haunted digital aesthetic. 
+
+4. **Barna, M. Cultural hauntology and nostalgia: vaporwave as a symptom of capitalist realism" (Academia.edu)** 
+   
+   🔗 [Link to the source](https://www.academia.edu/44990540/Cultural_hauntology_and_nostalgia_vaporwave_as_a_symptom_of_capitalist_realism)
+
+   This paper analyses Vaporwave through the lens of hauntology. It is relevant because Vaporwave and Frutiger Aero are closely related digital nostalgia aesthetics, both characterized by a sense of a technological past that feels familiar yet strange. 
+
+
+5. **Spiliotopoulos, K. et al. (2018). A Comparative Study of Skeuomorphic and Flat Design from a UX Perspective**
 
     🔗 [Link to the source](https://www.semanticscholar.org/paper/A-Comparative-Study-of-Skeuomorphic-and-Flat-Design-Spiliotopoulos-Rigou/)
 
     Skeuomorphic design is a visual approach where digital elements are designed to resemble real-world objects in texture and form. This paper compares this style with flat design in terms of user experience and emotional response. It is relevant because Frutiger Aero is a strongly skeuomorphic aesthetic, characterized by glossy textures, bubbles, and nature-like surfaces. This paper helps explain why this visual style feels emotionally different and warmer than the flat, minimalist design that replaced it.
 
-4. **Xian, S. (2017). Frutiger Aero. Consumer Aesthetics Research Institute (CARI).**
+6. **Xian, S. (2017). Frutiger Aero. Consumer Aesthetics Research Institute (CARI).**
 
     🔗 [Link to the source](https://cari.institute/aesthetics/frutiger-aero)
 
     (Non-academic source. Used for primary aesthetic definition only)
     This is a source that early named and defined Frutiger Aero as an aesthetic. It describes its visual characteristics in detail. It is used here only to define what Frutiger Aero is, not as academic theory.
 
-5. **Frutiger Aero Archive**
+7. **Frutiger Aero Archive**
 
     (Non-academic source. Used for primary aesthetic definition only) This is an online archive that documents Frutiger Aero visuals, music, and cultural references in detail. It is used as a non-academic primary source to illustrate the aesthetic.
 

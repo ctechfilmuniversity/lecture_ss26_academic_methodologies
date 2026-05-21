@@ -64,15 +64,20 @@ I answer the research question through a descriptive analysis of aesthetic patte
 *Focus: visual and sonic characteristics of Frutiger Aero as a cultural phenomenon*
 -> Emotionally Charged Digital Aesthetics: Frutiger Aero and Related Internet Phenomena
 
-### I.
-1. I am writing about Frutiger Aero as a digital aesthetic, examining its defining visual and sonic characteristics...
-2. ..because I want to understand what makes this aesthetic emotionally resonant – how it occupies a space between nostalgia and strangeness, familiarity and uncanniness...
-3. ...in order to describe Frutiger Aero as a phenomenon that makes technology feel emotional and organically accessible, both visually and sonically.
+Frutiger Aero provokes strong reactions. Some find it comforting and nostalgic, others find it dated or visually excessive. This ambivalence is precisely what makes it interesting as a case study.
 
-### II.
-1. The goal of this paper is to descriptively analyse the visual and sonic characteristics of Frutiger Aero, and examine why it creates an emotionally ambiguous experience situated between digital nostalgia and the uncanny.
-2. **Research Question:** What are the defining visual and sonic characteristics of Frutiger Aero, and how do they contribute to its emotionally resonant aesthetic experience?
+**I.**
 
-### III.
-I answer the research question through a descriptive analysis of Frutiger Aero visual and sonic examples, supported by literature on digital nostalgia, internet aesthetics, and sound design.
+1. I am writing about Frutiger Aero as a digital aesthetic, focusing on its defining visual and sonic characteristics...
+2. ...because I want to understand how and why this aesthetic has re-emerged in contemporary internet culture...
+3. ...in order to describe Frutiger Aero as a case study of digital hauntology – an aesthetic that feels both familiar and strange because it carries traces of a technological past.
 
+**II.**
+
+1. The goal of this paper is to descriptively analyse the visual and sonic characteristics of Frutiger Aero and examine why it has re-emerged as a cultural reference in contemporary online spaces.
+2. **RQ:** What are the defining visual and sonic characteristics of Frutiger Aero, and how does its re-emergence reflect a broader pattern of digital hauntology?
+
+**III.**
+I answer the research question through a descriptive analysis of Frutiger Aero examples, supported by literature on digital nostalgia and hauntology.
+
+→ “Hauntology” describes cultural phenomena that are haunted by a past that never fully was – things that feel familiar yet strange, as if from a future that never arrived.
