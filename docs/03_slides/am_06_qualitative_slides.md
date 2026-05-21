@@ -18,6 +18,13 @@ template:inverse
 ---
 layout: false
 
+![qualitativeresearch_01](../02_scripts/img/qualitative/qualitativeresearch_01.png)  
+[[Dave Yeats]](https://medium.com/indeed-engineering/qualitative-before-quantitative-how-qualitative-methods-support-better-data-science-d2b01d0c4e64)
+
+
+
+---
+
 ## Research Methods
 
 Qualitative research methods are, for example:
