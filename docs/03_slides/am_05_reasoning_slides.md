@@ -942,6 +942,69 @@ Within the context of Creative Technologies:
 * What kinds of barriers do people with disabilities face when trying to access VR experiences?
 
 
+---
+
+## Mixed Methods Methodology
+
+* Combines quantitative and qualitative methods
+* Explanatory and exploratory
+
+
+???
+  
+A study on the effectiveness of a new teaching method might:
+  
+* Collect test scores (quantitative) to measure learning outcomes.
+* Conduct interviews (qualitative) to understand student experiences and perceptions.
+
+--
+
+> Can be pretty much anything...
+
+
+---
+.header[Mixed Methods Methodology]
+
+## Media Studies 
+
+Interdisciplinary field that can draw on qualitative, quantitative, or mixed methods, depending on the research question.
+
+
+---
+.header[Mixed Methods Methodology]
+
+## Media Studies 
+
+Qualitative:
+* Textual analysis (e.g., analyzing film)
+* Discourse analysis (e.g., examining text and language)
+* Audience studies (e.g., interviews on media reception)
+* Historical or archival research (e.g., technologies in regard to time)
+
+Quantitative:
+* Surveys (e.g., measuring media consumption habits)
+* Content analysis with coding (e.g., tracking how often a theme appears)
+* Statistical modeling (e.g., measuring and generalizing media effects)
+
+
+???
+Media studies often uses qualitative research, but it is not limited to it. Media studies is an interdisciplinary field that can draw on qualitative, quantitative, or mixed methods, depending on the research question.
+
+Common qualitative approaches in media studies:
+* Textual analysis (e.g., analyzing film, TV, or social media content)
+* Discourse analysis (e.g., examining language in news reporting)
+* Audience studies (e.g., interviews or focus groups on media reception)
+* Ethnography (e.g., studying online communities or production cultures)
+* Historical or archival research (e.g., investigating media institutions or technologies over time)
+
+Quantitative methods are also used in media studies:
+* Surveys (e.g., measuring media consumption habits)
+* Content analysis with coding (e.g., tracking how often a theme appears across many articles)
+* Statistical modeling (e.g., studying the spread of information or media effects)
+
+Summary:
+
+Media studies often leans qualitative, especially in cultural, critical, or interpretive work. But it also includes quantitative approaches, especially in communication science or media psychology. Many scholars use mixed methods to combine both.
 
 
 ---

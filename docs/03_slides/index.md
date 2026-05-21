@@ -20,4 +20,6 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 * [Session 03 - Research](./am_04_research_slides.html)
 * [Session 04](./am_session04_slides.html)
 * [Session 04 - Reasoning](./am_05_reasoning_slides.html)
+* [Session 05](./am_session05_slides.html)
+* [Session 05 - Qualitative Research](./am_06_qualitative_slides.html)
 

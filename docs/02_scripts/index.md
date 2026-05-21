@@ -18,7 +18,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 * [Chapter 03 - Research Questions](./am_03_questions_script.md)
 * [Chapter 04 - Research](am_04_research_script.md)
 * [Chapter 05 - Reasoning](am_05_reasoning_script.md)
-
+* [Chapter 06 - Qualitative Research Methods and Analysis](./am_06_qualitativeresearch_script.md)
 
 <!-- 
   
@@ -26,7 +26,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 * [Chapter 03 - Writing](am_03_writing_script.md)
 
 
-* [Chapter 07 - Qualitative Research Methods and Analysis](./am_07_qualitativeresearch_script.md)
+
 * [Chapter 08 - Experiments](./am_08_experiments_script.md)
 * [Chapter 09 - Statistics in a Nutshell](./am_09_statistics_script.md)
 * [Chapter 10 - Publishing](./am_10_publishing_script.md) 
