@@ -60,3 +60,47 @@ Name related work for your paper. List *at least* three, ideally academic, publi
 
 **Submission:**
 
+
+While I am still in the process of refining my research question, my current focus is on understanding how design decisions in translating embodied data (motion, gesture) into interactive systems shape the user's experience of responsiveness and engagement. I am particularly interested in exploring the intersection of data representation, code design, and embodied interaction through both audio and visual feedback mechanisms.
+I might edit this list later.
+
+These three papers focus primarily on sonification and audio-visual integration. I plan to expand my literature collection to include papers specifically addressing:
+
+- Real-time visual feedback systems and their perceptual impact on embodied interaction
+- Motion capture data representation and abstraction in interactive design
+
+This broader perspective will allow me to more fully analyze the design decisions in both the audio-focused aspects (my previous Schauspiel project) and maybe a visual-focused aspects (a planned Festival installation), enabling a more comprehensive understanding of how different sensory modalities shape embodied engagement.
+
+
+---
+
+### 1. Open Your Ears and Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization
+
+**Citation:** Enge, K., et al. (2024). "Open Your Ears and Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization." *Computer Graphics Forum*, 43(3).
+
+**URL:** https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.15114
+
+**Relevance:** This paper surveys 57 publications on integrating sonification and visualization. It provides a framework for understanding how audio and visual representations work together to create multimodal experiences. This is directly relevant to my research on how design decisions in mapping embodied data translate into both sonic and visual feedback.
+
+---
+
+### 2. Audiovisual sonifications: A design map for multisensory integration in data representation
+
+**Citation:** Caiola, V., Lenzi, S., & Riccò, D. (2022). "Audiovisual sonifications: A design map for multisensory integration in data representation." In *Proceedings of the Design Research Society Conference 2022*.
+
+**URL:** https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=2898&context=drs-conference-papers
+
+**Relevance:** This paper presents a design map for coordinating visual and audio parameters in data representation. It is relevant to my research because it provides concrete frameworks for mapping data to sensory channels. This will help me analyze the design decisions I make when translating motion data into visual and sonic outputs.
+
+---
+
+### 3. Erie: A Declarative Grammar for Data Sonification
+
+**Citation:** Erie. (2024). "Erie: A Declarative Grammar for Data Sonification." In *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24)*.
+
+**URL:** https://arxiv.org/pdf/2402.00156
+
+**Relevance:** Erie proposes a formal grammar for mapping data variables to auditory variables. This is relevant to my research because it provides a systematic approach to understanding how embodied data can be translated into discrete sonic events. This framework will inform my design decisions when encoding motion data into interactive feedback.
+
+---
+
