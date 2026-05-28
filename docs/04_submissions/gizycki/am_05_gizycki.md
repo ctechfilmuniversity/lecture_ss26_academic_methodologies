@@ -64,9 +64,6 @@ Skeuomorphic design is a visual approach where digital elements are designed to 
 Gibson, W. (1984). Neuromancer. Ace Books.
 This novel introduced the term "cyberdeck" as a portable computer used by hackers to infiltrate virtual worlds. It is relevant as the cultural origin of the cyberdeck concept, which this paper uses as a second example of a hauntological aesthetic revival.
 
-Levy, S. (1984). Hackers: Heroes of the Computer Revolution. Anchor Press/Doubleday.
-This book documents the origins of hacker culture at MIT in the 1950s–1980s. It is relevant as historical context for the original cyberdeck movement, against which the contemporary hyperfeminine cyberdeck revival is contrasted.
-
 Xian, S. (2017). Frutiger Aero. Consumer Aesthetics Research Institute (CARI).
 🔗 https://cari.institute/aesthetics/frutiger-aero
 (Non-academic source. Used for primary aesthetic definition only.)
