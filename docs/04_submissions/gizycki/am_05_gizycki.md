@@ -63,21 +63,5 @@ Frutiger Aero Archive.
 This online archive documents Frutiger Aero visuals, music, and cultural references in detail. It is used as a non-academic primary source to illustrate the aesthetic.
 
 ---
-  
-Answer all questions directly in a copy of this file. Submit your copy as `am_XX_lastname.md` in your submissions folder (replace the XX with the number of the session). 
-  
-
-Please add the following header at the beginning of your Markdown file:
-
-```md
----
-layout: default
-title: Homework
-nav_exclude: true
----
-```
-  
-
----
-
-**Happy Collecting!**
+ Thoughts: I'm thinking about writing a follow up paper in the 3 semester. "Was bedeutet das gesellschaftlich?" → kritische Analyse warum Cuteness-Tech nicht ernst genommen wird weil feminin kodiert. ist politischer.
+ Cuteness is used to reclaim and democratize tech culture – but is dismissed precisely because it is coded as feminine and therefore not "serious."
