@@ -9,7 +9,7 @@ nav_exclude: true
 
 #### I. Complete the following three sentences:
 
-# 3 Possible Directions:
+# 4 Possible Directions:
 
 ## Direction 1 – The Historical Comparison
 *Focus: then vs. now – two moments of Maker Culture*
@@ -59,3 +59,25 @@ I answer the research question through a descriptive analysis of publicly availa
 
 ### III.
 I answer the research question through a descriptive analysis of aesthetic patterns in hyperfeminine cyberdeck community content, examined through a feminist HCI framework and supported by maker culture literature.
+
+## Direction 4 – Frutiger Aero: A Digital Aesthetic Analysis
+*Focus: visual and sonic characteristics of Frutiger Aero as a cultural phenomenon*
+-> Emotionally Charged Digital Aesthetics: Frutiger Aero and Related Internet Phenomena
+
+Frutiger Aero provokes strong reactions. Some find it comforting and nostalgic, others find it dated or visually excessive. This ambivalence is precisely what makes it interesting as a case study.
+
+**I.**
+
+1. I am writing about Frutiger Aero as a digital aesthetic, focusing on its defining visual and sonic characteristics...
+2. ...because I want to understand how and why this aesthetic has re-emerged in contemporary internet culture...
+3. ...in order to describe Frutiger Aero as a case study of digital hauntology – an aesthetic that feels both familiar and strange because it carries traces of a technological past.
+
+**II.**
+
+1. The goal of this paper is to descriptively analyse the visual and sonic characteristics of Frutiger Aero and examine why it has re-emerged as a cultural reference in contemporary online spaces.
+2. **RQ:** What are the defining visual and sonic characteristics of Frutiger Aero, and how does its re-emergence reflect a broader pattern of digital hauntology?
+
+**III.**
+I answer the research question through a descriptive analysis of Frutiger Aero examples, supported by literature on digital nostalgia and hauntology.
+
+→ “Hauntology” describes cultural phenomena that are haunted by a past that never fully was – things that feel familiar yet strange, as if from a future that never arrived.
