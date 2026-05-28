@@ -22,4 +22,12 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 * [Session 04 - Reasoning](./am_05_reasoning_slides.html)
 * [Session 05](./am_session05_slides.html)
 * [Session 05 - Qualitative Research](./am_06_qualitative_slides.html)
+* [Session 06](./am_session06_slides.html)
+* [Session 06 - Quantitative Research](./am_07_quantitative_slides.html)
 
+
+<!-- 
+
+* [Session 07 - Statistics in a Nutshell](./am_08_statistics_slides.html)
+  
+ -->
