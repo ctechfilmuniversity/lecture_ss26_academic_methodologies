@@ -37,25 +37,13 @@ Dale, J. P. (2023). Irresistible: How Cuteness Wired our Brains and Conquered th
 🔗 https://profilebooks.com/work/irresistible/
 This book explains why cuteness triggers such strong emotional and psychological responses, and how cute aesthetics have spread globally across culture and design. It is the primary theoretical source for understanding cuteness as a mechanism, directly relevant to the argument that Frutiger Aero's cute visual characteristics make it emotionally accessible and inviting.
 
-Dale, J. P. et al. (2017). The Aesthetics and Affects of Cuteness. Routledge.
-🔗 https://www.researchgate.net/publication/311594356_The_Aesthetics_and_Affects_of_Cuteness
-This academic volume examines cuteness as a cultural and aesthetic force across different contexts. It provides more academically rigorous theoretical grounding for the analysis of cuteness as an aesthetic mechanism.
-
 Yöndem, S. G. (2024). Hauntology and the Absence Aesthetics: An Examination of Liminal Internet Aesthetics. Master's Thesis, Bilkent University.
 🔗 https://repository.bilkent.edu.tr/items/52ab033d-648b-4bff-b0b4-e84b412a6b7d
 This thesis applies hauntology directly to internet aesthetics like Dreamcore and Weirdcore. It provides the hauntology framework that this paper uses to explain why "dead" digital aesthetics like Frutiger Aero return and feel simultaneously familiar and strange.
 
-Barna, M. Cultural Hauntology and Nostalgia: Vaporwave as a Symptom of Capitalist Realism. Academia.edu.
-🔗 https://www.academia.edu/44990540/Cultural_hauntology_and_nostalgia_vaporwave_as_a_symptom_of_capitalist_realism
-This paper analyses Vaporwave through the lens of hauntology. It is relevant because Vaporwave and Frutiger Aero are closely related digital nostalgia aesthetics, and the paper's application of hauntology to a specific digital aesthetic provides a useful methodological model.
-
 Juhl, J., & Biskas, M. (2022). Nostalgia: An impactful social emotion. Current Opinion in Psychology.
 🔗 https://pubmed.ncbi.nlm.nih.gov/36641833/
 This paper explains what nostalgia is and why it affects people emotionally. It is relevant because nostalgia is one of the key emotional mechanisms through which Frutiger Aero operates, and helps explain why the aesthetic resonates even with people who did not grow up with it.
-
-Han, Q. (2025). Digital Nostalgia in Generation Z: Exploring the Motivations Behind Dreamcore and Y2K Revival. ResearchGate.
-🔗 https://www.researchgate.net/publication/394351690_Digital_Nostalgia_in_Generation_Z_Exploring_the_Motivations_Behind_Dreamcore_and_Y2K_Revival
-This paper looks at why Gen Z is drawn to internet aesthetics like Y2K and Dreamcore. It is relevant because Frutiger Aero belongs to the same family of digital nostalgia aesthetics, and the paper's findings can be applied to understand why it resonates with people today.
 
 Spiliotopoulos, K. et al. (2018). A Comparative Study of Skeuomorphic and Flat Design from a UX Perspective. Semanticscholar.
 🔗 https://www.semanticscholar.org/paper/A-Comparative-Study-of-Skeuomorphic-and-Flat-Design-Spiliotopoulos-Rigou/b7c74634beef608b9de7ae2ad75acde1000c9cbe
