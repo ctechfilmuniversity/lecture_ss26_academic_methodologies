@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Session 03
+title: Homework
 nav_exclude: true
 ---
 
@@ -79,5 +79,29 @@ Frutiger Aero provokes strong reactions. Some find it comforting and nostalgic, 
 
 **III.**
 I answer the research question through a descriptive analysis of Frutiger Aero examples, supported by literature on digital nostalgia and hauntology.
+
+→ “Hauntology” describes cultural phenomena that are haunted by a past that never fully was – things that feel familiar yet strange, as if from a future that never arrived.
+
+## Direction 5 – Cuteness functions as a reactivation mechanism for hauntological digital aesthetics – making the familiar-strange feel safe, emotional, and accessible again.
+*Focus: Cuteness as a mechanism → makes things emotionally accessible, inviting, and soothing.
+Hauntology → explains why "dead" aesthetics return and feel simultaneously familiar and strange.*
+-> Frutiger Aero, cyberdecks in handbags etc. are examples of "dead" or forgotten aesthetics that are being made accessible once again through cuteness.
+-> Frutiger Aero provokes strong reactions: some find it comforting and nostalgic, others find it dated or visually excessive. This ambivalence is precisely what makes it interesting as a case study.
+
+**I.**
+
+1. I am writing about the role of cuteness in the revival of digital aesthetics, using Frutiger Aero as a case study...
+2. ...because I want to understand how cuteness functions as a reactivation mechanism for hauntological aesthetics: making familiar yet strange digital visual and sonic languages feel emotionally accessible again...
+3. ...in order to describe how and why "dead" digital aesthetics are brought back to life through cute visual and sonic characteristics.
+
+
+
+**II.**
+
+1. The goal of this paper is to descriptively analyse how cuteness operates as a reactivation mechanism for hauntological digital aesthetics, using Frutiger Aero as a primary case study.
+2. **RQ:** How does cuteness function as a reactivation mechanism for hauntological digital aesthetics, and what does Frutiger Aero illustrate about this relationship?
+
+**III.**
+I answer the research question through a descriptive analysis of Frutiger Aero's visual and sonic characteristics, examined through the combined lens of cuteness theory and hauntology, supported by literature on digital nostalgia and internet aesthetics.
 
 → “Hauntology” describes cultural phenomena that are haunted by a past that never fully was – things that feel familiar yet strange, as if from a future that never arrived.
