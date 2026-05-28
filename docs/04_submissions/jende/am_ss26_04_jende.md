@@ -1,8 +1,10 @@
+```md
 ---
 layout: default
 title: Homework
 nav_exclude: true
 ---
+```
 
 **Academic Methodologies**
   
@@ -37,21 +39,21 @@ https://doi.org/10.3390/math13040651
 
     &rarr; I chose these three recent papers because they provide a thorough overview of the current state of the art and the historical development of watermarking in AI-generated content. They synthesize a wide range of sources and have been refined after publication, which adds to their reliability. Although they are relatively general, I consider them a good entry point into the topic. Additionally, I plan to compare them in terms of where they converge and diverge, as well as to identify additional perspectives each one offers.
 
----
+<br>
 
 + Zhengyuan Jiang, Moyang Guo, Yuepeng Hu, Yupu Wang, and Neil Zhenqiang Gong. 2026. Watermark-based Attribution of AI-Generated Content. In Proceedings of the 14th International Conference on Learning Representations (ICLR 2026). arXiv preprint.  
 https://doi.org/10.48550/arXiv.2404.04254
 
     &rarr; This paper is more narrow, looking at using watermarks not just to detect AI-generated content, but to trace it back to the individual user who produced it. It opens up an important and largely unaddressed question in this area of research.
 
----
+<br>
 
 + Zhao, Xuandong, Kexun Zhang, Zihao Su, Saastha Vasan, Ilya Grishchenko, Christopher Kruegel, Giovanni Vigna, Yu-Xiang Wang, and Lei Li. 2024. Invisible Image Watermarks Are Provably Removable Using Generative AI. In Advances in Neural Information Processing Systems 37 (NeurIPS 2024). Neural Information Processing Systems Foundation, Inc.  
 https://doi.org/10.52202/079017-0276
 
     &rarr; I see this as an important paper addressing a highly relevant topic: the actual robustness of watermarking methods. Even the title already highlights several concerning findings that warrant careful consideration in my research.
 
----
+<br>
 
 + Yunzhuo Chen, Jordan Vice, Naveed Akhtar, Nur Al Hasan Haldar, and Ajmal Mian. 2025. Image Watermarking of Generative Diffusion Models. arXiv preprint.  
 https://doi.org/10.48550/arXiv.2502.10465
