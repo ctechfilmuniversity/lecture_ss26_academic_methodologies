@@ -34,6 +34,60 @@ There are two hard deadlines for this paper description:
 
 _Submission:_ Your description.
 
+# A review about algorithmic platform design features
+
+## Surveillance Capitalism vs. Structural Alternatives: Echo Chambers, Hate Speech, and Creative Autonomy on Emerging Platforms
+
+Speculating on whether a shift away from surveillance-capitalist platform design toward smaller, algorithm-free alternatives such as Subs and Cara could reduce echo chamber formation and hate speech among aspiring creatives while preserving creative expression and community formation — or whether removing the algorithm entirely strips platforms of the competitive energy and organic discovery that drive creative ambition and growth.
+
+Could there be a future where we decentralize from capitalistic surveillance apps and use small chronological and not alrgorithmic apps that are more specificly designed for a more niche and theme specific purpose, target group? What could be even more polarizing but also fast forwarding including tools for flagging Ai content?
+
+What makes a platform evil? Algorithms and how they are designed in general or just the big players behind it. How can we design Algorithms to be more inclusive?
+
+The body of the paper will be an either 1-2 qualitative interviews (or the argumentative research) of Dan Verständig and Kevin Gallas Mayer.
+
+Dan Verständig is a "educational theorist whose work examines how algorithmic infrastructures shape the conditions for self-determined learning and participation". His research could provide the theoretical backbone for understanding why platform design is not a neutral technical question but a fundamentally pedagogical and political one.
+
+content to generate questions for Dan Verständig could be:
+Engagement-optimizing algorithms reward outrage and in-group confirmation — and for young creators, whose identity formation is acutely sensitive to social feedback, what could this mean? Of course non-explainable, capitalistic driven algorithms amplify harmful content and drive the encounter with differences in social groups....
+
+Kevin Gallas Mayer is founder of the ethical social media App subs, it removes algorithmic curation and has features like a NFT marketplace, creator ownership, no advertising and a chronogical feed and no data collection for profiling.
+
+The question I will be asking Kevin could be about eg.:
+Dominant platform design exploits young creators rather than supporting them — but the paper asks honestly whether the cure of removing the algorithm entirely might carry its own costs for the creative culture it is trying to protect.??
+
+Another example would be:
+Cara — algorithm-free and AI-rejecting, founded by Jingna Zhang, which grew from 40,000 to 650,000 users after Meta announced AI training on user content;
+
+Drawing on platform design theory, educational philosophy, and algorithmic effects research, the paper could develops the concept of algorithmic self-determination.
+
+What does this switch mean for artist on these platforms?
+I feel like platforms optimized for the three-second hook gradually restructure the creative imagination of young artists, making the three-minute animated music video feel structurally impossible rather than simply unpopular.
+
+REFERENCES:
+
+1. Verständig & Ahlborn (2020). "Decoding Subjects? Über Subjektivierung und Kreativität im algorithmischen Zeitalter." The paper deals directly with the question of how subjectivity and creativity are shaped — and constrained — in algorithmically structured environments. The argument is that algorithms do not just distribute content, they actively shape the conditions under which creative subjects form themselves. Restructuring what forms of expression feel natural.
+
+Ahlborn, Juliane, and Dan Verständig — chapter on TikTok and algorithmic socialization in: Algorithmen und Faszination Soziale Medien. Jugendliche Sozialisation im Kontext der Spätmoderne. Springer. https://doi.org/10.1007/978-3-658-50216-4_4
+
+2. Zuboff, S. (2019). The Age of Surveillance Capitalism.
+
+3. 13 Fragen (ZDF kultur)
+   https://www.zdf.de/play/talk/unbubble-100/socialmedia-13f-100
+
+4. Algorithmen und Autonomie: Interdisziplinäre
+   Perspektiven auf das Verhältnis von
+   Selbstbestimmung und Datenpraktiken
+
+- Dan Verständig
+  https://www.ssoar.info/ssoar/bitstream/handle/document/81464/ssoar-2022-verstandig_et_al-Algorithmen_und_Autonomie_Interdisziplinare_Perspektiven.pdf?sequence=1
+
+4. Zillien, N. 2009. Digitale Ungleichheit: Neue Technologien und alte Ungleichheiten in der Informations- und Wissensgesellschaft, 2. Aufl. Wiesbaden: Springer VS.
+
+5. Verständig, Dan, and Janne Stricker (2023). "Hacking Inequality: In fünf Schritten zu etwas mehr Bildungsgerechtigkeit." MedienPädagogik 52 (gerecht - digital - nachhaltig): 319–339. https://doi.org/10.21240/mpaed/52/2023.02.16.X
+
+6. Verständig, Dan (2023). "Digitale Öffentlichkeiten zwischen Produktion, Umdeutung und Negation." In M. Rieger-Ladich, M. Brinkmann & C. Thompson (eds.), Öffentlichkeiten. Beltz Juventa.
+
 ---
 
 Answer all questions directly in a copy of this file. Submit your copy as `am_XX_lastname.md` in your submissions folder (replace the XX with the number of the session).
