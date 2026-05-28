@@ -3,11 +3,17 @@ layout: true
 class: center, middle, inverse
 ---
 
+
 # Academic Methodologies
+
+#### - Qualitative Research Methods -
+
+<br /><br />
 
 ### Prof. Dr. Lena Gieseke | l.gieseke@filmuniversitaet.de  
 
 #### Film University Babelsberg KONRAD WOLF
+
 
 
 ---
@@ -643,7 +649,8 @@ template:inverse
 --
 
 * Useful for understanding individual perspectives
-* Crucial: *who* to involve and *how* to structure the sessions
+* Crucial: *who* to involve and how to structure the sessions
+    * You must give an argumentation for your selection
 * Structured, semi-structured and unstructured
 
 ---
@@ -876,6 +883,8 @@ Proper coding is necessary for a valid and reliable qualitative analysis!
 
 ???
   
+
+[am_07_quantitative_slides](./am_07_quantitative_slides.html)
 
 * Establish coding procedures and guidelines and keep an eye out for definitional drift in your qualitative data analysis.  
 * Come up with a qualitative study design from the field of Creative Technologies.  
