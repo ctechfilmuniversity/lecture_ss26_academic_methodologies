@@ -39,10 +39,16 @@ There are two hard deadlines for this paper description:
 
 *Submission:* Your description.
 
-Data in Motion: Exploring accessible Real-Time Motion Tracking Pipelines in Theater and Live performance
 
-This paper investigates how accesible motion tracking systems in TouchDesigner can shape and support embodied performer awareness in live performance and theater. To be more specific relational body data processing strategies in TouchDesigner as an alternative to expensive professional motion capture systems. 
-Based on a use case from a collaboration between actors and creative technology students at Filmuniversity Babelsberg, the paper explores the creative and technical trade-offs when designing low-cost, real-time sensor-to-sound/visual pipelines. While motion tracking in performance and film often relies on expensive, professional systems (Vicon, XSens), open-source tools and affordable sensors (depth cameras e.g. XBox Kinect) have increasingly become alternative for artists in embodied interaction practices. This accessibility comes with distinct technical challenges: how can artists design stable, intuitive gesture-detection systems without expensive engineering infrastructure? The paper examines relational body data as a stability strategy, code-based gesture detection for clarity, and the performer's embodied awareness of system responsiveness. 
+Data in Motion. Exploring possibilities and trade-offs of accessible low-budget motion tracking systems in the context of real-time performance.
+
+Professional motion tracking, whether in film or live performances, typically relies on expensive, complex infrastructure - mechanism that limits who can engage in embodied interaction design. On the other hand, open-source tools and affordable sensors (depth cameras, Kinect) have increasingly become alternatives for artists working in embodied interaction. Rather than viewing low-cost systems as alternatives or compromises, this paper treats them as deliberate artistic choices. Choosing accsessibility and affordance can be understood as an artistic practice in itself, especially with regard to the increasing monetization of access to digital resources in the tech industry.
+An artistic approach of motion tracking can be framed as embodied artistic practice, where the human body is not just an input source but the primary site of expression. Technology thus can be viewed as an extension and should not only become a prerequisite. Through the discussion in this paper, I aim to explore the tension between embodied, intuitive physical work and technical constraints required for a functioning, reliable system.
+
+Based on a use case from a collaboration between actors and creative technology students at Filmuniversity Babelsberg, the paper explores the creative and technical trade-offs when designing low-cost sensor pipelines. Concretely, a relational body data processing strategy in TouchDesigner via a Kinect motion tracking. The study examines relational body data as a stability strategy, code-based gesture detection for clarity, and the performer's awareness of system responsiveness. 
+
+
+
 
 
 *references:* (to be added)
