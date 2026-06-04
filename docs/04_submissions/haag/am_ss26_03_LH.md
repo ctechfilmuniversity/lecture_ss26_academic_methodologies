@@ -116,7 +116,6 @@ III. Define your methodology:
   
 Answer all questions directly in a copy of this file. Submit your copy as `am_XX_lastname.md` in your submissions folder (replace the XX with the number of the session). 
   
-
 ---
 
 **Happy Researching!**
