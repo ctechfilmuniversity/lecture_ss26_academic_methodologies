@@ -36,3 +36,6 @@ In the paper [3] a framework is developed describing the behavioral phases from 
 [5] Chen, 2023. A Comprehensive Study of Emotional Responses in AI-Enhanced Interactive Installation Art
 
 
+---
+
+**COMMENT LENA**: This text gives a good idea of the topic and aspects you want to work on and the text can stay as is for next week's deadline. Also the references represent a good selection (however next time please use proper reference listings including where an article was published.). Next you will need to refine what exactly your methodology and steps are. As of now it sounds almost as if you want to do a user study yourself (which you don't, right?).

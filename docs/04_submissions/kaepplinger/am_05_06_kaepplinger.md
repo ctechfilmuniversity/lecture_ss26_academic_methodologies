@@ -41,3 +41,19 @@ https://doi.org/10.48550/arXiv.2409.16470
 https://doi.org/10.1145/1240624.1240704
 
 + more to come :D
+
+---
+
+**COMMENT LENA**: 
+This text gives a good idea of the topic and aspects you want to work and is sufficient for next week's submission. However, I recommend that you already further improve the text upon the following comments. 
+
+Overall, your text still lacks precision and make in parts ungrounded claims:
+- "I found that no single capture method works for every scene and use case." -> how did you "find" that, did you make an analysis? And what do you mean with "works for every scene and use case."? Rather state a couple of concrete failure cases that you experiences and which might motivate you paper already just as well. 
+- "depends on the type of scene and its intended use" -> and what type of scenes and uses can there be? To claim to cover all, is not reasonable. Again, find some specific cases here and describe them.
+- It is not clear, why you need a research-through-design approach? What can you answer with that, that you couldn't through just analyzing you finished implementation? RtD requires that the design process itself generates knowledge, not just a working artifact. How does this apply here?
+- "Each method is suited to a different kind of scene and usecase" -> Which ones (see also my comment above).
+- "The design lessons come from where each method succeeds and where it struggles." -> with what exactly?
+- "clear guidance on which capture method fits which kind of scene" -> based on what?
+
+Obviously you need more targeted references :D E.g., on synthetic training data and Unreal Engine as a data source?
+
