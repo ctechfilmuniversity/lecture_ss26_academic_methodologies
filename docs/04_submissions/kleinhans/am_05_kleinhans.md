@@ -60,15 +60,12 @@ https://repositories.lib.utexas.edu/items/8107644f-7c23-41bc-955e-c58fd95a1fe7
 ---
 
 **COMMENT LENA**: 
-While your text is very interesting, and the first part gives a great motivation for your work, be careful not to write a manifesto but a paper. Each claim must be well-grounded. The connection between "choosing accsessibility and affordance can be understood as an artistic practice" (which as of now is only a claim from you!) and "the tension between embodied, intuitive physical work and technical constraints required for a functioning, reliable system" needs to be stronger to make sense. Currently it almost reads like two separate papers. Maybe you could tie those two points together in the direction of "cheap hardware (by choice) -> more technical problems"? 
+While your text is very interesting, and the first part gives a great motivation for your work, be careful not to write a manifesto but a paper. Each claim must be well-grounded. The connection between "choosing accessibility and affordance can be understood as an artistic practice" (which as of now is only a claim from you!) and "the tension between embodied, intuitive physical work and technical constraints required for a functioning, reliable system" needs to be stronger to make sense. Currently it almost reads like two separate papers. Maybe you could tie those two points together in the direction of "cheap hardware (by choice) -> more technical problems"? 
 
-Also, I don't quite understand what you mean by "The study examines relational body data as a stability strategy, code-based gesture detection for clarity, and the performer's awareness of system responsiveness.". Please explain these aspects further and how they are a valid representation for "explore[ing] the creative and technical trade-offs".
+Also, I don't quite understand what you mean by "The study examines relational body data as a stability strategy, code-based gesture detection for clarity, and the performer's awareness of system responsiveness." Please explain these aspects further and how they are a valid representation for "explore[ing] the creative and technical trade-offs".
 
 Overall, think one more time about which question you are answering. The text has a motivation and a vague aim ("explore the tension") but then lacks a bit of clarity.
 
 Obviously you need more references :D
-
-
-  
 
 

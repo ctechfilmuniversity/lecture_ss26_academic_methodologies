@@ -67,13 +67,12 @@ This online archive documents Frutiger Aero visuals, music, and cultural referen
  Cuteness is used to reclaim and democratize tech culture – but is dismissed precisely because it is coded as feminine and therefore not "serious."
 
 
- ---
+---
 
 **COMMENT LENA**: 
-While all the topics you are mentioning, sound very interesting, and very worthwhile to investigate, your description is a bit "all over the place". You have a topic, a theoretical frame, and two case studies but what are you actually trying to answer? Focus on ONE question. Currently you are mentioning cuteness, Frutiger Aero, hauntology, emotional and psychological responses, cyberdecks, hacker culture, women... That is a lot! Also, a defining quality of academic writing is structure, which is still a bit lacking in the description above.
+While all the topics you are mentioning sound very interesting and very worthwhile to investigate, your description is a bit "all over the place". You have a topic, a theoretical frame, and two case studies but what are you actually trying to answer? Focus on ONE question. Currently you are mentioning cuteness, Frutiger Aero, hauntology, emotional and psychological responses, cyberdecks, hacker culture, women... That is a lot! Also, a defining quality of academic writing is structure, which is still a bit lacking in the description above.
 
-Think about working on your paper like an onion: first establish a well defined, precise core (e.g. "analyzing cuteness in Frutiger Aero"). Once you have that core clear, you can add ONE layer around it. Once that additional layer is precise and clear, you can add another ONE (or stop!), and so on... Currently the description reads more like two papers and I think you should consider cutting everything regarding the cyberdeck (or integrate it better).
-
+Think about working on your paper like an onion: first establish a well-defined, precise core (e.g. "analyzing cuteness in Frutiger Aero"). Once you have that core clear, you can add ONE layer around it. Once that additional layer is precise and clear, you can add another ONE (or stop!), and so on... Currently the description reads more like two papers and I think you should consider cutting everything regarding the cyberdeck (or integrate it better).
 
 Minor comments:
 - If you want to use it, you need a reference for the Gaudí quote.

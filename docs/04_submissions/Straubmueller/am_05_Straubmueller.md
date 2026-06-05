@@ -59,16 +59,14 @@ I answer the research question by implementing and systematically testing the pi
 
 **COMMENT LENA**: 
 
-This text gives a good idea of the topic and aspects you want to work on and is sufficient for next week's submission. However, I recommend that you already further improve the text upon the following comments. You are quite advanced in the description of your methodology, which is great!
+This text gives a good idea of the topic and aspects you want to work on and is sufficient for next week's submission. However, I recommend that you already further improve the text based on the following comments. You are quite advanced in the description of your methodology, which is great!
 
-Overall, you will need be more precise in your writing. A couple of examples for that: 
+Overall, you will need to be more precise in your writing. A couple of examples for that: 
 
-- The first sentence is pretty much meaningless as TD is already "a tool for real-time visual generation in live AV performances" (yes, a introductory sentence can be broad but not this broad). The interesting part here is to describe, what StreamDiffusion would specifically add? Prompting? Low-latency? Start with that.
-- I don't understand what you might mean with "real-time creative interpretation of input signals" and "and external input signals"? I highly recommend that you clarify this already for next week's submission.
-- It is not precise enough to say "to what extent". You define "extend" in the following but I would merge that directly into the question. 
-- "remains under-explored" -> says who? Do you have a reference? Carful with such absolute statements, especially in light of the paper having many citations (https://scholar.google.com/scholar?cites=6445257959271330652&as_sdt=2005&sciodt=0,5&hl=de)
-
-
+- The first sentence is pretty much meaningless as TD is already "a tool for real-time visual generation in live AV performances" (yes, an introductory sentence can be broad but not this broad). The interesting part here is to describe what StreamDiffusion would specifically add. Prompting? Low-latency? Start with that.
+- I don't understand what you might mean with "real-time creative interpretation of input signals" and "external input signals". I highly recommend that you clarify this already for next week's submission.
+- It is not precise enough to say "to what extent". You define "extent" in the following but I would merge that directly into the question. 
+- "remains under-explored" -> Says who? Do you have a reference? Careful with such absolute statements, especially in light of the paper having many citations (https://scholar.google.com/scholar?cites=6445257959271330652&as_sdt=2005&sciodt=0,5&hl=de)
 
 
 
