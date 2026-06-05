@@ -59,7 +59,7 @@ I answer the research question by implementing and systematically testing the pi
 
 **COMMENT LENA**: 
 
-This text gives a good idea of the topic and aspects you want to work and is sufficient for next week's submission. However, I recommend that you already further improve the text upon the following comments. You are quite advanced in the description of your methodology, which is great!
+This text gives a good idea of the topic and aspects you want to work on and is sufficient for next week's submission. However, I recommend that you already further improve the text upon the following comments. You are quite advanced in the description of your methodology, which is great!
 
 Overall, you will need be more precise in your writing. A couple of examples for that: 
 

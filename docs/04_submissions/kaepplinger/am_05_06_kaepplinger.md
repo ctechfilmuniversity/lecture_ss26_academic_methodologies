@@ -45,7 +45,7 @@ https://doi.org/10.1145/1240624.1240704
 ---
 
 **COMMENT LENA**: 
-This text gives a good idea of the topic and aspects you want to work and is sufficient for next week's submission. However, I recommend that you already further improve the text upon the following comments. 
+This text gives a good idea of the topic and aspects you want to work on and is sufficient for next week's submission. However, I recommend that you already further improve the text upon the following comments. 
 
 Overall, your text still lacks precision and make in parts ungrounded claims:
 - "I found that no single capture method works for every scene and use case." -> how did you "find" that, did you make an analysis? And what do you mean with "works for every scene and use case."? Rather state a couple of concrete failure cases that you experiences and which might motivate you paper already just as well. 
