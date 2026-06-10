@@ -102,23 +102,23 @@ I want to understand how cuteness makes maker culture accessible to new audience
 
 ---
 #### List of References
-Dale, J. P. (2023). Irresistible: How Cuteness Wired our Brains and Conquered the World. Profile Books.
-🔗 https://profilebooks.com/work/irresistible/
-This book explains why cuteness triggers such strong emotional and psychological responses, and how cute aesthetics have spread globally across culture and design. It is the primary theoretical source for understanding cuteness as a mechanism, directly relevant to the argument that the hyperfeminine cyberdeck community's cute aesthetic characteristics make maker culture emotionally accessible and inviting.
+**Dale, J. P. (2023). Irresistible: How Cuteness Wired our Brains and Conquered the World. Profile Books.**
+- 🔗 https://profilebooks.com/work/irresistible/
+- This book explains why cuteness triggers such strong emotional and psychological responses, and how cute aesthetics have spread globally across culture and design. It is the primary theoretical source for understanding cuteness as a mechanism, directly relevant to the argument that the hyperfeminine cyberdeck community's cute aesthetic characteristics make maker culture emotionally accessible and inviting.
 
-Yöndem, S. G. (2024). Hauntology and the Absence Aesthetics: An Examination of Liminal Internet Aesthetics. Master's Thesis, Bilkent University.
-🔗 https://repository.bilkent.edu.tr/items/52ab033d-648b-4bff-b0b4-e84b412a6b7d
-This thesis applies hauntology directly to internet aesthetics like Dreamcore and Weirdcore. It provides the hauntology framework that this paper uses to explain why "dead" cultural aesthetics like the cyberdeck return feeling simultaneously familiar and strange.
+**Yöndem, S. G. (2024). Hauntology and the Absence Aesthetics: An Examination of Liminal Internet Aesthetics. Master's Thesis, Bilkent University.**
+- 🔗 https://repository.bilkent.edu.tr/items/52ab033d-648b-4bff-b0b4-e84b412a6b7d
+- This thesis applies hauntology directly to internet aesthetics like Dreamcore and Weirdcore. It provides the hauntology framework that this paper uses to explain why "dead" cultural aesthetics like the cyberdeck return feeling simultaneously familiar and strange.
 
-Alawsi, A. (2024). The Cyberpunk Elements in William Gibson's Neuromancer. Journal of Language and Linguistic Studies.
-🔗 https://www.jlls.org/index.php/jlls/article/viewFile/5562/1980
-This paper analyses the key cyberpunk elements in William Gibson's Neuromancer, including hacker culture and the cyberdeck as a tool of digital rebellion. It is relevant as an academic source that contextualises the cultural and fictional origins of the cyberdeck concept, against which the contemporary hyperfeminine cyberdeck revival is contrasted.
+**Alawsi, A. (2024). The Cyberpunk Elements in William Gibson's Neuromancer. Journal of Language and Linguistic Studies.**
+- 🔗 https://www.jlls.org/index.php/jlls/article/viewFile/5562/1980
+- This paper analyses the key cyberpunk elements in William Gibson's Neuromancer, including hacker culture and the cyberdeck as a tool of digital rebellion. It is relevant as an academic source that contextualises the cultural and fictional origins of the cyberdeck concept, against which the contemporary hyperfeminine cyberdeck revival is contrasted.
 
-Bardzell, S. (2010). Feminist HCI: Taking Stock and Outlining an Agenda for Design. ACM CHI Conference.
-🔗 https://dl.acm.org/doi/pdf/10.1145/1753326.1753521
-This paper argues that technology design is never neutral. It always encodes assumptions about who the user is. It is relevant because it provides a theoretical framework for understanding why aesthetic choices in tech spaces signal inclusion or exclusion.
+**Bardzell, S. (2010). Feminist HCI: Taking Stock and Outlining an Agenda for Design. ACM CHI Conference.**
+- 🔗 https://dl.acm.org/doi/pdf/10.1145/1753326.1753521
+- This paper argues that technology design is never neutral. It always encodes assumptions about who the user is. It is relevant because it provides a theoretical framework for understanding why aesthetic choices in tech spaces signal inclusion or exclusion.
 
-Sherwood, K. (2025). Building a cyberdeck: the DIY tech trend rebelling against billionaire broligarchs. Dazed Digital.
-🔗 https://www.dazeddigital.com/life-culture/article/70129/1/building-a-cyberdeck-diy-tech-rebellious-billionaire-broligarchs-computers
-(Non-academic source. Used as contemporary cultural context only.)
+**Sherwood, K. (2025). Building a cyberdeck: the DIY tech trend rebelling against billionaire broligarchs. Dazed Digital.**
+- 🔗 https://www.dazeddigital.com/life-culture/article/70129/1/building-a-cyberdeck-diy-tech-rebellious-billionaire-broligarchs-computers
+- (Non-academic source. Used as contemporary cultural context only.)
 This article documents the current cyberdeck revival as a grassroots response to corporate tech culture. It is relevant as a contemporary source that illustrates the cultural moment in which hyperfeminine cyberdeck communities are emerging.
