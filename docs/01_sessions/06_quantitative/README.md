@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Session 03
+title: Session 06
 nav_exclude: true
 ---
 

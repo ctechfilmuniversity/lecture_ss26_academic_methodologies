@@ -130,6 +130,11 @@ Inferential statistics
 
 .center[<img src="../02_scripts/img/statistic/statistics_08.png" alt="statistics_08" style="width:50%;">]
 
+---
+template:inverse
+
+# Descriptive Statistics 
+
 
 ---
 .header[Descriptive Statistics]
@@ -559,6 +564,8 @@ Common steps are:
 --
 * Test to quantify the effect
 
+
+
 ---
 template:inverse
 
@@ -634,7 +641,32 @@ $\binom{n}{k} = \frac{n (n-1)...(n-k+1)}{k (k-1)...1} = \frac{n!}{k!(n-k)!} = \f
 
 possible answers.
 
+???
 
+* For the first pick, she has 8 options.
+* For the second pick, 7 remain.
+* For the third pick, 6 remain.
+* For the fourth pick, 5 remain.
+
+That gives 8 × 7 × 6 × 5 = 1680 sequences. But since order doesn't matter (picking cup A then B is the same answer as picking B then A), you divide by the number of ways to arrange 4 things among themselves: 4 × 3 × 2 × 1 = 24.
+
+So: 1680 ÷ 24 = 70
+
+4 × 3 × 2 × 1 = 24 -> Dr. Bristol's answer is just a group, not a sequence. Picking cup A, then B, then C, then D is the same answer as picking D, then C, then B, then A. So the question is: how many different sequences lead to the exact same group of 4 cups?
+
+Take any specific group of 4 cups — say cups A, B, C, D. How many orders can you pick those same 4 cups?
+
+1st pick: 4 options (A, B, C, or D)
+2nd pick: 3 remaining
+3rd pick: 2 remaining
+4th pick: 1 remaining
+4 × 3 × 2 × 1 = 24 different sequences, all representing the exact same final answer.
+
+This is true for every group of 4 cups. So the 1680 sequences we counted are each repeated 24 times. Dividing removes those duplicates:
+
+1680 ÷ 24 = 70 unique groups
+
+The core intuition: the combination formula counts groups (where order is irrelevant), not sequences (where order matters). Dividing by 24 is what converts sequences into groups.
 
 ---
 .header[Inferential Statistics | P-Value]
@@ -651,17 +683,9 @@ possible answers.
 
 ???
   
-* Cases: ways to choose k correct cups (while there are 4 cups that truly had milk first)
-    * ways to choose  0 milk-first
-    * ways to choose  1 milk-first
-    * ways to choose all 2 milk-first
-    * ways to choose all 3 milk-first
-    * ways to choose all 4 milk-first
-    * we calculate \binom{4}{k}
+This table breaks down all 70 possible outcomes by how many of the 4 correct cups Dr. Bristol identifies. The combinations column uses x (correct cup chosen) and o (correct cup missed) to show which of the 4 correct cups were picked — for example, "ooox" means she got only the last correct cup right. The cases column counts how many distinct ways that outcome can occur across all 70 possibilities: getting exactly 2 right, for instance, can happen in 36 different ways. The probability is simply that count divided by 70.
 
-
-
-* The frequencies of the possible numbers of successes, given in the final column of this table, are derived as follows. For 0 successes, there is clearly only one set of four choices (namely, choosing all four incorrect cups) giving this result. For one success and three failures, there are four correct cups of which one is selected, which by the combination formula can occur in {\displaystyle {\binom {4}{1))=4} different ways (as shown in column 2, with x denoting a correct cup that is chosen and o denoting a correct cup that is not chosen); and independently of that, there are four incorrect cups of which three are selected, which can occur in {\displaystyle {\binom {4}{3))=4} ways (as shown in the second column, this time with x interpreted as an incorrect cup which is not chosen, and o indicating an incorrect cup which is chosen). Thus a selection of any one correct cup and any three incorrect cups can occur in any of 4×4 = 16 ways. The frequencies of the other possible numbers of successes are calculated correspondingly. Thus the number of successes is distributed according to the hypergeometric distribution. The distribution of combinations for making k selections out of the 2k available selections corresponds to the kth row of Pascal's triangle, such that each integer in the row is squared. In this case, k=4 because 4 teacups are selected from the 8 available teacups.
+Notice the symmetry: the chances of getting 0 right and getting all 4 right are equally rare (1.4% each), and random guessing most likely produces 2 correct picks — which happens more than half the time by pure chance. This is exactly why getting all 4 right is meaningful: it is so unlikely by chance alone that it becomes evidence of a real ability.
 
 The critical region for rejection of the null of no ability to distinguish was the single case of 4 successes of 4 possible, based on the conventional probability criterion < 5%. This is the critical region because under the null of no ability to distinguish, 4 successes has 1 chance out of 70 (≈ 1.4% < 5%) of occurring, whereas at least 3 of 4 successes has a probability of (16+1)/70 (≈ 24.3% > 5%). 
 
@@ -796,9 +820,23 @@ Many statistical computations only work when the data is roughly shaped as such 
 
 ???
   
+The dependent variable must follow a normal distribution in the population. A normal distribution is the most important and widely used distribution in statistics.
 
-* The dependent variable must follow a normal distribution in the population.
-* A normal distribution is the most important and widely used distribution in statistics.
+What is a normal distribution?
+* A normal distribution is a specific bell-shaped pattern that data often naturally follows. Most values cluster around the middle (the mean), and values become increasingly rare the further you move away from it — symmetrically in both directions. Classic examples: human height, measurement errors, IQ scores.
+
+It is defined by just two numbers: the mean (where the center is) and the standard deviation (how wide or narrow the bell is).
+
+Why test for it in parametric statistics?
+* Parametric tests (t-test, ANOVA, Pearson correlation, linear regression) don't just crunch your numbers — they make a bet about the shape of the data. Specifically, they assume your data (or the residuals) follow a normal distribution.
+* This matters because the math behind these tests was derived from the normal distribution. The formulas for calculating p-values, confidence intervals, and standard errors are only valid under that assumption. If your data violates it, the test's output — including your p-value — can be wrong. Concretely:
+    * The t-test assumes the group means are normally distributed
+    * ANOVA assumes residuals are normal
+    * Pearson correlation assumes both variables are normal
+* If your data is strongly skewed or has heavy tails, a parametric test may tell you a result is significant when it isn't, or miss a real effect entirely.
+
+The alternative: if normality fails, you either transform the data (e.g. log-transform), or switch to a non-parametric test (Mann-Whitney, Kruskal-Wallis) which makes no assumptions about the distribution's shape.
+
 
 ---
 .header[Inferential Statistic | Parametric Statistics]
@@ -811,12 +849,20 @@ Many statistical computations only work when the data is roughly shaped as such 
 
 ???
   
+What is a normal distribution?
+* A normal distribution is a specific bell-shaped pattern that data often naturally follows. Most values cluster around the middle (the mean), and values become increasingly rare the further you move away from it — symmetrically in both directions. Classic examples: human height, measurement errors, IQ scores.
 
-* The sampled data is roughly shaped as a bell curve or Gaussian curve. In other words, it is symmetric around its mean, median and mode (which are all equal). The area under the normal curve is equal to 1.0.
-* It is important because we have to choose the right significance test and it can only be a parametric tests when the data is normally distributed. The significance test is necessary, so we know wether two or more samples are representative for the population.
-* Their importance is partly due to the central limit theorem. It states that, under some conditions, the average of many samples (observations) of a random variable with finite mean and variance is itself a random variable—whose distribution converges to a normal distribution as the number of samples increases. Therefore, physical quantities that are expected to be the sum of many independent processes, such as measurement errors, often have distributions that are nearly normal.[4]
-* In probability theory, the central limit theorem (CLT) establishes that, in many situations, for identically distributed independent samples, the standardized sample mean tends towards the standard normal distribution even if the original variables themselves are not normally distributed. 
+It is defined by just two numbers: the mean (where the center is) and the standard deviation (how wide or narrow the bell is).
 
+Why test for it in parametric statistics?
+* Parametric tests (t-test, ANOVA, Pearson correlation, linear regression) don't just crunch your numbers — they make a bet about the shape of the data. Specifically, they assume your data (or the residuals) follow a normal distribution.
+* This matters because the math behind these tests was derived from the normal distribution. The formulas for calculating p-values, confidence intervals, and standard errors are only valid under that assumption. If your data violates it, the test's output — including your p-value — can be wrong. Concretely:
+    * The t-test assumes the group means are normally distributed
+    * ANOVA assumes residuals are normal
+    * Pearson correlation assumes both variables are normal
+* If your data is strongly skewed or has heavy tails, a parametric test may tell you a result is significant when it isn't, or miss a real effect entirely.
+
+The alternative: if normality fails, you either transform the data (e.g. log-transform), or switch to a non-parametric test (Mann-Whitney, Kruskal-Wallis) which makes no assumptions about the distribution's shape.
 
 ---
 .header[Inferential Statistics]
@@ -871,33 +917,21 @@ The two-sample test analyses two sample means 𝜇1 and 𝜇2.
   
  
 * One-sample: Compare one group to a give value
-
-???
-  
-
-* Du möchtest herausfinden, ob deine Schokoladen-Riegel wirklich 300 Gramm im Durchschnitt wiegen, wie es auf der Packung steht. Um das zu testen, wiegst du 40 Riegel ab und vergleichst das tatsächliche Gewicht mit dem Gewicht, das sie haben sollten (300 Gramm).
-* https://www.scribbr.de/statistik/t-test/
-
---
 * Unpaired: Compare two group means from independent groups
-
-???
-  
-
-* Du möchtest wissen, ob sich die durchschnittliche Größe von Männern von jener von Frauen unterscheidet.
-* An unpaired t-test (also known as an independent t-test) compares the averages of two independent or unrelated groups to determine if there is a significant difference between the two. 
-
---
 * Paired: Compare two group means from groups that are dependent
 
-
 ???
 
 
-* Du misst die Größe derselben Person im Jahr 2015 und im Jahr 2018. Die dabei ermittelten Werte sind klar voneinander abhängig. Du verwendest einen abhängigen t-Test.
-* A paired t-test (also known as a dependent or correlated t-test) compares the averages and standard deviations of two related groups to determine if there is a significant difference between the two groups. 
-* Here, the two groups are paired or connected, e.g. participants before and after a treatment or a repeated-measure grouping, where all participants do all tasks.
-* https://askanydifference.com/difference-between-t-test-and-p-value/
+The t-test asks a simple question: is the difference between means large enough to be unlikely by chance? 
+
+There are three versions depending on your data structure. 
+* The one-sample t-test compares a single group against a fixed reference value — for example, testing whether a film's average rating differs from a neutral midpoint. 
+* The unpaired t-test compares two independent groups — for example, ratings from two different audiences who never interact. 
+* The paired t-test compares the same subjects under two conditions — for example, the same viewers rating a film before and after a director's cut, where each person serves as their own baseline. 
+
+Choosing the wrong variant is a common error: if your groups are dependent, an unpaired test ignores the pairing structure and loses statistical power.
+
 
 ---
 .header[Inferential Statistics | Parametric Statistics]
@@ -918,11 +952,10 @@ Most statistical software include p-value and t-test functions. It takes as inpu
 ???
   
 
-* https://docs.google.com/spreadsheets/d/12dxoiJHh2vN-xhNrPD68xcMYDrZ8A_GTEbpZNP9Pxgc/edit?usp=sharing
-* https://www.scribbr.de/statistik/t-test/
-* https://docs.google.com/spreadsheets/d/1I3OARNrSNQ0lZqV4hnNj4yJZmBAaoB_jpgeN9-cKLog/edit#gid=997673686
-* The independent t-test returns a value for the difference in means of the two conditions, t, with larger t values suggesting higher probability of the null hypothesis being false.  
-* In other words, the higher the t value, the more likely the two means are different.
+* [Google Sheet](https://docs.google.com/spreadsheets/d/12dxoiJHh2vN-xhNrPD68xcMYDrZ8A_GTEbpZNP9Pxgc/edit?usp=sharing), [Tutorial](https://www.scribbr.de/statistik/t-test/), [Google Sheet Tutorial](https://docs.google.com/spreadsheets/d/1I3OARNrSNQ0lZqV4hnNj4yJZmBAaoB_jpgeN9-cKLog/edit#gid=997673686)
+
+
+This example compares the heights of 15 women and 15 men. The null hypothesis is that there is no difference in mean height between the two groups.
 
 --
 .right-even[<img src="../02_scripts/img/statistic/google_02.png" alt="google_02" style="width:100%;">]
@@ -931,33 +964,26 @@ Most statistical software include p-value and t-test functions. It takes as inpu
 ???
   
 
-* we get a value for the difference in means of ~-4.3, meaning there is an estimated change of 4.3%.
+Looking at the descriptive statistics first: women average 166.3 cm, men 183.1 cm — a raw difference of about 17 cm. The variances (101 vs. 126) are reasonably similar, which is why we can use the equal variances version of the test. These are pooled into a single estimate of 113, which represents the combined spread across both groups.
 
+The t-statistic
+* The t-statistic is a standardized distance. It answers: how far apart are the two means, expressed in units of "how much random variation we'd expect"?
+* Think of it like a signal-to-noise ratio:
+    * Signal = the actual difference between the means (183 - 166 = 17 cm)
+    * Noise = the standard error, i.e. how much the means would naturally wobble around just from random sampling
+* A t-statistic of -4.34 means the two means are 4.34 noise-units apart. The rule of thumb: the bigger the number, the more the difference stands out above the background noise. A t near 0 would mean the difference is swamped by noise and could easily be random.
 
-???
-  
+Degrees of freedom
+* You have 30 data points (15 + 15). But to calculate the variance — the noise — you first had to estimate two means, one for each group. Estimating each mean "uses up" one degree of freedom. So 30 - 2 = 28 free pieces of information remain for estimating variability. More degrees of freedom means a more reliable noise estimate, which slightly shifts where the critical threshold sits.
 
-* Suppose you want to investigate the effect of caffeine on muscle metabolism.
-* You work with 18 male volunteers and randomly assign them to two groups. In one group all men take a capsule containing pure caffeine, the men in the other group receive a placebo capsule. 
-* The two groups are independent from each other and the independent-samples t test is appropriate for data analysis.
+The critical value
+* The critical value of 2.05 is the threshold your t-statistic must cross for the result to be considered statistically significant at the 5% level. It comes from the t-distribution with 28 degrees of freedom and essentially asks: how extreme would a t-statistic need to be if the null hypothesis were true and we only allowed a 5% false-alarm rate?
 
+The t-statistic of 4.34 is more than double that threshold — so the signal is far too strong to dismiss as noise.
 
-H<sub>0</sub>: The mean of the caffeine treatment equals the mean of the placebo  
-H<sub>A</sub>: The mean of caffeine treatment is not equal to the mean of the placebo treatment.  
+The p-value for the two-tailed test is 0.000166 — far below the conventional significance threshold of 0.05. This means: if the two groups truly had the same mean height, we would only observe a difference this large by random chance in about 0.017% of samples. That is extremely unlikely.
 
-
-.center[<img src="../02_scripts/img/statistic/statistics_75.png" alt="statistics_75" style="width:100%;">]
-
-
-
-* Now, all men underwent arm exercise tests. During each exercise the subject's respiratory exchange ratio (RER) was measured. RER is the ratio of CO2 produced to O2 consumed and is an indicator of whether energy is being obtained from carbohydrates or fats.
-
-
-
-The independent t-test returns a value for the difference in means of the two conditions, t, with larger t values suggesting higher probability of the null hypothesis being false.  
-
-
-In other words, the higher the t value, the more likely the two means are different.
+Conclusion: We reject the null hypothesis. The difference in height between women and men in this sample is statistically significant. The result holds for both the one-tailed and two-tailed test, with the two-tailed version being the appropriate conservative choice when we have no prior directional hypothesis.
 
 
 ---
@@ -981,40 +1007,6 @@ Exemplary summary in a paper:
 * Signifikanz (Sig.) des t-Tests.
 
 
----
-.header[Inferential Statistics | Parametric Statistics]
-
-## t-Test
-
-
-.center[<img src="../02_scripts/img/statistic/statistics_76.png" alt="statistics_76" style="width:90%;">]  [[15]](http://learntech.uwe.ac.uk/da/Default.aspx?pageid=1438)  
-
-???
-  
-
-* If we run an independent-samples t-test using the data set above, we get a value for the difference in means of ~6.4, meaning there is an estimated change of 6.4%.
-  
-Statistical software generates a summary table for the results, containing both the t-test results, additional test results that examine the data distribution and a p-value. 
-
-
----
-.header[Inferential Statistics | Parametric Statistics]
-
-## t-Test
-
-
-.center[<img src="../02_scripts/img/statistic/statistics_77.png" alt="statistics_77" style="width:90%;">]  [[15]](http://learntech.uwe.ac.uk/da/Default.aspx?pageid=1438)  
-
-
-*But* the p-value is 0.063 and, therefore, the difference between the two means is not statistically significantly different with a 5% level of significance.
-
-
-???
-  
-
-* In this case, we would need to report as result that even though there is a change of 6.4% observed, it is insufficient evidence (p = 0.063) to generally conclude that caffeine does change the mean RER.
-* The specific values returned from a software computation and how to use and interpret the given values is highly dependent from the specific package. When needed, decide on a software early on and make sure that you know how to input the data (layout, format?) and what to expect as output. This can take some time and effort, so please make sure to have enough time and brain power left to do this
-* Again, keep in mind, that the t-test is only applicable for the comparison of two groups. If you want to test three or more parameter, you have to use a different statistical test.
 
 ---
 .header[Inferential Statistics | Parametric Statistics]
@@ -1093,6 +1085,7 @@ H<sub>A</sub>: *At least one* of the means is different from the others.
 
 The [two way ANOVA](https://en.wikipedia.org/wiki/Two-way_analysis_of_variance) can compare more than two groups, based on *two* factors. 
   
+<br />
 This means that there are two independent variables, e.g., compare the employee productivity based on the working hours *and* some quality measure of their results.
 
 
@@ -1129,6 +1122,7 @@ Planing the statistical analysis should be an integral part of designing a study
 
 --
 
+<br />
 You should answer the following questions in advance:
 
 * What kind of data?
