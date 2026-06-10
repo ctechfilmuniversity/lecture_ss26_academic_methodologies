@@ -4,6 +4,9 @@ title: homework
 nav_exclude: true
 ---
 
+[First Try](#first-try) | [Second Try](#second-try)
+
+---
 ## Session 05
 
 >The homework should take < 2h. If you need longer, please let me know next class. 
@@ -20,7 +23,8 @@ nav_exclude: true
 >There are two hard deadlines for this paper description:
 >* **May 28th**: This version can still be moderately adjusted, also based on the feedback I give you. If you still have open questions that you want feedback on, you can indicate these in your first submission.
 >* **June 11th**: The final submission 
-  
+
+# First Try  
 #### Submission - Paper Description:   
 
 In the Paper I want to explore how cuteness shapes the current revival of Frutiger Aero, which is a digital aesthetic from the early 2000s which is experiencing an unexpected comeback. 
@@ -77,3 +81,44 @@ Think about working on your paper like an onion: first establish a well-defined,
 Minor comments:
 - If you want to use it, you need a reference for the Gaudí quote.
 - Great that you annotated your references, that is very helpful.
+
+---
+# Second Try
+
+## Cuteness as a Mechanism of Access: The Hyperfeminine Cyberdeck Community as a Case Study in Maker Culture.
+
+### Research Question:
+*How does cuteness operate as a mechanism of access in maker culture, and what does the hyperfeminine cyberdeck community illustrate about this?*
+
+### Paper Description
+This paper investigates how cuteness functions as a mechanism that makes maker culture emotionally accessible to new audiences. Drawing on Joshua Paul Dale's cuteness theory (Irresistible, 2023) and the concept of hauntology, which describes how "dead" cultural phenomena return feeling simultaneously familiar and strange, this paper argues that cuteness lowers the threshold for participation in technical DIY communities.
+
+The cyberdeck, a term coined by William Gibson in Neuromancer (1984) to describe a portable hacker device, serves as the primary case study. The cyberdeck is currently experiencing a revival, this time driven primarily by hyperfeminine creators on social media who bring a whimsical, cute aesthetic to the practice and actively share technical knowledge through tutorials and workshops.
+This paper analyses this community through the lens of cuteness theory and maker culture, examining how aesthetic identity shapes participation and knowledge-sharing in DIY tech spaces.
+
+---
+### What am I'm trying to answer:
+I want to understand how cuteness makes maker culture accessible to new audiences and I use the hyperfeminine cyberdeck community to illustrate this.
+
+---
+#### List of References
+Dale, J. P. (2023). Irresistible: How Cuteness Wired our Brains and Conquered the World. Profile Books.
+🔗 https://profilebooks.com/work/irresistible/
+This book explains why cuteness triggers such strong emotional and psychological responses, and how cute aesthetics have spread globally across culture and design. It is the primary theoretical source for understanding cuteness as a mechanism, directly relevant to the argument that the hyperfeminine cyberdeck community's cute aesthetic characteristics make maker culture emotionally accessible and inviting.
+
+Yöndem, S. G. (2024). Hauntology and the Absence Aesthetics: An Examination of Liminal Internet Aesthetics. Master's Thesis, Bilkent University.
+🔗 https://repository.bilkent.edu.tr/items/52ab033d-648b-4bff-b0b4-e84b412a6b7d
+This thesis applies hauntology directly to internet aesthetics like Dreamcore and Weirdcore. It provides the hauntology framework that this paper uses to explain why "dead" cultural aesthetics like the cyberdeck return feeling simultaneously familiar and strange.
+
+Alawsi, A. (2024). The Cyberpunk Elements in William Gibson's Neuromancer. Journal of Language and Linguistic Studies.
+🔗 https://www.jlls.org/index.php/jlls/article/viewFile/5562/1980
+This paper analyses the key cyberpunk elements in William Gibson's Neuromancer, including hacker culture and the cyberdeck as a tool of digital rebellion. It is relevant as an academic source that contextualises the cultural and fictional origins of the cyberdeck concept, against which the contemporary hyperfeminine cyberdeck revival is contrasted.
+
+Bardzell, S. (2010). Feminist HCI: Taking Stock and Outlining an Agenda for Design. ACM CHI Conference.
+🔗 https://dl.acm.org/doi/pdf/10.1145/1753326.1753521
+This paper argues that technology design is never neutral. It always encodes assumptions about who the user is. It is relevant because it provides a theoretical framework for understanding why aesthetic choices in tech spaces signal inclusion or exclusion.
+
+Sherwood, K. (2025). Building a cyberdeck: the DIY tech trend rebelling against billionaire broligarchs. Dazed Digital.
+🔗 https://www.dazeddigital.com/life-culture/article/70129/1/building-a-cyberdeck-diy-tech-rebellious-billionaire-broligarchs-computers
+(Non-academic source. Used as contemporary cultural context only.)
+This article documents the current cyberdeck revival as a grassroots response to corporate tech culture. It is relevant as a contemporary source that illustrates the cultural moment in which hyperfeminine cyberdeck communities are emerging.
