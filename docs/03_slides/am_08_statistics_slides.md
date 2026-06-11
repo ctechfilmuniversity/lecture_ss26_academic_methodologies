@@ -979,7 +979,9 @@ Degrees of freedom
 The critical value
 * The critical value of 2.05 is the threshold your t-statistic must cross for the result to be considered statistically significant at the 5% level. It comes from the t-distribution with 28 degrees of freedom and essentially asks: how extreme would a t-statistic need to be if the null hypothesis were true and we only allowed a 5% false-alarm rate?
 
-The t-statistic of 4.34 is more than double that threshold — so the signal is far too strong to dismiss as noise.
+The t-statistic of 4.34 is more than double that threshold — so the signal is far too strong to dismiss as noise. So the t-statistic is an answer to: "Is the 16.8 cm gap big or small, relative to the noise in this data?"
+
+
 
 The p-value for the two-tailed test is 0.000166 — far below the conventional significance threshold of 0.05. This means: if the two groups truly had the same mean height, we would only observe a difference this large by random chance in about 0.017% of samples. That is extremely unlikely.
 
@@ -993,7 +995,7 @@ Conclusion: We reject the null hypothesis. The difference in height between wome
 
 Exemplary summary in a paper:
 
-> The average height of women (M = 166.3; SD = 10.03) is lower than that of men (M = 183.1; SD = 11.21) with a significant difference of t(28) = -4.34 and p < 0.001.
+> The average height of women (M = 166.3, SD = 10.03) was significantly lower than that of men (M = 183.1, SD = 11.21), with a difference of 16.8 cm, and t(28) = -4.34, p < .0001.
 
 
 .footnote[[Flandorfer, P. 2023. [Den T-Test verstehen und interpretieren mit Beispiel](https://www.scribbr.de/statistik/t-test/). Scribbr]]

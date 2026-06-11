@@ -45,7 +45,7 @@ It is time to think about how you want to answer the question(s) you are posing 
 <br />
 
 
-Write down your methodology as overall paper structure (sections) and bullet points for each section. 
+Write down your overall paper structure (sections) and bullet points for each section. 
 
 
 
@@ -74,11 +74,11 @@ Systematic investigation of observable phenomena via *statistical*, *mathematica
 
 
 <br />
-**The process of measurement is central.**
+The process of measurement is central.
 
 
 <br />
-1. How to collect data?
+1. **How to collect data?**
 2. How to analyse data?
 
 
@@ -354,7 +354,6 @@ A helpful example is here the criminal trial analogy:
 
 The answer to the first question determines whether we need a *basic* design or a *factorial* design. If there is one independent variable, we need only a basic one-level design. If there are two or more independent variables, factorial design is the way to go. The answer to the second question determines the number of conditions needed in the experiment. 
 
---
 
 | Between-Group Design                                                | Within-Group Design                             |
 | ------------------------------------------------------------------- | ----------------------------------------------- |
@@ -367,8 +366,7 @@ The answer to the first question determines whether we need a *basic* design or 
 
 
 
-???
-  
+
 
 Generally speaking, between-group design should be adopted when the experiment investigates
 
