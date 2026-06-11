@@ -91,16 +91,14 @@ Minor comments:
 *How does cuteness operate as a mechanism of access in maker culture, and what does the hyperfeminine cyberdeck community illustrate about this?*
 
 ### Paper Description
-This paper investigates how cuteness functions as a mechanism that makes maker culture, the DIY practice of building and modifying physical tech objects, emotionally accessible to new audiences. The central argument is that cute aesthetics act as a reactivation mechanism for hauntological objects: things from the past that return feeling simultaneously familiar and strange, making them inviting rather than alienating. 
-
-Drawing on Joshua Paul Dale's cuteness theory (Irresistible, 2023) and hauntology, this paper argues that cuteness lowers the threshold for participation in technical DIY communities. While cuteness and maker culture have each been studied, their connection in online communities like the hyperfeminine* cyberdeck scene has not been explored academically. With this paper I want to fill that gap.
+This paper investigates how cuteness functions as a mechanism that makes maker culture, the DIY practice of building and modifying physical tech objects, emotionally accessible to new audiences. The central argument is that cute aesthetics act as a reactivation mechanism for hauntological objects: things from the past that return feeling simultaneously familiar and strange, making them inviting rather than alienating. Drawing on Joshua Paul Dale's cuteness theory (Irresistible, 2023) and hauntology, this paper argues that while cuteness and maker culture have each been studied, their connection in online communities like the hyperfeminine* cyberdeck scene has not been explored academically. With this paper I want to fill that gap.
 
 The cyberdeck, a term coined by William Gibson in his novel Neuromancer (1984) to describe a portable hacker device, serves as the primary case study. The cyberdeck is currently experiencing a revival, this time driven primarily by hyperfeminine creators on social media who bring a whimsical**, cute aesthetic to the practice and actively share technical knowledge through tutorials, workshops and just showing the process. This paper analyses this community through the lens of cuteness theory and maker culture, asking what it means when a whimsical aesthetic becomes the entry point into a technical subculture.
 
 ---
-*"Hyperfeminine" means expressing femininity in a very strong or exaggerated way. It can include wearing very traditionally "girly" clothes (such as pink colors, lace, dresses, or sparkles) and showing traits that are often stereotypically linked to women, like being caring, nurturing, or openly emotional.
+*["Hyperfeminine"](https://dictionary.reverso.net/english-definition/hyper-feminine) means expressing femininity in a very strong or exaggerated way. It can include wearing very traditionally "girly" clothes (such as pink colors, lace, dresses, or sparkles) and showing traits that are often stereotypically linked to women, like being caring, nurturing, or openly emotional.
 
-**"Whimsical" describes something that is playful, imaginative, and a little unusual in a fun or charming way. It often makes you think of creativity, fantasy, or lightheartedness.
+**["Whimsical"](https://www.merriam-webster.com/dictionary/whimsical) describes something that is playful, imaginative, and a little unusual in a fun or charming way. It often makes you think of creativity, fantasy, or lightheartedness.
 
 ---
 ### What am I'm trying to answer:
