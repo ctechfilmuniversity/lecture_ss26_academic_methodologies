@@ -103,7 +103,9 @@ Xie, L., Kumar, M., Cao, Y., Gracanin, D., & Quek, F. (n.d.). Data-driven Motion
 López Pérez, D., Laudańska, Z., Radkowska, A., Babis, K., Kozioł, A., & Tomalski, P. (n.d.). Do we need expensive equipment to quantify infants' movement? A cross-validation study between computer vision methods and sensor data. Institute of Psychology, Polish Academy of Sciences. 
 https://babylab.edu.pl/wp-content/uploads/2025/12/Lopez-Perez-et-al-2021_IEEE_ICDL.pdf
 
-
+*motion capture:*
+Wibowo, M. C., Nugroho, S., & Wibowo, A. (2024). The Use of Motion Capture Technology in 3D Animation. Journal of University of Bahrain, 5(2), 976–990.
+https://pdfs.semanticscholar.org/9514/28e966feece961d7100448d0caf17a8b93ec.pdf
 
 (*not open accessibe, but I would like to get an access to the paper:*)
 
