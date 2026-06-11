@@ -21,6 +21,9 @@ ___
 My search strategy focuses on feminist HCI and maker culture literature, primarily through ACM Digital Library, Anara and Google Scholar. I use Bardzell's foundational Feminist HCI paper (2010) as a theoretical anchor, and combine it with newer literature on feminist makerspaces and women's participation in maker culture. Key search terms include: feminist HCI, maker culture gender, feminist makerspaces, women in tech DIY, aesthetic identity maker culture.
 
 ___
+### Direction 5 – Cuteness-Theory
+
+___
 
 ## Task 04.02 - Literature Collection
 >Name related work for your paper. List at least three, ideally academic, publications that you are planning to reference in your paper. Describe briefly, how the publications are related and relevant.
@@ -90,3 +93,55 @@ ___
     🔗 [Link to the source](https://eprints.qut.edu.au/238189/1/Tara%2BCapel%2BThesis%283%29.pdf)
 
     This research looks at why women often feel excluded from makerspaces and how these spaces can be changed to be more welcoming. It is relevant because it directly addresses who gets included and excluded in maker culture, which is the central question of Direction 3.
+
+
+### Direction 5 – Cuteness-Theory 
+
+**Dale, J.P (2023). Irresistible: How Cuteness Wired our Brains and Conquered the World**
+
+   🔗 [Link to the source](https://www.amazon.de/Irresistible-Cuteness-Brains-Conquered-English-ebook/dp/B0BTTSHR4H/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.dWpbJhDAzdPLukSSwGvtZ_CguNAQWxvBvmevVXwLQ3iqv_cm2Epo0cAmjKXBtMCky-Wps6wnND8fsGobR4J94bpWxamgMCiBpHzeO7R8pf0RpCM_KoWdG4e-EIwEc_YODkLLEJWVn1FciZ6YANErrZnOARhk0tb9Z1_R-vQ3fRqxS_TDGZ7Wf5eNs-OInRjNf4U2t_22uQ9qCqPwGr6YhCc5UjHkCVzk-f7YuoMBydU.PZTE1mTfP-di2Up7MO834robyKU6Q4jRpRl4i1CBNMA&qid=1779879572&sr=8-1)
+
+   This book explains why cuteness triggers such strong emotional and psychological responses, and how cute aesthetics have spread globally across culture and design. It is the primary theoretical source for understanding cuteness as a mechanism. Directly relevant to the argument that Frutiger Aero's cute visual characteristics make it emotionally accessible and inviting.
+
+**Dale, J.P. et al. (2017). The Aesthetics and Affects of Cuteness. Routledge.**
+
+   🔗 [Link to the source](https://www.researchgate.net/publication/311594356_The_Aesthetics_and_Affects_of_Cuteness)
+
+   This academic volume examines cuteness as a cultural and aesthetic force across different contexts. It is relevant as a more academically rigorous companion to Dale's book, providing theoretical grounding for the analysis of cuteness as an aesthetic mechanism.
+
+**Yöndem, S. G. (2024). Hauntology and the Absence Aesthetics: An Examination of Liminal Internet Aesthetics. Master's Thesis, Bilkent University.**
+
+   🔗 [Link to the source](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=877YZmAAAAAJ&citation_for_view=877YZmAAAAAJ:u-x6o8ySG0sC)
+
+   This thesis applies hauntology directly to internet aesthetics like Dreamcore and Weirdcore, using Mark Fisher as a theoretical foundation. It is relevant because it provides the hauntology framework that this paper uses to explain why "dead" digital aesthetics like Frutiger Aero return and feel simultaneously familiar and strange.
+
+**Barna, M. Cultural Hauntology and Nostalgia: Vaporwave as a Symptom of Capitalist Realism. Academia.edu.**
+
+   🔗 [Link to the source](https://www.academia.edu/44990540/Cultural_hauntology_and_nostalgia_vaporwave_as_a_symptom_of_capitalist_realism)
+
+   This paper analyses Vaporwave through the lens of hauntology. It is relevant because Vaporwave and Frutiger Aero are closely related digital nostalgia aesthetics, and the paper's application of hauntology to a specific digital aesthetic provides a useful methodological model for this paper.
+
+**Juhl, J., & Biskas, M. (2022). Nostalgia: An impactful social emotion. Current Opinion in Psychology.**
+
+   🔗 [Link to the source](https://pubmed.ncbi.nlm.nih.gov/36641833/)
+
+   This paper explains what nostalgia is and why it affects people emotionally. It is relevant because nostalgia is one of the key emotional mechanisms through which Frutiger Aero operates, this paper helps explain why the aesthetic resonates even with people who did not grow up with it.
+
+ **Spiliotopoulos, K. et al. (2018). A Comparative Study of Skeuomorphic and Flat Design from a UX Perspective. Semanticscholar.**
+
+   🔗 [Link to the source](https://www.semanticscholar.org/paper/A-Comparative-Study-of-Skeuomorphic-and-Flat-Design-Spiliotopoulos-Rigou/b7c74634beef608b9de7ae2ad75acde1000c9cbe)
+
+   Skeuomorphic design is a visual approach where digital elements are designed to resemble real-world objects in texture and form. This paper compares this style with flat design in terms of user experience and emotional response. It is relevant because Frutiger Aero is a strongly skeuomorphic aesthetic, and this paper helps explain why it feels emotionally warmer than the flat minimalist design that replaced it.
+
+**Xian, S. (2017). Frutiger Aero. Consumer Aesthetics Research Institute (CARI).**
+
+    🔗 [Link to the source](https://cari.institute/aesthetics/frutiger-aero)
+
+    (Non-academic source. Used for primary aesthetic definition only)
+    This is a source that early named and defined Frutiger Aero as an aesthetic. It describes its visual characteristics in detail. It is used here only to define what Frutiger Aero is, not as academic theory.
+
+**Frutiger Aero Archive**
+
+    🔗 [Link to the source](https://frutigeraeroarchive.org/)
+
+    (Non-academic source. Used for primary aesthetic definition only) This is an online archive that documents Frutiger Aero visuals, music, and cultural references in detail. It is used as a non-academic primary source to illustrate the aesthetic.

@@ -34,6 +34,16 @@ There are two hard deadlines for this paper description:
 
 _Submission:_ Your description.
 
+# A review about algorithmic platform design features
+
+## Surveillance Capitalism vs. Structural Alternatives: Echo Chambers, Hate Speech, and Creative Autonomy on Emerging Platforms
+
+Based on an example of Cara (an app built for artists to share their work by a volunteer community) on whether a shift away from surveillance-capitalist platform design toward smaller, algorithm-free alternatives with flagged AI content, such as Cara. It could reduce echo chamber formation and hate speech among aspiring creatives while preserving creative expression and community formation — and furthermore discussing whether removing the algorithm entirely strips platforms of the competitive energy and organic discovery that drive creative ambition and growth.
+
+The body of the paper will consist of an analytical section comparing features of one to three alternative apps (eg. Vero, Subs, Cara) where creators share their work. Analytical section examines feed architecture, visibility logic, data practices, and community governance across these platforms. The second section investigates what keeps users on niche platforms despite smaller scale. Further I will be examining what is important to consider while designing and building communities on these apps, and how these communities are shaped differently on social apps with heavy algorithms. Therefore I'd like to interview Kevin Gallas Mayer, the software engineer of Subs, which is another app that is chronological, and not heavily algorithmic. The paper further asks whether removing the algorithm could produce genuine creative autonomy — or whether design alone cannot substitute for regulatory conditions that make ethical platforms viable. In the end I want to discuss how affective polarization plays a role through shaping algorithms on social media apps.
+
+Could there be a future where we decentralize from capitalistic surveillance apps and turn towards smaller community apps that are chronological and not heavily algorithmic apps, specificly designed for a more niche and theme specific purpose?
+
 ---
 
 Answer all questions directly in a copy of this file. Submit your copy as `am_XX_lastname.md` in your submissions folder (replace the XX with the number of the session).

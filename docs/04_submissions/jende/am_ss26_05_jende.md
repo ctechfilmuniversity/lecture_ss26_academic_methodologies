@@ -80,3 +80,12 @@ https://dl.acm.org/doi/10.5555/3666122.3668651
 
 + Ning Yu, Vladislav Skripniuk, Sahar Abdelnabi, and Mario Fritz. 2021. Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2021). IEEE, 14448–14457.  
 https://doi.org/10.48550/arXiv.2007.08457 
+
+
+---
+**COMMENT LENA**: 
+
+This text gives a good idea of the topic and aspects you want to work on, motivates them well and the text can stay as is for next week's deadline! The reference list is well-structured and unusually thorough for this stage, good job :)
+While this is methodology, and work on that comes in next step, already the following question: are you synthesizing existing explanations for "identify [...] major weaknesses and limitations", or do you construct an analytical framework yourself? To "better understand" is vague and needs to be clarified eventually.  
+  
+Also, the artist-facing analysis option would significantly change the paper's scope and I think you should decide on that rather sooner than later.
