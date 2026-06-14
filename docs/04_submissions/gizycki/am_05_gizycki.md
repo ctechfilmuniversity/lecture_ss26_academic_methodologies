@@ -4,6 +4,9 @@ title: homework
 nav_exclude: true
 ---
 
+[First Try](#first-try) | [Second Try](#second-try)
+
+---
 ## Session 05
 
 >The homework should take < 2h. If you need longer, please let me know next class. 
@@ -20,7 +23,8 @@ nav_exclude: true
 >There are two hard deadlines for this paper description:
 >* **May 28th**: This version can still be moderately adjusted, also based on the feedback I give you. If you still have open questions that you want feedback on, you can indicate these in your first submission.
 >* **June 11th**: The final submission 
-  
+
+# First Try  
 #### Submission - Paper Description:   
 
 In the Paper I want to explore how cuteness shapes the current revival of Frutiger Aero, which is a digital aesthetic from the early 2000s which is experiencing an unexpected comeback. 
@@ -77,3 +81,5 @@ Think about working on your paper like an onion: first establish a well-defined,
 Minor comments:
 - If you want to use it, you need a reference for the Gaudí quote.
 - Great that you annotated your references, that is very helpful.
+
+---
