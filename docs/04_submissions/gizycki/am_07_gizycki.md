@@ -10,7 +10,7 @@ nav_exclude: true
 My research question is: *How does cuteness operate as a mechanism of access in maker culture, and what does the hyperfeminine cyberdeck community illustrate about this?*
 
 I plan to answer this question by combining two approaches:
-- Reading and summarizing existing academic literature on cuteness theory, hauntology, maker culture, and feminist HCI to build a theoretical framework
+- Reading and summarizing existing academic literature on cuteness theory, maker culture, and feminist HCI to build a theoretical framework
 - Observing and describing publicly available content from hyperfeminine cyberdeck creators on TikTok, YouTube, and Instagram as my primary case study material
 
 The overall approach is descriptive: I want to characterize what is there, not prove a cause and effect.
@@ -31,7 +31,6 @@ The overall approach is descriptive: I want to characterize what is there, not p
   - short overview of paper structure
 - **Related Work**
   - Cuteness Theory (Dale 2023)
-  - Hauntology (Yöndem 2024)
   - Maker Culture & Feminist HCI (Bardzell 2010)
   - Cyberdeck origins (Alawsi 2024)
   - gap: no one has brought these together yet
@@ -47,14 +46,13 @@ The overall approach is descriptive: I want to characterize what is there, not p
     - key creators (Ube Boobey as main example and some more)
     - dominant aesthetics: cute, whimsical, color choices
     - knowledge sharing: tutorials, workshops, process documentation
-  - Analysis: connecting cuteness + hauntology
-    - why is the cyberdeck a hauntological object?
+  - Analysis: connecting cuteness theory and maker culture
     - how does cuteness make it accessible to new audiences?
     - what does this reveal about maker culture?
 - **Discussion**
   - cuteness as invitation into tech spaces
   - why now? Big Tech, AI, exclusion as context
-  - critical questions: hauntology vs. nostalgia? community size? researcher bias?
+  - critical questions: community size? researcher bias?
 - **Possible Future Work**
   - building a cyberdeck myself
   - interviews with community members

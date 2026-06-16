@@ -13,7 +13,7 @@ nav_exclude: true
 *How does cuteness operate as a mechanism of access in maker culture, and what does the hyperfeminine cyberdeck community illustrate about this?*
 
 ### Paper Description
-Whit this paper I want to investigate how cuteness functions as a mechanism that makes maker culture, the DIY practice of building and modifying physical tech objects, emotionally accessible to new audiences. The central argument is that cute aesthetics act as a reactivation mechanism for hauntological objects: things from the past that return feeling simultaneously familiar and strange, making them inviting rather than alienating. Building on Joshua Paul Dale's theory of cuteness (Irresistible, 2023) and the concept of hauntology, this paper explores the relationship between cuteness and maker culture in online communities such as the hyperfeminine* cyberdeck scene. While both topics have been studied individually, their connection has not yet been examined in academic research. This paper seeks to fill that gap.
+Whit this paper I want to investigate how cuteness functions as a mechanism that makes maker culture, the DIY practice of building and modifying physical tech objects, emotionally accessible to new audiences. Building on Joshua Paul Dale's theory of cuteness (Irresistible, 2023), this paper explores the relationship between cuteness and maker culture in online communities such as the hyperfeminine* cyberdeck scene. While both topics have been studied individually, their connection has not yet been examined in academic research. This paper seeks to fill that gap.
 
 The cyberdeck, a term coined by William Gibson in his novel Neuromancer (1984) to describe a portable hacker device, serves as the primary case study. Today, cyberdecks are experiencing a revival, driven largely by hyperfeminine creators on social media. These creators bring a whimsical** and cute aesthetic to the practice while sharing technical knowledge through tutorials, workshops, and documentation of their building process. This paper analyses this community through the lens of cuteness theory and maker culture, asking what it means when a whimsical aesthetic becomes the entry point into a technical subculture.
 
@@ -31,10 +31,6 @@ I want to understand how cuteness makes maker culture accessible to new audience
 **Dale, J. P. (2023). Irresistible: How Cuteness Wired our Brains and Conquered the World. Profile Books.**
 - 🔗 https://profilebooks.com/work/irresistible/
 - This book explains why cuteness triggers such strong emotional and psychological responses, and how cute aesthetics have spread globally across culture and design. It is the primary theoretical source for understanding cuteness as a mechanism, directly relevant to the argument that the hyperfeminine cyberdeck community's cute aesthetic characteristics make maker culture emotionally accessible and inviting.
-
-**Yöndem, S. G. (2024). Hauntology and the Absence Aesthetics: An Examination of Liminal Internet Aesthetics. Master's Thesis, Bilkent University.**
-- 🔗 https://repository.bilkent.edu.tr/items/52ab033d-648b-4bff-b0b4-e84b412a6b7d
-- This thesis applies hauntology directly to internet aesthetics like Dreamcore and Weirdcore. It provides the hauntology framework that this paper uses to explain why "dead" cultural aesthetics like the cyberdeck return feeling simultaneously familiar and strange.
 
 **Alawsi, A. (2024). The Cyberpunk Elements in William Gibson's Neuromancer. Journal of Language and Linguistic Studies.**
 - 🔗 https://www.jlls.org/index.php/jlls/article/viewFile/5562/1980
