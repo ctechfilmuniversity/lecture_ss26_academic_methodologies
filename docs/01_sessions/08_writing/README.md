@@ -17,7 +17,7 @@ The homework should take < 2h. If you need longer, please let me know next class
 ## Academic Writing
 
 
-* Recap [Chapter Academic Writing](../../02_scripts/am_09_writing_script.md).
+* Recap [Chapter Academic Writing](../../02_scripts/am_09_writing_script.md). Do not skip this, it will help you in your writing.
 
 *Submission:* -
 

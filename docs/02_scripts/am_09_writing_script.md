@@ -50,7 +50,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 ---
 
-Let's assume that we are at a point where we have a clear understanding of our research project, or maybe that the actual research tasks is even finished and that we are ready to write it all down - woohoo!
+Let's assume that we are at a point where we have a clear understanding of our research project, or maybe that the actual research task is even finished and that we are ready to write it all down - woohoo!
 
 [Adam Savage](https://en.wikipedia.org/wiki/Adam_Savage) from MythBusters says...
 
@@ -68,12 +68,12 @@ But fear not. Writing is not an innate talent but can be learned, practiced and 
 * Know how an academic paper in computer science, and with that in HCI and CTech, is structured.
 * Have an understanding about how to write a very good paper.
 * Understand the requirements for layout, language and style in academic writing.
-* Know how to proper cite references.
+* Know how to properly cite references.
 * Understand what LaTeX is.
 
 ## Academic Writing
 
-Overall there are many, many reasons to write. Obviously, our focus here is *academic* writing. Academic writing aims at contributing to a research community with novel and relevant insights. For making sure that your research community can understand your results and compare them, there are various standards of academic writing - as always depending on the discipline. These differences in academic writing are based on the overall distinction of the nature of the academic text. The text can be in itself the research such as in philosophy. The text can also function as reporting the research results such as when you have conducted a study, developed an algorithms, etc., as in the sciences.
+Overall there are many, many reasons to write. Obviously, our focus here is *academic* writing. Academic writing aims at contributing to a research community with novel and relevant insights. For making sure that your research community can understand your results and compare them, there are various standards of academic writing - as always depending on the discipline. These differences in academic writing are based on the overall distinction of the nature of the academic text. The text can be in itself the research such as in philosophy. The text can also function as reporting the research results such as when you have conducted a study, developed an algorithm, etc., as in the sciences.
 
 One of the overall main differences that I have noticed between academic writing in the humanities and the sciences is the complexity of the language. In the sciences we are always aiming for the simplest, cleanest and easiest to understand type of language. In the humanities you might need to convey slight nuances of meaning with language to make your argument strong, which in turn can lead to quite complex language. Here, it is my impression that such complex language, which is indeed often enough needed, is also at times misused (both intentionally and unintentionally) and makes simple scenarios appear overly complex and hard to understand. But this is only my impression - which comes from a background of scientific writing. However, we also follow in this chapter the goal of communicating a project as easy and as understandable as possible.
 
@@ -96,9 +96,9 @@ In my experience it is tremendously helpful to establish for yourself a routine 
 
 However, most of these causes, except maybe the problem of expression, will vanish with a plan.  
 
-As writing is all about getting into a *flow* of writing it is important to be in the right state of mind. Usually I will start with setting a time for how long I am going to write and with blocking all distractions such as emails for that time period. And with blocking, I mean literally blocking. For that I am using the [Focus app](https://heyfocus.com/?utm_source=focus_about) (there are countless similar tools), which prevents the opening of certain apps and websites for the defined time. This helps me to stick to the task and not to give up with the writing if it doesn't go as planned. Also, I personally like to start with having a quite detailed plan about what I am going to write. I define which part I am going to work on and what I hope to finish in that session. Then I will develop bullet points for each sections, which I try to make as detailed as possible. My goal is here *to separate the task of knowing what to write from the actual writing*! Bullet points are much easier to come up with and to structure than continuous text. 
+As writing is all about getting into a *flow* of writing it is important to be in the right state of mind. Usually I will start with setting a time for how long I am going to write and with blocking all distractions such as emails for that time period. And with blocking, I mean literally blocking. For that I am using the [Focus app](https://heyfocus.com/?utm_source=focus_about) (there are countless similar tools), which prevents the opening of certain apps and websites for the defined time. This helps me to stick to the task and not to give up with the writing if it doesn't go as planned. Also, I personally like to start with having a quite detailed plan about what I am going to write. I define which part I am going to work on and what I hope to finish in that session. Then I will develop bullet points for each section, which I try to make as detailed as possible. My goal is here *to separate the task of knowing what to write from the actual writing*! Bullet points are much easier to come up with and to structure than continuous text. 
 
-If I am completely stuck and even coming up with structured bullet points feels scary to me, I will start with a e.g. 20 min session to just write down what ever comes to my mind in regard to the tasks, be it text, bullet points, or jibberish. During that session, I try not to go back to anything that I have written but let it be in which ever form and just continue to get something onto the page. Afterwards I go over everything I wrote and either distill bullet points from it or even already actual text. Of course this approach is quite time intensive. Also, it depends on your way of thinking and writing capabilities. I have met plenty of people that can produce beautiful, coherent text on the first go, starting with an empty page and not doing a detour over bullet points. I am not one of them. But the more I write, the more I am getting there.
+If I am completely stuck and even coming up with structured bullet points feels scary to me, I will start with a e.g. 20 min session to just write down whatever comes to my mind in regard to the tasks, be it text, bullet points, or gibberish. During that session, I try not to go back to anything that I have written but let it be in which ever form and just continue to get something onto the page. Afterwards I go over everything I wrote and either distill bullet points from it or even already actual text. Of course this approach is quite time intensive. Also, it depends on your way of thinking and writing capabilities. I have met plenty of people that can produce beautiful, coherent text on the first go, starting with an empty page and not doing a detour over bullet points. I am not one of them. But the more I write, the more I am getting there.
 
 The above is just my process and e.g. such an iterative approach might not fit you. I encourage you to figure out your process! You do this ideally before you have to crunch out writings under a tight deadline.
 
@@ -123,7 +123,7 @@ Now let's dive into what makes a paper a paper.
 
 ## The Leitmotif
 
-The importance of storytelling for a presentation applies equally to writing a paper. You need to tell a coherent story and follow that story through out the paper. If something doesn't add to the story: out with it! The story or also called *leitmotif* makes sure that you have a narrative flow.
+The importance of storytelling for a presentation applies equally to writing a paper. You need to tell a coherent story and follow that story throughout the paper. If something doesn't add to the story: out with it! The story or also called *leitmotif* makes sure that you have a narrative flow.
 
 The narrative flow should evolve as follows:
 
@@ -144,7 +144,7 @@ Any academic writing follows overall this structure:
 ![writing_17](img/writing/writing_17a.png)  
 [[derntl]](http://dbis.rwth-aachen.de/~derntl/papers/misc/paperwriting.pdf)
 
-In the context of computer science almost all paper follow the same structure, with minor differences in the structure of subsections and in the specific section titles. The structure of a paper is as follows:
+In the context of computer science almost all papers follow the same structure, with minor differences in the structure of subsections and in the specific section titles. The structure of a paper is as follows:
 
 * Title
 * Teaser Image if possible
@@ -167,9 +167,9 @@ Furthermore, a paper has actually somewhat of a fractal structure (and we do lov
         * A subsection has an introduction, body, conclusion
             * A paragraph has an introduction, body, conclusion
 
-With this fractal structure you make sure that a reader understands your storyline and why that e.g. section is happening. It is a bit like creating a chain, each element must be tried into the previous and the following. To do this gracefully is quite challenging as you also don't want to repeat yourself. Make sure that the text flows naturally and is easy to read. As a rule of thumb you can build one paragraph for each thought. Connect paragraphs logically. 
+With this fractal structure you make sure that a reader understands your storyline and why that e.g. section is happening. It is a bit like creating a chain, each element must be tied into the previous and the following. To do this gracefully is quite challenging as you also don't want to repeat yourself. Make sure that the text flows naturally and is easy to read. As a rule of thumb you can build one paragraph for each thought. Connect paragraphs logically. 
 
-Similar to presentations, also add navigation marks to help the reader getting through the whole paper. Explain where ever necessary,
+Similar to presentations, also add navigation marks to help the reader get through the whole paper. Explain where ever necessary,
 
 * where did we come from,
 * where are we now,
@@ -239,12 +239,12 @@ Do:
 
 A good abstract is critically important due to the following reasons:
 
-* People decide based on the abstract wether to read the paper or not.
+* People decide based on the abstract whether to read the paper or not.
 * Oftentimes the abstract will be the only thing that one reads from your paper.
-* Reviewers decide on the abstract wether to review the paper or not.
+* Reviewers decide on the abstract whether to review the paper or not.
 * It sets the *mood* for the paper.
 
-An abstract typically consist of 150-200 words and must be a succinct and stand alone description of your work. An abstract is neither a summary nor an outline of the paper but rather a tiny paper in itself. Notice, how the thematic scope of an abstract is similarly shaped as the paper itself.
+An abstract typically consists of 150-200 words and must be a succinct and stand alone description of your work. An abstract is neither a summary nor an outline of the paper but rather a tiny paper in itself. Notice, how the thematic scope of an abstract is similarly shaped as the paper itself.
 
 ![writing_02](img/writing/writing_02.png)  
 [[derntl]](http://dbis.rwth-aachen.de/~derntl/papers/misc/paperwriting.pdf)
@@ -252,8 +252,8 @@ An abstract typically consist of 150-200 words and must be a succinct and stand 
 A good abstract is *informative* and
 
 * provides details about the substance,
-* let's readers remember the key findings,
-* let's reviewers find the claims/contributions, and
+* lets readers remember the key findings,
+* lets reviewers find the claims/contributions, and
 * contains all claims and supporting evidence in paragraph form.
 
 A bad abstract is only *descriptive* by simply outlining the topics covered. A bad abstract feels like a table of contents in paragraph form.  
@@ -302,7 +302,7 @@ The introduction is the chance of making a positive impression in terms of writi
 
 The introduction goes from the general to the specific and you can understand it as the zooming in into the topic. You need to contextualize your problem and give details about the motivation of your work and the specific problem statement. This can be supported by concrete examples, puzzles, mysteries and anecdotes.
 
-In the introduction you should convey the importance of the problem, the significance of the outcome, which challenges the problem brings and explain why simpler approaches would not work.
+In the introduction you should convey the importance of the problem, the significance of the outcome, what challenges the problem brings and explain why simpler approaches would not work.
 
 Furthermore, you need to give an overview of the proposed approach, e.g. by roughly sketching out the main proof, algorithm, key idea, etc. You can understand this as the description of the methodology. Here, you must also highlight the novelty of the proposed approach.
 
@@ -344,7 +344,7 @@ Do:
 When writing about the related work, you have two competing goals:
 
 1. Show that you are working on a ‘hot topic’ with a lot of related work.
-2. Show that, and why you are different to all of them.
+2. Show that, and why you are different from all of them.
 
 The related work section is a broad and shallow account of the field and needs to place the contribution of the paper into context. You need to answer the following questions
 
@@ -353,7 +353,7 @@ The related work section is a broad and shallow account of the field and needs t
 * How have the different approaches progressed?
 * What are the major outstanding problems? 
 
-Subsections are also often based on applied techniques/ideas. Usually you use 1-2 sentenced for one idea or related paper.
+Subsections are also often based on applied techniques/ideas. Usually you use 1-2 sentences for one idea or related paper.
 
 With this section you need to clearly distinguish your work and answer the question of how you are different from everybody else. At the same time the related work is not about describing your own work. It is once again a balancing act to compare your work and make it stand out without really getting into the details of your approach.
 
@@ -363,7 +363,7 @@ Reviewers carefully check or just know out of the top of their heads as they are
 
 When writing related work, keep in mind:
 
-* List not only just what what was done but also why?, why not?, how?, how else? Related work is not just a list of summaries.
+* List not only what was done but also why?, why not?, how?, how else? Related work is not just a list of summaries.
 * Keeping the correct tense can be tricky. Algorithms, techniques, etc. are still valid and must be in present tense. But e.g. the topic was introduced or studies are done in the past.
 
 #### Example
@@ -408,13 +408,13 @@ The presentation of your results must collect a broad spectrum of *possible* res
 
 #### Evaluation
 
-You must in one form or the other evaluate your results. Clearly describe your evaluation technique and give reasons why it is valid. Try to use as many objective measurements as possible such as benchmarks, performance, error count. If you can, compare your work with these with the results of other projects.
+You must in one form or the other evaluate your results. Clearly describe your evaluation technique and give reasons why it is valid. Try to use as many objective measurements as possible such as benchmarks, performance, error count. If you can, compare these with the results of other projects.
 
 The evaluation can go as far as conducting a formal study, a survey, interviews, etc. Depending on the scope and size of the evaluation it is common to entitle the evaluation itself as a contribution of the paper.
 
 ### Discussion
 
-The discussion is usually the hardest to write as you need to generated insights that go beyond the execution of your research project. This might not come naturally and needs a lot of brain power. A good start to discussing your work is to try to anticipate what reviewers/advisors might say and answer to that. Explain or mention everything that is noticeable in your results and evaluations. Are there any outliers, strange behaviors, etc.? Is the evaluation correct?
+The discussion is usually the hardest to write as you need to generate insights that go beyond the execution of your research project. This might not come naturally and needs a lot of brain power. A good start to discussing your work is to try to anticipate what reviewers/advisors might say and answer to that. Explain or mention everything that is noticeable in your results and evaluations. Are there any outliers, strange behaviors, etc.? Is the evaluation correct?
 
 Reflect on the project as detailed and openly as possible - in regard to both, the good and the bad. Ideally you have nothing to hide. Again, no one expects a perfect project and also some drawbacks can give valuable novel insights.
 
@@ -422,9 +422,9 @@ The discussion often also represents some form of zoom out and discusses how the
 
 #### Future Work
 
-The future work section is somewhat flexible. You should include it but it can also be integrated into the discussion or even conclusion. Sometimes this section is also called outlook. Again, try to anticipate what reviewers might say, e.g. "why didn't you try/do...?" and here you can brush that of as describing it as next step.
+The future work section is somewhat flexible. You should include it but it can also be integrated into the discussion or even conclusion. Sometimes this section is also called outlook. Again, try to anticipate what reviewers might say, e.g. "why didn't you try/do...?" and here you can brush that off as describing it as next step.
 
-Overall think about which improvements are possible and how to generalize the work. Do not however state to clearly anything you want to write the next paper about as then other researchers might do it for you...
+Overall think about which improvements are possible and how to generalize the work. Do not however state too clearly anything you want to write the next paper about as then other researchers might do it for you...
 
 ![writing_25](img/writing/writing_25.png)  
 [[phdcomics]](http://phdcomics.com/comics/archive.php?comicid=286)
@@ -454,12 +454,12 @@ Again, be generous with your thank yous.
 
 #### Redundancies
 
-You have to constantly repeat yourself while never repeating text... You have to bring up your main points over and over again e.g. to lead the reader through your paper. However, it is a very common mistake is to repeat the same phrases, sentences etc. over and over again. As rule of thumb, use a specific phrase only once!
+You have to constantly repeat yourself while never repeating text... You have to bring up your main points over and over again e.g. to lead the reader through your paper. However, it is a very common mistake to repeat the same phrases, sentences etc. over and over again. As rule of thumb, use a specific phrase only once!
   
 
 #### Missing Grounding
 
-In academic writing, everything you say must directly be proofed in some form. This is something that students who are new to academic writing often do incorrectly. Some problematic examples might look like as follows:
+In academic writing, everything you say must be directly proven in some form. This is something that students who are new to academic writing often do incorrectly. Some problematic examples might look as follows:
 
 * "The problem is difficult."
     * *Difficult for whom? Believed by you? Believed by others? Proven by someone? Difficult in what sense? Difficult when done blindly? Difficult when done without a brain? Difficult for your cat?*
@@ -489,7 +489,7 @@ Now, that we know what to write, let's talk about the look, meaning the layout o
 ![writing_04](img/writing/writing_04.png)  
 [[xkcd]](https://xkcd.com/1847/)
 
-A paper should have a strong visual structure. Use section, sub-sections and bullet points. If in doubt, rather use a subsection to many than to few. Good layout gives a reader an intuitive understanding of the paper on first glance. My thesis advisor said to me for example that he can approximate a rough grade of a thesis, just by looking at its layout. And I think there is some truth to that. Also, I had it happened to me more than once that I thought I had structured my document well and it was given back to me with the comment that it needs more structure in the layout... A strong structure also helps to convey your content if someone only skims your text, e.g. as part of an application or as an expose, when there are many submissions and some people are only superficially involved in the selection process.
+A paper should have a strong visual structure. Use section, sub-sections and bullet points. If in doubt, rather use a subsection too many than too few. Good layout gives a reader an intuitive understanding of the paper on first glance. My thesis advisor said to me for example that he can approximate a rough grade of a thesis, just by looking at its layout. And I think there is some truth to that. Also, it happened to me more than once that I thought I had structured my document well and it was given back to me with the comment that it needs more structure in the layout... A strong structure also helps to convey your content if someone only skims your text, e.g. as part of an application or as an expose, when there are many submissions and some people are only superficially involved in the selection process.
 
 I really can not give you any rules here to follow for structuring your text. It just depends on the content and its context. The only rule is: structure your text well with sections, subsections, bullet points and figures.  
 
@@ -507,7 +507,7 @@ For most paper submissions the venue will provide a set of rules for the text fo
 ![writing_24](img/writing/writing_24.png)  
 [[phdcomics]](http://phdcomics.com/comics/archive.php?comicid=926)
 
-Last but not least, as there is still a small chance that people might print out your paper (hopefully not), make sure that everything in your paper is readable printed! I always have problems with this because I like to use grays in figures and layouts. But grays that look super nice on screen oftentimes are not distinguishable printed out. The same problem applies when preparing a presentations and the difference between the slides on your screen and the slides on the projector.
+Last but not least, as there is still a small chance that people might print out your paper (hopefully not), make sure that everything in your paper is readable when printed! I always have problems with this because I like to use grays in figures and layouts. But grays that look super nice on screen oftentimes are not distinguishable printed out. The same problem applies when preparing a presentations and the difference between the slides on your screen and the slides on the projector.
 
 Now that we have reflected on the beauty of the layout, let's think about the beauty of the language itself.
 
@@ -553,7 +553,7 @@ When a sentence includes a noun ending in *-tion*, change the noun to a verb to 
     Don't: “They will collaborate in the creation of new guidelines.”  
     Do: “They will collaborate to create new guidelines.”
 
-    or en example without a *-tion*:
+    or an example without a *-tion*:
 
     Don't: “This paragraph provides a conclusion of the description”  
     Do: “This paragraph concludes the description”
@@ -626,7 +626,7 @@ Yes, there is a difference between using *which* and *that*.
 * Example: The product claiming "all natural ingredients," which appeared in the Sunday newspaper, is on sale.  
     * The product is already identified. Therefore, which appeared in the Sunday newspaper is a nonessential clause containing additional, but not essential, information.
 
-Essential clauses (that) do not have comma introducing or surrounding them, whereas nonessential clauses (which) are introduced or surrounded by commata!
+Essential clauses (that) do not have comma introducing or surrounding them, whereas nonessential clauses (which) are introduced or surrounded by commas!
 
 ### Gender-Inclusive Language
 
@@ -634,7 +634,6 @@ Gender inclusive language is fully embraced in the academic world.
 
 > [Generic pronouns and sexist language: The oxymoronic character of masculine generics](https://link.springer.com/article/10.1007/BF00289252)
 
-Even if you don't agree on the importance of this, you will repel the people who do care about it, if you do not use it.  
 
 The previous iteration of these developments assumed binary genders and favored to use both pronouns. You also see texts that simply use *she* or that alternate genders and pronouns.
 
@@ -648,7 +647,7 @@ The Chicago Manual of Style (as cited in [4]) says:
 * See 5.220: “He or she. To avoid sexist language, many writers use this alternative phrasing (in place of the generic he). Use it sparingly—preferably after exhausting all the less obtrusive methods of achieving gender neutrality. In any event, he or she is much preferable to he/she, s/he, (s)he, and the like.”
 * A good writer can usually recast the sentence to eliminate the need for any personal pronoun at all (p. 157)
 
-As we as a society start to accept that genders are much less binary than we used to believe and that gender is in fact a fluid concept, the simple differentiation of *he* or *she* is not enough anymore.
+As genders seem much less binary than we used to believe and that gender is a fluid concept, the simple differentiation of *he* or *she* is not enough anymore.
 
 The best solution is here to make the nouns and pronouns plural.  
 
@@ -661,7 +660,7 @@ You think this is complicated? Yes, it is, and it is rightfully so! The greatest
 
 * Can't, isn't ... -> cannot, is not, ...
 * First, Secondly, Thirdly
-* Use the correct [hyphen](https://en.wikipedia.org/wiki/Hyphen#:~:text=The%20hyphen%20%E2%80%90%20is%20a%20punctuation,example%20of%20a%20hyphenated%20word.). This is a pet peeve of many academic nerds. However, I simply can not get the correct usage into my head and probably do it unintentionally wrong half of the time.
+* Use the correct [hyphen](https://en.wikipedia.org/wiki/Hyphen#:~:text=The%20hyphen%20%E2%80%90%20is%20a%20punctuation,example%20of%20a%20hyphenated%20word.). This is a pet peeve of many academic nerds. However, I simply cannot get the correct usage into my head and probably do it unintentionally wrong half of the time.
 
 Last but not least: Don’t use emojis in academic writing! 😱 😰 😡
 
@@ -699,7 +698,7 @@ When referring to other work, we differentiate between
     * Summarising, paraphrasing, …
     * This basically means that you re-write the content
         * Smith et al. [2] found …
-    * [In an ideal world...](https://jameshaytonphd.com/quick-tips/how-to-avoid-plagiarism-when-summarizing-other-peoples-research-video) but the described process is timeintensive.
+    * [In an ideal world...](https://jameshaytonphd.com/quick-tips/how-to-avoid-plagiarism-when-summarizing-other-peoples-research-video) but the described process is time-intensive.
 * Short reference
     * List of related work and/or used techniques
         * We applied approach X [2] to …
@@ -760,9 +759,9 @@ For in text citations and author-based references, the list of authors is shorte
     * Smith et al. [SJT12], [SJT*12] (for more than three authors)
 
 
-You will often see a DOI included in a references auch as `DOI: 10.1002/asi.20801`. The DOI (Digital Object Identifier) is a unique number used to identify a specific article.
+You will often see a DOI included in a references such as `DOI: 10.1002/asi.20801`. The DOI (Digital Object Identifier) is a unique number used to identify a specific article.
 
-It takes a lot of time to clean the information for a reference so that it shows up correctly. Different document types need different information. Sometimes your will need to collect the required information manually. I find the [tool](http://www.citethisforme.com) and the information on [cite this for me](http://www.citethisforme.com/guides) helpful.
+It takes a lot of time to clean the information for a reference so that it shows up correctly. Different document types need different information. Sometimes you will need to collect the required information manually. I find the [tool](http://www.citethisforme.com) and the information on [cite this for me](http://www.citethisforme.com/guides) helpful.
 
 
 ## Master Theses
@@ -773,7 +772,7 @@ Nonetheless I want to mention the following potential differences:
 
 The structure of a master thesis is more flexible. For a paper you should pretty much follow the structure mentioned above with the same or similar section titles. For your thesis it usually makes sense to have chapters individually named depending on the topic. The theoretical master thesis in CTech must refer to the practical part so you will need to add at least one chapter referring to that. Hence, you also might need chapters or sections such as *artist position* and *conceptual reflection*, again depending on your project!
 
-For your master thesis you will need to discuss more explicitly the research questions and your methodology. Both aspects are in a paper only indirectly discussed as it focuses on the final contribution. In a master thesis you could, for example, have a chapter after the introduction that introduces the research questions, then describes the chosen methodology for answering them, leading at the end of the chapter to the contributions archived by the answering the research questions. You could also move a discussion of the contributions to the end of the thesis. You see, you have greater freedom here. And we all know freedom can be a blessing and a curse at the same time 😉.
+For your master thesis you will need to discuss more explicitly the research questions and your methodology. Both aspects are in a paper only indirectly discussed as it focuses on the final contribution. In a master thesis you could, for example, have a chapter after the introduction that introduces the research questions, then describes the chosen methodology for answering them, leading at the end of the chapter to the contributions achieved by answering the research questions. You could also move a discussion of the contributions to the end of the thesis. You see, you have greater freedom here. And we all know freedom can be a blessing and a curse at the same time 😉.
 
 ## Next
 
