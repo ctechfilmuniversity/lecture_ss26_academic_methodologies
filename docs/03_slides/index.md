@@ -26,10 +26,6 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 * [Session 06 - Quantitative Research](./am_07_quantitative_slides.html)
 * [Session 07](./am_session07_slides.html)
 * [Session 07 - Statistics in a Nutshell](./am_08_statistics_slides.html)
+* [Session 08](./am_session08_slides.html)
+* [Session 08 - Academic Writing](./am_09_writing_slides.html)
 
-
-<!-- 
-
-* [Session 07 - Statistics in a Nutshell](./am_08_statistics_slides.html)
-  
- -->

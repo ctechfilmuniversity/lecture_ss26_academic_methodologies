@@ -1188,3 +1188,7 @@ template:inverse
 ## The End
 
 # 👋🏻
+
+???
+
+[am_09_writing_slides](./am_09_writing_slides.html)
