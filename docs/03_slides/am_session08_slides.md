@@ -49,21 +49,12 @@ Let's start writing!
 <br />
 
 
-Write down your overall paper structure (sections) and bullet points for each section. 
 
+Write the introduction for your paper. You do not need to re-use this introduction later for your actual paper - but you should! 
 
+As of now probably some aspects you need to know for writing the introduction are not clear yet. Then write a version of the introduction of how you currently *imagine* the paper to be and you can assume your *ideal* outcomes.
 
-
-???
-Who wants to go through this spontaneously?
-
-
-*Submission*: Your paper structure and bullet points for each section. 
-
-Brainstorm which steps you want to apply to get answers to your research question. This task does not aim to find your personal journey of investigation. You should work on defining the approach that you will present in a paper as your methodology (but of course, you can also reflect on what you, personally, need to do to get there). This task does not need to represent formal academic methods for now. It is more about a description of the steps in your own words, structured by the sections of a paper.
-
-???
-[am_08_statistics_slides](./am_08_statistics_slides.html)
+**Do not use a GenAi Tool for this task, as it is about practicing to write.**  
 
 
 

@@ -11,46 +11,42 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 # Chapter - Academic Writing
 
-* [Academic Methodologies](#academic-methodologies)
-* [Chapter - Academic Writing](#chapter---academic-writing)
-    * [Learning Objectives](#learning-objectives)
-    * [Academic Writing](#academic-writing)
-    * [How To Start Writing](#how-to-start-writing)
-    * [The Leitmotif](#the-leitmotif)
-    * [Paper Sections](#paper-sections)
-        * [The Title](#the-title)
-            * [Examples](#examples)
-        * [The Abstract](#the-abstract)
-        * [The Introduction](#the-introduction)
-            * [Examples](#examples-1)
-        * [Related Work](#related-work)
-            * [Example](#example)
-        * [Main Content](#main-content)
-            * [Figures](#figures)
-            * [Results](#results)
-            * [Evaluation](#evaluation)
-        * [Discussion](#discussion)
-            * [Future Work](#future-work)
-        * [Conclusion](#conclusion)
-            * [Acknowledgements](#acknowledgements)
-        * [Final Thoughts](#final-thoughts)
-            * [Redundancies](#redundancies)
-            * [Missing Grounding](#missing-grounding)
-    * [Layout](#layout)
-    * [Language](#language)
-        * [Precision](#precision)
-        * [I vs. We](#i-vs-we)
-        * [Present Tense](#present-tense)
-        * [Which vs. That](#which-vs-that)
-        * [Gender-Inclusive Language](#gender-inclusive-language)
-        * [Final Reminders](#final-reminders)
-    * [Style](#style)
-    * [Citations](#citations)
-    * [LaTex](#latex)
-        * [BibTeX](#bibtex)
-    * [Master Theses](#master-theses)
-    * [Next](#next)
-    * [References](#references)
+* [Learning Objectives](#learning-objectives)
+* [Academic Writing](#academic-writing)
+* [How To Start Writing](#how-to-start-writing)
+* [The Leitmotif](#the-leitmotif)
+* [Paper Sections](#paper-sections)
+    * [The Title](#the-title)
+        * [Examples](#examples)
+    * [The Abstract](#the-abstract)
+    * [The Introduction](#the-introduction)
+        * [Examples](#examples-1)
+    * [Related Work](#related-work)
+        * [Example](#example)
+    * [Main Content](#main-content)
+        * [Figures](#figures)
+        * [Results](#results)
+        * [Evaluation](#evaluation)
+    * [Discussion](#discussion)
+        * [Future Work](#future-work)
+    * [Conclusion](#conclusion)
+        * [Acknowledgements](#acknowledgements)
+    * [Final Thoughts](#final-thoughts)
+        * [Redundancies](#redundancies)
+        * [Missing Grounding](#missing-grounding)
+* [Layout](#layout)
+* [Language](#language)
+    * [Precision](#precision)
+    * [I vs. We](#i-vs-we)
+    * [Present Tense](#present-tense)
+    * [Which vs. That](#which-vs-that)
+    * [Gender-Inclusive Language](#gender-inclusive-language)
+    * [Final Reminders](#final-reminders)
+* [Style](#style)
+* [Citations](#citations)
+* [Master Theses](#master-theses)
+* [Next](#next)
+* [References](#references)
 
 ---
 
@@ -58,7 +54,7 @@ Let's assume that we are at a point where we have a clear understanding of our r
 
 [Adam Savage](https://en.wikipedia.org/wiki/Adam_Savage) from MythBusters says...
 
-![writing_16](img/09/writing_16.png)  
+![writing_16](img/writing/writing_16.png)  
 [[imgur]](https://imgur.com/gallery/ex4PAUZ)
 
 ... and he is right! It is crucial to understand that the writing about, and the presentation of your research project is as important as the actual research tasks. Oftentimes the paper is the only part that your advisor, the reviewers, etc. get to know about your work. Your results can be as exceptional as they might be, if you fail to communicate them clearly, and fail to put them in context and to discuss them, the whole project will fail academically.
@@ -119,7 +115,7 @@ In regard to specifically writing a paper, I recommend the following steps:
 Then start the writing with the most concrete parts about aspects you know well, e.g. your methodology, description of your steps, or your results. These are usually the sections, which are easiest to write because you know exactly what to write. The more abstract parts, such as the discussion, the outlook and the abstract you should write last as with them you generate new content beyond the communication of your practical project.
 
 
-![writing_27](img/09/writing_27.png)  
+![writing_27](img/writing/writing_27.png)  
 [[phdcomics]](http://phdcomics.com/comics/archive.php?comicid=715)
 
 
@@ -145,7 +141,7 @@ Of course these storytelling aspects are completely ignored in many, many papers
 
 Any academic writing follows overall this structure:
 
-![writing_17](img/09/writing_17a.png)  
+![writing_17](img/writing/writing_17a.png)  
 [[derntl]](http://dbis.rwth-aachen.de/~derntl/papers/misc/paperwriting.pdf)
 
 In the context of computer science almost all paper follow the same structure, with minor differences in the structure of subsections and in the specific section titles. The structure of a paper is as follows:
@@ -250,7 +246,7 @@ A good abstract is critically important due to the following reasons:
 
 An abstract typically consist of 150-200 words and must be a succinct and stand alone description of your work. An abstract is neither a summary nor an outline of the paper but rather a tiny paper in itself. Notice, how the thematic scope of an abstract is similarly shaped as the paper itself.
 
-![writing_02](img/09/writing_02.png)  
+![writing_02](img/writing/writing_02.png)  
 [[derntl]](http://dbis.rwth-aachen.de/~derntl/papers/misc/paperwriting.pdf)
 
 A good abstract is *informative* and
@@ -430,7 +426,7 @@ The future work section is somewhat flexible. You should include it but it can a
 
 Overall think about which improvements are possible and how to generalize the work. Do not however state to clearly anything you want to write the next paper about as then other researchers might do it for you...
 
-![writing_25](img/09/writing_25.png)  
+![writing_25](img/writing/writing_25.png)  
 [[phdcomics]](http://phdcomics.com/comics/archive.php?comicid=286)
 
 ### Conclusion
@@ -475,13 +471,13 @@ In academic writing, everything you say must directly be proofed in some form. T
 
 Question all your statements and see if the text answers to everything. For this also see the section about citations.
 
-![writing_18](img/09/writing_18.png)  
+![writing_18](img/writing/writing_18.png)  
 [[weheartit]](https://weheartit.com/entry/222849135)
 
 It is quite common to include many people in the list of authors. Everybody who somehow contributed should be offered an authorship. In computer science a high number of authors is not a bad thing at all. The first author is the one responsible for the project and its execution. The last author is the advisor and / or department head (the person who made the paper possible in terms of position and money). Whether to put advisors as authors even if they have not even read the paper (they should have!) is a discussed practice but also the standard. Also, if it is a big name it will make your paper look better.
 
 
-![writing_26](img/09/writing_26.png)  
+![writing_26](img/writing/writing_26.png)  
 [[phdcomics]](http://phdcomics.com/comics/archive.php?comicid=562)
 
 ---
@@ -490,7 +486,7 @@ Now, that we know what to write, let's talk about the look, meaning the layout o
 
 ## Layout
 
-![writing_04](img/09/writing_04.png)  
+![writing_04](img/writing/writing_04.png)  
 [[xkcd]](https://xkcd.com/1847/)
 
 A paper should have a strong visual structure. Use section, sub-sections and bullet points. If in doubt, rather use a subsection to many than to few. Good layout gives a reader an intuitive understanding of the paper on first glance. My thesis advisor said to me for example that he can approximate a rough grade of a thesis, just by looking at its layout. And I think there is some truth to that. Also, I had it happened to me more than once that I thought I had structured my document well and it was given back to me with the comment that it needs more structure in the layout... A strong structure also helps to convey your content if someone only skims your text, e.g. as part of an application or as an expose, when there are many submissions and some people are only superficially involved in the selection process.
@@ -508,7 +504,7 @@ Using italics or bold font for emphasis are problematic in academic writing. I a
 
 For most paper submissions the venue will provide a set of rules for the text format and usually also a template for that. You must stay within the given format, your paper might otherwise be rejected for just the wrong layout. Minor cheats, or let's call them tweaks, are ok as long as they are not noticeable 😎.
 
-![writing_24](img/09/writing_24.png)  
+![writing_24](img/writing/writing_24.png)  
 [[phdcomics]](http://phdcomics.com/comics/archive.php?comicid=926)
 
 Last but not least, as there is still a small chance that people might print out your paper (hopefully not), make sure that everything in your paper is readable printed! I always have problems with this because I like to use grays in figures and layouts. But grays that look super nice on screen oftentimes are not distinguishable printed out. The same problem applies when preparing a presentations and the difference between the slides on your screen and the slides on the projector.
@@ -683,14 +679,14 @@ In academic writing you must avoid
 
 Overall though, writing style simply is subjective. If you give your paper to experienced writers they will be affected by their personal style and will give you many, many corrections. These corrections might not improve errors but might just try to make the text match more the personal writing style of the corrector. Take in the feedback, reflect on it but also stand your ground if your personal writing style is different.
 
-![writing_07](img/09/writing_07.gif)  
+![writing_07](img/writing/writing_07.gif)  
 [[phdcomics]](http://www.phdcomics.com/comics/archive.php?comicid=1576)
 
 ## Citations
 
 For documenting the research goals of novelty and relevance we need to put our work into context. In academia, ideally everything you do must be based on something that has already been published. For that we reference other papers and now we have a look onto the formal style of citing other work.
 
-![writing_08](img/09/writing_08.gif)  
+![writing_08](img/writing/writing_08.gif)  
 [[phdcomics]](http://phdcomics.com/comics/archive.php?comicid=1820)
 
 When referring to other work, we differentiate between
@@ -768,92 +764,6 @@ You will often see a DOI included in a references auch as `DOI: 10.1002/asi.2080
 
 It takes a lot of time to clean the information for a reference so that it shows up correctly. Different document types need different information. Sometimes your will need to collect the required information manually. I find the [tool](http://www.citethisforme.com) and the information on [cite this for me](http://www.citethisforme.com/guides) helpful.
 
-If you are using a LaTeX template given out by the publication venue, the style comes with the template as `\bibliographystyle{style_name}`. You still need to setup your references accordingly, meaning the bibtex entries must be correct and complete.
-
-## LaTex
-
-![writing_22](img/09/writing_22.png)  
-[[inzaneresearch]](https://inzaneresearch.com/2018/07/06/grad-school-tools-latex-basics/)
-
-
-LaTeX, which is pronounced "Lah-tech" or "Lay-tech" (to rhyme with «blech» or «Bertolt Brecht» as the X is the greek letter chi), is a document preparation system for high-quality typesetting. It is most often used for medium-to-large technical or scientific documents but it can be used for almost any form of publishing.
-
-LaTeX is not a word processor! Instead, LaTeX encourages authors not to worry too much about the appearance of their documents but to concentrate on getting the right content.
-
-*LaTeX follows the philosophy of separating presentation from content.*
-
-LaTeX is based on the idea that it is better to leave document design to document designers, and to let authors get on with writing documents. So, in LaTeX you would input this document as:
-
-```latex
-\documentclass{article}
-\title{Cat Preferences for Different Box Sizes}
-\author{Jane Doe}
-\date{September 2020}
-\begin{document}
-   \maketitle
-   Hello cats!
-\end{document}
-```
-
-Or, in English:
-
-* This document is an article.
-* Its title is Cat Preferences for Different Box Sizes.
-* Its author is Jane Doe.
-* It was written in September 2020.
-* The document consists of a title followed by the text Hello world!
-
-The output looks like:
-
-![writing_19](img/09/writing_19.png)
-
-[[11] The LaTeX Project](https://www.latex-project.org/about/)
-
-The underlying TEX computer program, created by Donald E. Knuth, is aimed at typesetting text and mathematical formulae. TEX as we use it today is still pretty much the same as the release version in 1982, with some slight enhancements added in 1989 to better support 8-bit characters and multiple languages. TEX is renowned for being extremely stable, for running on many different kinds of computers, and for being virtually bug free. The version number of TEX is converging to π and is now at 3.141592653.
-
-LaTeX uses TeX as its formatting engine and enables authors to typeset and print their work with high typographical quality, using a predefined layout. In a LaTeX environment, LaTeX takes the role of the book designer and uses TEX as its typesetter. But LaTeX is only a program and the author has to provide additional information to describe the logical structure of the work. This information is written into the text as LaTeX commands.
-
-Hence, LaTeX is a markup language and not WYSIWYG (what you see is what you get). You need to compile the pdf. Tags define the general structure of a document (such as article, book, and letter), to stylize text throughout a document (such as bold and italic), and to add citations and cross-references.
-
-![writing_12](img/09/writing_12.png)
-[wikipedia](https://en.wikipedia.org/wiki/LaTeX)
-
-LaTeX is the standard in the Computer Science research community. I personally much prefer it over any other tool such as Word. But also LaTeX comes with a lot of heartache to make it work. At times it can be a bit unwieldy and hard to control. My recommendation is that if you need to use formulas you must use LaTeX. The insertion of beautiful formulas is simply the most powerful and easiest in LaTeX. If you have many references and citations, I would also recommend LaTeX. If these two aspects do not apply, other tools might be just as suitable.
-
-Valuable resources are:
-
-* www.latex-project.org
-* http://tex.stackexchange.com
-* Software
-    * LaTeX: MiKTeX (Win), TeX Live (Linux), MacTeX (Mac)
-* Write with the text editor of your liking or specific LaTeX editors
-    * TeXstudio, TeXnicCenter
-    * I used VSCode for LaTeX, e.g. with the [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension
-* Just recently coming up: web based editors
-    * Overleaf, ShareLatex, Papeeria, …
-* Help with formulas, e.g. the [LaTex equation editor](https://www.tutorialspoint.com/latex_equation_editor.htm)
-
-![writing_21](img/09/writing_21.png) ![writing_23](img/09/writing_23.png)  
-[[xkcd]](https://xkcd.com/1301/) [[icancode]](http://icancode.de/1480/latex-comic)
-
-### BibTeX
-
-With LaTeX comes BibTeX. BibTeX is a reference management software for formatting lists of references. The BibTeX tool is typically used together with the LaTeX document preparation system. [[12]](https://en.wikipedia.org/wiki/BibTeX). 
-
-BibTeX offers a text-based format for literature references for LaTeX. A BibTeX database of references is stored as a `.bib` file, which you write as plain text file. References and citations are then automatically created and formatted based on the `.bib` file. Most literature management tools import/export BibTeX entries.
-
-![writing_14](img/09/writing_14.png)  
-*On the left you see the .bib file and on the right the automatically produced reference list.*
-
-Once again, you still have to take care of the bib entries in the `.bib` file yourself. To create a consistent and complete BibTeX list of references for a paper takes forever… be aware!
-
-LaTeX and BibTeX files have the advantage that they are simple text files, which fit well to version control systems such as GitHub. In comparison, such version control system often have problems with the tracking of changes in `.docx` files, for example. As with other coding projects, you only commit the source files not their build.
-
-![writing_15](img/09/writing_15.png)  
-[[github]](https://github.com/captn3m0/awesome-vcs)  
-
-[[5]](https://www.slideshare.net/rsamurti/introduction-totexandlatex)
-[[6]](https://tobi.oetiker.ch/lshort/lshort.pdf)
 
 ## Master Theses
 
