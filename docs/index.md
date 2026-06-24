@@ -15,21 +15,19 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 # Syllabus
 
-* [Academic Methodologies](#academic-methodologies)
-* [Syllabus](#syllabus)
-    * [Learning Objectives](#learning-objectives)
-    * [Time and Place](#time-and-place)
-    * [Method of Instruction](#method-of-instruction)
-    * [Schedule](#schedule)
-    * [Materials](#materials)
-        * [Structure](#structure)
-        * [Sessions](#sessions)
-    * [Evaluation](#evaluation)
-    * [Grading](#grading)
-        * [Criteria](#criteria)
-    * [Policies](#policies)
-    * [Inclusivity Statement](#inclusivity-statement)
-    * [Stress Culture](#stress-culture)
+* [Learning Objectives](#learning-objectives)
+* [Time and Place](#time-and-place)
+* [Method of Instruction](#method-of-instruction)
+* [Schedule](#schedule)
+* [Materials](#materials)
+    * [Structure](#structure)
+    * [Sessions](#sessions)
+* [Evaluation](#evaluation)
+* [Grading](#grading)
+    * [Criteria](#criteria)
+* [Policies](#policies)
+* [Inclusivity Statement](#inclusivity-statement)
+* [Stress Culture](#stress-culture)
 
 
 This course enables the participants to understand and to conduct academic research. Academic methodologies are taught by the example of computer science research. Topics include basic principles of scientific research in general, how to conduct certain research tasks in particular and the processes of writing about and publishing work.
@@ -59,22 +57,22 @@ The paper, the reviews and exercises are homework.
   
 ## Schedule
 
-| Session | Title                             | Paper             |
-| ------- | --------------------------------- | ----------------- |
-| 09.04.  | Conference Simulation             |                   |
-|         | Anatomy of a Paper                |                   |
-| 16.04.  | Research Questions, Literature    |                   |
-| 23.04.  | NO CLASS                          |                   |
-| 30.04.  | Research                          | Storyline         |
-| 07.05.  | Reasoning & Methods               |                   |
-| 14.05.  | Qualitative Research              |                   |
-| 21.05.  | Hands-on: Research Questions      |                   |
-| 28.05.  | Experiments & Statistics          | Research Question |
-| 04.06.  | Argumentation & Artistic Research |                   |
-| 11.06.  | Writing I                         | Methodology       |
-| 18.06.  | Writing II                        | Abstract          |
-| 25.06.  | Publishing                        |                   |
-| 02.07.  | Wrap-up                           |                   |
+| Session | Title                          |
+| ------- | ------------------------------ |
+| 09.04.  | Conference Simulation          |
+|         | Introduction                   |
+| 16.04.  | Anatomy of a Paper, Literature |
+| 23.04.  | NO CLASS                       |
+| 30.04.  | Research                       |
+| 07.05.  | Reasoning                      |
+| 14.05.  | NO CLASS                       |
+| 21.05.  | Paper Development              |
+| 28.05.  | Qualitative Research           |
+| 04.06.  | NO CLASS                       |
+| 11.06.  | Quantitative Research          |
+| 18.06.  | Writing                        |
+| 25.06.  | Publishing & Academic Careers  |
+| 02.07.  | Wrap-up                        |
 
 Please note that the schedule is subject to change!
 
