@@ -323,25 +323,185 @@ There are several "reading methods" out there, for example the PQ4R method:
 * **R**eview: Critical questioning of content.
 
 
-
-
-
 ---
 template:inverse
 
-# Next
+# Citations
+
+
+???
+  
+
+* For documenting the research goals of novelty and relevance we need to put our work into context. In academia, ideally everything you do must be based on something that has already been published. For that we reference other papers and now we have a look onto the formal style of citing other work.
 
 ---
-# Next
+## Citations
 
-From topics to storylines...
+* Direct citations
+    * Exact words are copied and put into “”
+    * Very uncommon in Computer Science, only used with definitions, e.g. 
+        * Standard Y defines X as „…“ [5]
+
+---
+## Citations
+
+* Citing the meaning 
+    * Summarising, paraphrasing, …
+    * It needs to be clear where the citation starts and stops
+    * This basically means that you re-write the content
+        * Smith et al. [2] found …
+
+---
+## Citations
+
+* Short reference
+    * List of related work and/or used techniques
+        * We applied approach X [2] to …
+
+---
+.header[Citations]
+
+## Citation Style
 
 --
 
-.center[<img src="../02_scripts/img/hci/freedom_01.png" alt="freedom_01" style="width:70%;">].imgref[[[phdcomics]](https://phdcomics.com/comics/archive.php?comicid=1436)]
+A citation style defines
+
+* which information is necessary for a citation,
+* how to order the information, 
+* punctuation and formatting.
+  
+
+???
+  
+
+* Citation styles make reference lists and bibliographies consistent and easy to read across different papers.
+  
+--
+  
+Correct and clean citations are a must-have in academia. The golden rule here is *consistency* and not so much which style to use. 
 
 
 
+
+---
+.header[Citations | Citation Style | Reference List]
+
+### MLA
+
+Frank, H. "Wolves, Dogs, Rearing and Reinforcement: Complex Interactions Underlying Species Differences in Training and Problem-Solving Performance." Behavior Genetics 41.6 (2011): 830-39. Print.
+  
+
+### Chicago
+
+Frank, H. 2011. "Wolves, Dogs, Rearing and Reinforcement: Complex Interactions Underlying Species Differences in Training and Problem-Solving Performance."  Behavior Genetics 41 (6):830-839. 
+
+### APA
+
+Frank, H. (2011). Wolves, Dogs, Rearing and Reinforcement: Complex Interactions Underlying Species Differences in Training and Problem-Solving Performance. Behavior Genetics, 41(6), 830-839. 
+
+---
+.header[Citations | Citation Style | Reference List]
+
+### IEEE
+
+[1]	G. Eason, B. Noble, and I. N. Sneddon, “On certain integrals of Lipschitz-Hankel type involving products of Bessel functions,” Phil. Trans. Roy. Soc. London, vol. A247, pp. 529–551, April 1955.   
+<br />
+[2]	J. Clerk Maxwell, A Treatise on Electricity and Magnetism, 3rd ed., vol. 2. Oxford: Clarendon, 1892, pp.68–73.  
+<br />
+[3]	I. S. Jacobs and C. P. Bean, “Fine particles, thin films and exchange anisotropy,” in Magnetism, vol. III, G. T. Rado and H. Suhl, Eds. New York: Academic, 1963, pp. 271–350.  
+
+
+---
+.header[Citations | Citation Style | Reference List]
+
+### SIGGRAPH
+
+J. Clerk Maxwell. 1892. A Treatise on Electricity and Magnetism (3rd ed.), Vol. 2. Clarendon, Oxford, 68–73.  
+<br />
+G. Eason, B. Noble, and I. N. Sneddon. 1955. On certain integrals of Lipschitz-Hankel type involving products of Bessel functions. Phil. Trans. Roy. Soc. London A247, (April 1955), 529–551.  
+<br />
+I. S. Jacobs and C. P. Bean. 1963. Fine particles, thin films and exchange anisotropy. In Magnetism, Vol. III, G. T. Rado and H. Suhl (Eds.). Academic, New York, 271–350.
+
+
+???
+  
+
+* (I personally don't care which style you use as long as you follow one)
+* Which citation style to prefer highly depends on the academic discipline:
+    * [MLA (Modern Language Association)](https://www.mla.org/MLA-Style)
+        * Most popular
+        * English, Humanities
+    * [APA (American Psychological Association)](https://apastyle.apa.org/)
+        * Education, Psychology, and Sciences
+    * [Harvard](https://en.wikipedia.org/wiki/Parenthetical_referencing) 
+        * Similar to APA
+        * More common in the UK and Australia
+    * [Vancouver](https://en.wikipedia.org/wiki/Vancouver_system)
+        * Medicine and sciences
+    * [Chicago/Turabian](https://www.chicagomanualofstyle.org/tools_citationguide.html)
+        * Economics, History, and the Fine Arts
+
+---
+.header[Citations | Citation Style]
+
+## Reference List
+
+* GenAi is really helpful creating and cleaning up reference lists
+* But it still makes mistakes, you must check it!
+
+
+
+---
+.header[Citations]
+
+## In-Text Citation Style
+
+--
+
+It is up to you to decide where in the text to spell out authors names as reference as in-text citation and where to use shorter citation tags.
+
+--
+
+<br />
+SIGGRAPH:
+
+* Smith et al. [SJT12] demonstrate in their work about...
+* ... developed in the context of architectural designs [LWW08], tree modeling [PSK∗12] and the creation of natural scenes [EVC∗15].
+
+
+???
+  
+
+* For in text citations and author-based references, the list of authors is shortened:
+
+* ‘Smith and Jones’ for up to two authors
+* ‘et al.’ for ‘and others’ for more
+    * Smith and Jones [SJ12]
+    * Smith et al. [SJT12], [SJT*12] (for more than three authors)
+
+
+You will often see a DOI included in a references auch as `DOI: 10.1002/asi.20801`. The DOI (Digital Object Identifier) is a unique number used to identify a specific article.
+
+It takes a lot of time to clean the information for a reference so that it shows up correctly. Different document types need different information. Sometimes your will need to collect the required information manually. I find the [tool](http://www.citethisforme.com) and the information on [cite this for me](http://www.citethisforme.com/guides) helpful.
+
+If you are using a LaTeX template given out by the publication venue, the style comes with the template as `\bibliographystyle{style_name}`. You still need to setup your references accordingly, meaning the bibtex entries must be correct and complete.
+
+---
+.header[Citations]
+
+## In-Text Citation Style
+
+
+Numbered (IEEE/Vancouver):
+
+* Smith et al. [12] demonstrate...
+* ...architectural designs [8], tree modeling [12,13] and natural scenes [15].
+
+<br />
+Author-year (APA/Chicago author-date)
+* Smith et al. (2012) demonstrate...
+* ...architectural designs (Smith et al., 2008), tree modeling (Park et al., 2012) and natural scenes (Evans et al., 2015).
 
 
 
