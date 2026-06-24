@@ -25,9 +25,7 @@ If you submit this work in progress version before July 27th, I will give you fe
 *Submission*: Your work in progress paper as pdf.
 
 
-
-
-### Task 08.01 - The Final Paper
+### Task 08.02 - The Final Paper
 
 
 You find all information in [Chapter 01 - ACS FUB](../../02_scripts/am_01_conference_script.md).
@@ -35,7 +33,7 @@ You find all information in [Chapter 01 - ACS FUB](../../02_scripts/am_01_confer
 
 ## Wrapping Up
 
-## Task 08.03 - Course Review
+### Task 08.03 - Course Review
 
 * How would you rate the difficulty of this lecture from 1 (far too easy) to 5 (far too difficult)?
 * How would you rate the amount of work you had to put into this lecture so far from 1 (no work at all) to 5 (far too much work)?
