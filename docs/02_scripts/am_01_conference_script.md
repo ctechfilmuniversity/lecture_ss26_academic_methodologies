@@ -13,18 +13,17 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 ![acsfub](../02_scripts/img/conference/acsfub.png)
 
 
-* [Academic Methodologies](#academic-methodologies)
-    * [Chapter 01: ACS FUB](#chapter-01-acs-fub)
-    * [Introduction](#introduction)
-    * [The Paper](#the-paper)
-        * [Topic](#topic)
-        * [AI Tools](#ai-tools)
-        * [Format](#format)
-        * [Submission](#submission)
-    * [Reviews](#reviews)
-    * [Presentations](#presentations)
-        * [Presentation Schedule](#presentation-schedule)
-    * [Deadlines](#deadlines)
+* [Chapter 01: ACS FUB](#chapter-01-acs-fub)
+* [Introduction](#introduction)
+* [The Paper](#the-paper)
+    * [Topic](#topic)
+    * [AI Tools](#ai-tools)
+    * [Format](#format)
+    * [Submission](#submission)
+* [Reviews](#reviews)
+* [Presentations](#presentations)
+    * [Presentation Schedule](#presentation-schedule)
+* [Deadlines](#deadlines)
 
 ## Introduction
 
@@ -60,7 +59,7 @@ For this class, I personally recommend that you stay away from any AI help. This
 
 The paper must follow the format guidelines otherwise it is not accepted.
 
-* 4-6 pages (without references)
+* 4-6 pages (without references) (<span style="color: red;">to be updated on Friday</span>)
 * In English
 * Abstract of <= 1000 characters
 * Written with the given LaTeX Template
@@ -69,9 +68,9 @@ The paper must follow the format guidelines otherwise it is not accepted.
 ### Submission
 
 * You only submit a pdf version of your paper.
-* Submissions will be made electronically through the EasyChair submission system (*link to be added*). The submission is open now.
+* Submissions will be made electronically through the [EasyChair submission system](https://easychair.org/my/conference?conf=acsfub2026). The submission will be open soon.
 * Submissions are anonymous. DO NOT INCLUDE YOUR NAME IN THE SUBMITTED PAPER PDF.
-* Submissions are only accepted as pdf from the given template (*link to be added*).
+* Submissions are only accepted as pdf from the given template (<span style="color: red;">link to be added on Friday</span>).
 
 
 <!-- 
