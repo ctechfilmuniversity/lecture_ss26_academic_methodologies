@@ -61,7 +61,7 @@ The paper must follow the format guidelines otherwise it is not accepted.
 
 * 4-6 pages (without references) (<span style="color: red;">to be updated on Friday</span>)
 * In English
-* Abstract of <= 1000 characters
+* Abstract of <= 200 words
 * Written with the given LaTeX Template
 * Adhere to an academic format (e.g. introduction, contributions, related work, problem statement, solution, future work)
 
