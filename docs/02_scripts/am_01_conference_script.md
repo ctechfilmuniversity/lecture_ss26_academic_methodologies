@@ -59,9 +59,9 @@ For this class, I personally recommend that you stay away from any AI help. This
 
 The paper must follow the format guidelines otherwise it is not accepted.
 
-* 4-6 pages (without references) (<span style="color: red;">to be updated on Friday</span>)
+* 4-6 pages (without references)
 * In English
-* Abstract of <= 200 words
+* Abstract of <= 150 words
 * Written with the given LaTeX Template
 * Adhere to an academic format (e.g. introduction, contributions, related work, problem statement, solution, future work)
 
@@ -70,7 +70,7 @@ The paper must follow the format guidelines otherwise it is not accepted.
 * You only submit a pdf version of your paper.
 * Submissions will be made electronically through the [EasyChair submission system](https://easychair.org/my/conference?conf=acsfub2026). The submission will be open soon.
 * Submissions are anonymous. DO NOT INCLUDE YOUR NAME IN THE SUBMITTED PAPER PDF.
-* Submissions are only accepted as pdf from the given template (<span style="color: red;">link to be added on Friday</span>).
+* Submissions are only accepted as pdf [from the given template](../01_sessions/09_paper/acsfubPublStyle_2026.zip).
 
 
 <!-- 

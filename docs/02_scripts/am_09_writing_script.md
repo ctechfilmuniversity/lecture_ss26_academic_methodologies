@@ -44,6 +44,8 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
     * [Final Reminders](#final-reminders)
 * [Style](#style)
 * [Citations](#citations)
+* [LaTex](#latex)
+    * [BibTeX](#bibtex)
 * [Master Theses](#master-theses)
 * [Next](#next)
 * [References](#references)
@@ -762,6 +764,96 @@ For in text citations and author-based references, the list of authors is shorte
 You will often see a DOI included in a references such as `DOI: 10.1002/asi.20801`. The DOI (Digital Object Identifier) is a unique number used to identify a specific article.
 
 It takes a lot of time to clean the information for a reference so that it shows up correctly. Different document types need different information. Sometimes you will need to collect the required information manually. I find the [tool](http://www.citethisforme.com) and the information on [cite this for me](http://www.citethisforme.com/guides) helpful.
+
+
+## LaTex
+
+![writing_22](./img/writing/writing_22.png)  
+[[inzaneresearch]](https://inzaneresearch.com/2018/07/06/grad-school-tools-latex-basics/)
+
+
+LaTeX, which is pronounced "Lah-tech" or "Lay-tech" (to rhyme with «blech» or «Bertolt Brecht» as the X is the greek letter chi), is a document preparation system for high-quality typesetting. It is most often used for medium-to-large technical or scientific documents but it can be used for almost any form of publishing.
+
+LaTeX is not a word processor! Instead, LaTeX encourages authors not to worry too much about the appearance of their documents but to concentrate on getting the right content.
+
+*LaTeX follows the philosophy of separating presentation from content.*
+
+LaTeX is based on the idea that it is better to leave document design to document designers, and to let authors get on with writing documents. So, in LaTeX you would input this document as:
+
+```latex
+\documentclass{article}
+\title{Cat Preferences for Different Box Sizes}
+\author{Jane Doe}
+\date{September 2020}
+\begin{document}
+   \maketitle
+   Hello cats!
+\end{document}
+```
+
+Or, in English:
+
+* This document is an article.
+* Its title is Cat Preferences for Different Box Sizes.
+* Its author is Jane Doe.
+* It was written in September 2020.
+* The document consists of a title followed by the text Hello world!
+
+The output looks like:
+
+![writing_19](./img/writing/writing_19.png)
+
+[[11] The LaTeX Project](https://www.latex-project.org/about/)
+
+The underlying TEX computer program, created by Donald E. Knuth, is aimed at typesetting text and mathematical formulae. TEX as we use it today is still pretty much the same as the release version in 1982, with some slight enhancements added in 1989 to better support 8-bit characters and multiple languages. TEX is renowned for being extremely stable, for running on many different kinds of computers, and for being virtually bug free. The version number of TEX is converging to π and is now at 3.141592653.
+
+LaTeX uses TeX as its formatting engine and enables authors to typeset and print their work with high typographical quality, using a predefined layout. In a LaTeX environment, LaTeX takes the role of the book designer and uses TEX as its typesetter. But LaTeX is only a program and the author has to provide additional information to describe the logical structure of the work. This information is written into the text as LaTeX commands.
+
+Hence, LaTeX is a markup language and not WYSIWYG (what you see is what you get). You need to compile the pdf. Tags define the general structure of a document (such as article, book, and letter), to stylize text throughout a document (such as bold and italic), and to add citations and cross-references.
+
+![writing_12](./img/writing/writing_12.png)
+[wikipedia](https://en.wikipedia.org/wiki/LaTeX)
+
+LaTeX is the standard in the Computer Science research community. I personally much prefer it over any other tool such as Word. But also LaTeX comes with a lot of heartache to make it work. At times it can be a bit unwieldy and hard to control. My recommendation is that if you need to use formulas you must use LaTeX. The insertion of beautiful formulas is simply the most powerful and easiest in LaTeX. If you have many references and citations, I would also recommend LaTeX. If these two aspects do not apply, other tools might be just as suitable.
+
+Valuable resources are:
+
+* [www.latex-project.org](www.latex-project.org)
+* http://tex.stackexchange.com
+* Software
+    * LaTeX: MiKTeX (Win), TeX Live (Linux), MacTeX (Mac)
+* Write with the text editor of your liking or specific LaTeX editors
+    * TeXstudio, TeXnicCenter
+    * I use VSCode for LaTeX, e.g. with the [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension
+* Web based editors
+    * Overleaf, ShareLatex, Papeeria, …
+* Help with formulas, e.g. the [LaTex equation editor](https://www.tutorialspoint.com/latex_equation_editor.htm)
+
+***Recommendation***: If you feel strongly about a fully customizable, offline environment and don't mind taking some time to set everything up, I recommend Visual Studio Code + [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop). I like this because VSCode is my regular environment and I can use my hot keys and such. However, there is absolutely no need for a local setup. If you want to make your life a bit easier, simply use [Overleaf](https://www.overleaf.com), which is also a great tool and just works out of the box: 1. Create an account, 2. Click "New Project" -> "Upload project" -> Upload the provided .zip template file -> start working in the file `work_files/acsfub-body.tex`.
+
+
+
+![writing_21](./img/writing/writing_21.png) ![writing_23](./img/writing/writing_23.png)  
+[[xkcd]](https://xkcd.com/1301/) [[icancode]](http://icancode.de/1480/latex-comic)
+
+### BibTeX
+
+With LaTeX comes BibTeX. BibTeX is a reference management software for formatting lists of references. The BibTeX tool is typically used together with the LaTeX document preparation system. [[12]](https://en.wikipedia.org/wiki/BibTeX). 
+
+BibTeX offers a text-based format for literature references for LaTeX. A BibTeX database of references is stored as a `.bib` file, which you write as plain text file. References and citations are then automatically created and formatted based on the `.bib` file. Most literature management tools import/export BibTeX entries.
+
+![writing_14](./img/writing/writing_14.png)  
+*On the left you see the .bib file and on the right the automatically produced reference list.*
+
+Once again, you still have to take care of the bib entries in the `.bib` file yourself. To create a consistent and complete BibTeX list of references for a paper takes forever… be aware!
+
+LaTeX and BibTeX files have the advantage that they are simple text files, which fit well to version control systems such as GitHub. In comparison, such version control system often have problems with the tracking of changes in `.docx` files, for example. As with other coding projects, you only commit the source files not their build.
+
+![writing_15](./img/writing/writing_15.png)  
+[[github]](https://github.com/captn3m0/awesome-vcs)  
+
+[[5]](https://www.slideshare.net/rsamurti/introduction-totexandlatex)
+[[6]](https://tobi.oetiker.ch/lshort/lshort.pdf)
 
 
 ## Master Theses

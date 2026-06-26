@@ -18,11 +18,15 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 ### Task 08.01 - Feedback Version (Optional)
 
 
-Put everything you have so far into the [paper template]() (<span style="color: red;">to be added on Friday</span>).
+Put everything you have so far into the [paper template](acsfubPublStyle_2026.zip).
 
 If you submit this work in progress version before July 27th, I will give you feedback before August 7th.
 
 *Submission*: Your work in progress paper as pdf.
+
+#### The LaTeX Template
+
+For writing academic papers, LaTeX is simply is best choice. Please see this [short tutorial](./am_tutorial_latex_overleaf.md) as introduction, and also the [script section](../../02_scripts/am_09_writing_script.md#latex) about it.
 
 
 ### Task 08.02 - The Final Paper
