@@ -68,7 +68,7 @@ The paper must follow the format guidelines otherwise it is not accepted.
 ### Submission
 
 * You only submit a pdf version of your paper.
-* Submissions will be made electronically through the [EasyChair submission system](https://easychair.org/conferences/?conf=acsfub2026). The submission will be open soon.
+* Submissions will be made electronically through the [EasyChair submission system](https://easychair.org/cfp/acsfub2026). The submission will be open soon.
 * Submissions are anonymous. DO NOT INCLUDE YOUR NAME IN THE SUBMITTED PAPER PDF.
 * Submissions are only accepted as pdf [from the given template](../01_sessions/09_paper/acsfubPublStyle_2026.zip).
 
