@@ -12,7 +12,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de
 ## Tutorial - LaTeX with Overleaf
 
 
-> The following tutorial has been written by Claude Code under my guidance and with several changes by me. 
+> The following tutorial has been written by Claude Code under my guidance and with some changes by me. 
 
 ## What is LaTeX?
 
@@ -275,13 +275,6 @@ Some characters have special meaning in LaTeX and must be escaped:
 
 Quotation marks: use ` `` ` to open and `''` to close — e.g. ` ``like this'' ` renders as "like this".
 
----
-
-## Submitting
-
-Export the compiled PDF from Overleaf: **Menu → Download PDF**.
-
-Submit the PDF file named `am_paper_lastname.pdf` to your submissions folder.
 
 ---
 
