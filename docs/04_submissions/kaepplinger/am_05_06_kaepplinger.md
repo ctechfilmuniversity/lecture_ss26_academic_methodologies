@@ -55,3 +55,35 @@ Overall, your text still lacks precision and makes in parts ungrounded claims:
 - "clear guidance on which capture method fits which kind of scene" -> Based on what?
 
 Obviously you need more targeted references :D E.g., on synthetic training data and Unreal Engine as a data source?
+
+---
+
+Due to the scope of a more technical research I switched to a Research question that is a bit broader but seems more interesting to me.
+
+
+# Changed and Updated Research Question
+
+This paper investigates how 3D Gaussian Splatting (3DGS), a recent real-time radiance field method (Kerbl et al., 2023), is being adopted along the Virtual Production (VP) pipeline.
+
+The research question is:
+At which stages of the Virtual Production pipeline is 3DGS currently used, and which benefits and limitations do current workflows and industry practitioners report.
+
+The paper divides the pipeline into three stages and maps recent work onto them. 
++ In environment creation, 3DGS outperforms photogrammetry for virtual backdrops, it is faster to capture, needs less data and looks more real than the old methods (Haslbauer et al., 2025). 
++ In previsualization, Rodeo FX who is one of the main VFX Vendors behind Dune Prophecy turned Sets into splats for real-time digital scouting, so filmmakers can walk through the environment and try out shots before the shoot even starts (Hery, 2025). 
++ However for On-Set, Final-pixel is still the hardest stage, studies report open problems in relighting the splats so they fit the real lighting on the day, and there are also issues with dynamic range and moving content that is not static (Azzarelli et al., 2026). 
+
+The found literature will be complemented by a short online survey for VP professionals from my industry network, testing whether the benefits and limitations reported in publications, such as speed, realism and real-time playback, really match what people actually do on set in practice.
+
+
+## Current Literature List
+
++ Azzarelli, A., Anantrasirichai, N., Pollock, J., et al. (2026). Relightable Gaussian Splatting for Virtual Production Using Image-Based Illumination. arXiv:2605.09024.
+
++ Haslbauer, P., Pullen, M., Reichherzer, C., & Smolic, A. (2025). Gaussian Splatting vs. Classical Photogrammetry: A Comparison for Virtual Backdrops. Lucerne University of Applied Sciences and Arts.
+
++ Hery, J. (2025). The Environments of Dune: Prophecy through the Gaussian Splat. In SIGGRAPH Talks '25. ACM. https://doi.org/10.1145/3721239.3734124
+
++ Kerbl, B., Kopanas, G., Leimkühler, T., & Drettakis, G. (2023). 3D Gaussian Splatting for Real-Time Radiance Field Rendering. ACM Transactions on Graphics, 42(4).
+
++ more to come :D
