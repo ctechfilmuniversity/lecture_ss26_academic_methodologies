@@ -43,7 +43,7 @@ You find all information in [Chapter 01 - ACS FUB](../../02_scripts/am_01_confer
 > That's hard to answer, because for me it was more about conveying information, and there wasn't much to “grasp” or any difficult concepts. So I thought the difficulty level was just right, and overall, everything was very informative and interesting. If there were decimal numbers, I'd give it a 2.5 haha.
 
 * How would you rate the amount of work you had to put into this lecture so far from 1 (no work at all) to 5 (far too much work)?
->If we had to do the homework completely without AI, I would have spent a lot more time on the sentence formulation and likely more than two hours in total. Overall, I thought the workload was fine, though anything more would have been difficult. Still, I liked it as an introduction and exercise for the paper.
+> 3 – If we had to do the homework completely without AI, I would have spent a lot more time on the sentence formulation and likely more than two hours in total. Overall, I thought the workload was fine, though anything more would have been difficult. Still, I liked it as an introduction and exercise for the paper. 
 
 * Which one was your favorite chapter, which one your least favorite?
 >Unfortunately, I missed a few of the lectures, but there wasn't really a single class that I liked more or less than the others, because overall I enjoyed getting a glimpse into that world.
