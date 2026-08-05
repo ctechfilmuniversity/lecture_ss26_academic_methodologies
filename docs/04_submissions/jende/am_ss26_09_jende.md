@@ -6,7 +6,7 @@ nav_exclude: true
 
 **Academic Methodologies**
   
-Maria Jende, 06/24/2026
+Maria Jende, 08/04/2026
 
 <br>
 
@@ -14,7 +14,7 @@ Maria Jende, 06/24/2026
 
 ## Wrapping Up
 
-### Task 08.03 - Course Review
+### Task 09.03 - Course Review
 
 * **How would you rate the difficulty of this lecture from 1 (far too easy) to 5 (far too difficult)?**
 
