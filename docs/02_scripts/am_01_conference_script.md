@@ -131,5 +131,5 @@ All deadlines (all dates 20:00 GMT) are hard. Late submissions are not accepted.
 * 02.10.26: Review Start
 * 16.10.26: Review Due
 * tba: Author Notification
-* tba: Conference
+* 12 and 13.11.26: Conference
   
