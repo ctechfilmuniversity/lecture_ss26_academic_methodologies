@@ -115,10 +115,17 @@ The reviews might give revisions and these must be considered in the final camer
 ### Presentation Schedule
 
 
-| Time | Presenter | Topic |
-| ---- | --------- | ----- |
-|      |           |       |
+The presentation schedule for the ACS FUB 2026, Nov. 11 in room 1104, is as follows:
 
+| Time  | Presenter           | Topic                                                                                                                                                                   |
+| ----- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10:00 | Linus Käpplinger    | Splats on Set: Mapping the Adoption of 3D Gaussian Splatting along the Virtual Production Pipeline                                                                      |
+| 10:45 | Katharina Kleinhans | Data in Motion: Designing Motion-to-Sound Within the Limits of Low-Cost Motion Tracking                                                                                 |
+| 11:30 | Nike Weber          | From Bystander to Participant: Design Factors Shaping the Participation Threshold in Curated Interactive Installations                                                  |
+| 12:15 | Maria Jende         | Why Are Diffusion Model Images Not Watermarked Yet? Obstacles to large-scale Adoption and Resolution Approaches for Initial-Noise Watermarks in Latent Diffusion Models |
+| 15:00 | Amelie Straubmüller | Which Inputs Carry a Style? Custom Style Transfer and Its Cost in Real-Time Diffusion on Consumer Hardware                                                              |
+| 15:45 | Bonita von Gizycki  | Cuteness as a Mechanism of Access: The Hyperfeminine Cyberdeck Community as a Case Study in Maker Culture                                                               |
+| 16:45 | Lynn Haag           | Recentering Autonomy and Human Connection: Social Media Platform Alternatives and Their Value for Communities, Developers, and Local Businessess                        |
 
 
 ## Deadlines
