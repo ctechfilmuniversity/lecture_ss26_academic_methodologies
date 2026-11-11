@@ -32,7 +32,7 @@ I want to understand how cuteness makes maker culture accessible to new audience
 - 🔗 https://profilebooks.com/work/irresistible/
 - This book explains why cuteness triggers such strong emotional and psychological responses, and how cute aesthetics have spread globally across culture and design. It is the primary theoretical source for understanding cuteness as a mechanism, directly relevant to the argument that the hyperfeminine cyberdeck community's cute aesthetic characteristics make maker culture emotionally accessible and inviting.
 
-**Alawsi, A. (2024). The Cyberpunk Elements in William Gibson's Neuromancer. Journal of Language and Linguistic Studies.**
+**S. Arulmurugana, Dr. Abdul Mohammed Ali Jinnah (2024). The Cyberpunk Elements in William Gibson's Neuromancer. Journal of Language and Linguistic Studies.**
 - 🔗 https://www.jlls.org/index.php/jlls/article/viewFile/5562/1980
 - This paper analyses the key cyberpunk elements in William Gibson's Neuromancer, including hacker culture and the cyberdeck as a tool of digital rebellion. It is relevant as an academic source that contextualises the cultural and fictional origins of the cyberdeck concept, against which the contemporary hyperfeminine cyberdeck revival is contrasted.
 
